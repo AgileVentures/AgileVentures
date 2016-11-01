@@ -17,3 +17,12 @@ The slack channels are used to discuss the project in general, for members to ge
 Several projects are now also using Asychronous Voting to estimate stories, see more info on that in [ASYNC_VOTING.md](ASYNC_VOTING.md).  For an overview of how Agile projects work in general, please watch this video:
 
 [![Agile Product Ownership in a Nutshell](https://img.youtube.com/vi/502ILHjX9EE/0.jpg)](https://www.youtube.com/watch?v=502ILHjX9EE)
+
+Every team has the freedom to run their project according to their own principles, but we strongly encourage having a non-technical customer or stakeholders.  We promote many of the tools that are associated with Agile and XP such as BDD, TDD, estimating story complexity, tracking a back log of features, pair programming, code review, continous integration and continuous deployment.
+
+You can see some examples of the workflow of other projects in some of the CONTRIBUTING.md documents: 
+
+* [LocalSupport](https://github.com/AgileVentures/LocalSupport/blob/develop/CONTRIBUTING.md)
+* [WebSiteOne](https://github.com/AgileVentures/WebSiteOne/blob/develop/CONTRIBUTING.md/)
+
+Some projects use Pivotal Tracker to manage their backlog of stories, while others use Waffle, or Trello, or Jira.  If you have any questions whatsoever please don't hesitate to ask in our [ProjectSupport](https://agileventures.slack.com/messages/project_support/) channel on Slack.  If at any point you find you are waiting too long for an answer, feel free to tag @tansaku in that channel to get additional attention :-)
