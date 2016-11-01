@@ -26,3 +26,7 @@ You can see some examples of the workflow of other projects in some of the CONTR
 * [WebSiteOne](https://github.com/AgileVentures/WebSiteOne/blob/develop/CONTRIBUTING.md/)
 
 Some projects use Pivotal Tracker to manage their backlog of stories, while others use Waffle, or Trello, or Jira.  If you have any questions whatsoever please don't hesitate to ask in our [ProjectSupport](https://agileventures.slack.com/messages/project_support/) channel on Slack.  If at any point you find you are waiting too long for an answer, feel free to tag @tansaku in that channel to get additional attention :-)
+
+Sam Joseph (@tansaku) [blogs daily](http://nonprofits.agileventures.org/blog/) on his project experience in AgileVentures.  While these are not guides to getting specific things done, the blog posts attempt to expose the nitty gritty of Agile decision making in real projects:
+
+http://nonprofits.agileventures.org/blog/
