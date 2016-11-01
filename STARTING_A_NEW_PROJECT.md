@@ -16,5 +16,4 @@ The slack channels are used to discuss the project in general, for members to ge
 
 Several projects are now also using Asychronous Voting to estimate stories, see more info on that in [ASYNC_VOTING.md](ASYNC_VOTING.md).  For an overview of how Agile projects work in general, please watch this video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/502ILHjX9EE" frameborder="0" allowfullscreen></iframe>
-
+[![Agile Product Ownership in a Nutshell](https://img.youtube.com/vi/502ILHjX9EE/0.jpg)](https://www.youtube.com/watch?v=502ILHjX9EE)
