@@ -22,4 +22,6 @@ One of the key things is to try and make contact with the "project managers" for
 * [DDA pallet](https://agileventures.slack.com/messages/dda-pallet/) - Michael Jerger
 * [VisitMeet](https://agileventures.slack.com/messages/visitmeet/) - Bishisht Bhatta
 
-If you're not receiving responses in a project channel, try adding @tansaku (or appropriate PM slack name tag) to your message in that channel, to highlight that you need help moving forward
+If you're not receiving responses in a project channel, try adding @tansaku (or appropriate PM slack name tag) to your message in that channel, to highlight that you need help moving forward.
+
+We also recommend reading over any pull requests that the project has open.  You don't have to comment, but you can get a lot from just reading the pull requests, seeing what issues they are trying to address, looking at the code changes.  If you're up for it please do make comments in the pull requests and join the discussion about the changes being made.
