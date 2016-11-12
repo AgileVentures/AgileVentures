@@ -24,7 +24,7 @@ Usually online scrums are run in Google Hangouts, and since from a technical poi
 
 The person who started the hangout will also need to click "Start Broadcast" for the hangout to be recorded, and the hangout will stream and be recorded to that person's YouTube account.  The person who started will also have control of which video feed appears in the recording - either auto-switching based on audio, or locked to a particular feed.
 
-Recent changes to the Google Hangouts API have made the process of starting a Scrum more laborious.   The "Start Hangout on Air" button now redirects to a set of instructions about how to start a YouTube Live event.  If you are logged in to a verified YouTube account you can start a YouTube live event directly from the following link:
+In some cases the Google Hangouts API may fail.   The "Start Hangout on Air" button has in the past redirected to a set of instructions about how to start a YouTube Live event.  If you are logged in to a verified YouTube account you can start a YouTube live event directly from the following link:
 
 https://www.youtube.com/my_live_events?action_create_live_event=1
 
