@@ -25,3 +25,11 @@ One of the key things is to try and make contact with the "project managers" for
 If you're not receiving responses in a project channel, try adding @tansaku (or appropriate PM slack name tag) to your message in that channel, to highlight that you need help moving forward.
 
 We also recommend reading over any pull requests that the project has open.  You don't have to comment, but you can get a lot from just reading the pull requests, seeing what issues they are trying to address, looking at the code changes.  If you're up for it please do make comments in the pull requests and join the discussion about the changes being made.
+
+Not much time to spare?
+----------------------
+
+* <15 minutes to spare?  Review a pull request, vote on a ticket, or even start a new vote
+* <30 minutes to spare? join a scrum and say hi, give us an update on what you're doing, read a project's documentation; observe a pairing session
+* <60 minutes to spare? Start getting set up with a code base for a new project
+* <90 minutes to spare? Start working on a ticket, join a pairing session
