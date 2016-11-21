@@ -15,6 +15,7 @@ This information may later be put into a database and displayed on the AgileVent
 
 ##Joining a Project
 
+see [JOINING_A_PROJECT.md](JOINING_A_PROJECT.md)
 
 ##Discussing Things on Slack
 
@@ -33,6 +34,7 @@ This information may later be put into a database and displayed on the AgileVent
 
 ##Premium Membership
 
+see http://www.agileventures.org/pricing
 
 ##Sponsors
 
