@@ -3,9 +3,9 @@ Starting a New Project
 
 Anybody can start a new project in AgileVentures.  We are strongly committed to open source and open development, and we focus on charity and non-profit projects because the majority of work done in AgileVentures comes from volunteers.  We can consider projects from for-profit enterprises, but we will require a strong committment to open source and open development.
 
-If you want to start a new project please talk to us about it in the [new projects channel](https://agileventures.slack.com/messages/new_projects) on our AV slack instance.  You can also create a project page on the AgileVentures site itself by going to http://www.agileventures.org/projects/new
+If you want to start a new project please talk to us about it in the [new projects channel](https://agileventures.slack.com/messages/new_projects) on our AV slack instance.  You can also create a project page on the AgileVentures site itself by going to http://www.agileventures.org/projects/new.
 
-We can also set up a dedicated project channel for you on slack.  See some of the existing active project channels for examples of project activity: 
+We can also set up a dedicated project channel for you on slack.  See some of the existing active project channels for examples of project activity:
 
 * [LocalSupport](https://agileventures.slack.com/messages/localsupport/)
 * [WebSiteOne](https://agileventures.slack.com/messages/websiteone/)
@@ -18,9 +18,9 @@ Several projects are now also using Asychronous Voting to estimate stories, see 
 
 [![Agile Product Ownership in a Nutshell](https://img.youtube.com/vi/502ILHjX9EE/0.jpg)](https://www.youtube.com/watch?v=502ILHjX9EE)
 
-Every team has the freedom to run their project according to their own principles, but we strongly encourage having a non-technical customer or stakeholders.  We promote many of the tools that are associated with Agile and XP such as BDD, TDD, estimating story complexity, tracking a back log of features, pair programming, code review, continous integration and continuous deployment.
+Every team has the freedom to run their project according to their own principles, but we strongly encourage having a non-technical customer or stakeholders.  We promote many of the techniques that are associated with Agile and XP such as BDD, TDD, estimating story complexity, tracking a backlog of features, pair programming, code review, continous integration and continuous deployment.
 
-You can see some examples of the workflow of other projects in some of the CONTRIBUTING.md documents: 
+You can see some examples of the workflow of other projects in some of the CONTRIBUTING.md documents:
 
 * [LocalSupport](https://github.com/AgileVentures/LocalSupport/blob/develop/CONTRIBUTING.md)
 * [WebSiteOne](https://github.com/AgileVentures/WebSiteOne/blob/develop/CONTRIBUTING.md/)
