@@ -15,16 +15,29 @@ This information may later be put into a database and displayed on the AgileVent
 
 ##Joining a Project
 
-see [JOINING_A_PROJECT.md](JOINING_A_PROJECT.md)
+<details>
+  <summary>How do I join an existing project?</summary>
+  see [JOINING_A_PROJECT.md](JOINING_A_PROJECT.md)
+</details>
+
+
 
 ##Discussing Things on Slack
 
+Can I talk about anything on Slack?
+How do I get someone's attention on Slack?
 
 ##Pair Programming
 
+Do I have to Pair Program?
+How can I find a Pair Partner?
+Do I have to share video from my webcam in a pairing session?
 
 ##Scrums
 
+What are Scrums?
+When are Scrums?
+Who can participate in a Scrum?
 
 ##Events (Hangouts)
 
@@ -38,6 +51,8 @@ see http://www.agileventures.org/pricing
 
 ##Sponsors
 
+How do I become a Sponsor?
+
 ##Projects for Non-Profits
 
-
+What kind of projects will AgileVentures support?
