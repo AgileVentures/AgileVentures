@@ -1,6 +1,8 @@
 Starting a New Project
 ----------------------
 
+:construction: UNDER CONSTRUCTION :construction:
+
 Anybody can start a new project in AgileVentures, however we STRONGLY RECOMMEND that anyone starting a project complete at least three features for existing AgileVentures projects in order to experience AgileVentures' project workflow.  We are strongly committed to open source and open development, and we focus on charity and non-profit projects because the majority of work done in AgileVentures comes from volunteers.  We can consider projects from for-profit enterprises, but we will require a strong committment to open source and open development.
 
 If you want to start a new project please talk to us about it in the [new projects channel](https://agileventures.slack.com/messages/new_projects) on our AV slack instance.  You can also create a project page on the AgileVentures site itself by going to http://www.agileventures.org/projects/new.
