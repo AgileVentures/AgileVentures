@@ -1,6 +1,8 @@
 Joining a Project
 -----------------
 
+:construction: UNDER CONSTRUCTION :construction:
+
 Naturally pull down the code and see if you can run the tests and app locally.  Don't suffer in silence; if you get stuck on any part of install, or deployment then ask for help in the slack chat room for the project, or open a github issue.
 
 Having joined the slack channel for the relevant project, we encourage you to read everything that is taking place there, and joining in any [asynchronous voting](https://github.com/AgileVentures/AgileVentures/blob/master/ASYNC_VOTING.md) that takes place there.  Say hello in the chat and ask if there is any way you could help.
