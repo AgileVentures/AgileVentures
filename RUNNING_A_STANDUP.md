@@ -1,6 +1,8 @@
 Running a Standup (or Scrum Meeting)
 -----------------------------------
 
+:construction: UNDER CONSTRUCTION :construction:
+
 Standups (or Scrums) are short meeting that are time capped.  Scrums in AgileVentures are usually 15 minutes.  The key idea is that everybody who is present gets to give a quick update on what they've been doing, anything they are stuck on and their immediate plans.
 
 Nobody likes long meetings, and the job of the Scrum master is to keep the meeting short, and ensure that when longer conversations break out they are moved to the end of the Scrum, or a future meeting.  It is possible to run such a meeting without an explicit Scrum master, with each participant just taking a turn to update on the same set of questions.  Common question sets that participants ask themselves, or are asked by the Scrum master, are as follows:
