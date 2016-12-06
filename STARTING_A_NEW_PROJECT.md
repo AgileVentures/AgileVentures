@@ -7,6 +7,8 @@ Anybody can start a new project in AgileVentures, however we STRONGLY RECOMMEND 
 
 If you want to start a new project please talk to us about it in the [new projects channel](https://agileventures.slack.com/messages/new_projects) on our AV slack instance.  You can also create a project page on the AgileVentures site itself by going to http://www.agileventures.org/projects/new.
 
+Please be aware that we require projects to follow an *agile methodology* as outlined [here](https://github.com/AgileVentures/AgileVentures/blob/master/RUNNING_A_PROJECT.md).
+
 We can also set up a dedicated project channel for you on slack.  See some of the existing active project channels for examples of project activity:
 
 * [LocalSupport](https://agileventures.slack.com/messages/localsupport/)
