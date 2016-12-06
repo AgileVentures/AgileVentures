@@ -1,6 +1,8 @@
 Async Vote How To
 -----------------
 
+:construction: UNDER CONSTRUCTION :construction:
+
 To start an asynchronous vote on a story, bug fix or chore in a text chat channel, start by identifying a ticket you would like to be estimated in terms of complexity of 1 (simple), 2 (medium) or 3 (hard), e.g. 
 
 https://www.pivotaltracker.com/story/show/132571845
