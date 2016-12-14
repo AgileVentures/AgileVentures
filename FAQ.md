@@ -70,6 +70,8 @@ This information may later be put into a database and displayed on the AgileVent
 
 ##Events (Hangouts)
 
+* How do I effectively run a hangout with a live stream?
+
 
 ##About AgileVentures (Vision, History)
 
