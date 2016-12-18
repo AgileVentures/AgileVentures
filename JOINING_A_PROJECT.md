@@ -35,7 +35,7 @@ We also recommend reading over any pull requests that the project has open.  You
 Not much time to spare?
 ----------------------
 
-* <15 minutes to spare?  Review a pull request, vote on a ticket, or even start a new vote
+* <15 minutes to spare?  Review a pull request, [vote on a ticket](https://github.com/AgileVentures/AgileVentures/blob/master/ASYNC_VOTING.md), or even start a new vote
 * <30 minutes to spare? join a scrum and say hi, give us an update on what you're doing, read a project's documentation; observe a pairing session
 * <60 minutes to spare? Start getting set up with a code base for a new project
 * <90 minutes to spare? Start working on a ticket, join a pairing session
