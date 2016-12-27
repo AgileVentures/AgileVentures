@@ -3,7 +3,13 @@ Joining a Project
 
 :construction: UNDER CONSTRUCTION :construction:
 
-Naturally pull down the code and see if you can run the tests and app locally.  Don't suffer in silence; if you get stuck on any part of install, or deployment then ask for help in the slack chat room for the project, or open a github issue.
+So you want to join an open source project?  Your motivations are probably a combination of wanting to contribute something for the greater good, honing your tech skills, and/or just fixing an issue with a piece of open source software that's bugging you because it's preventing you getting on with something else.
+
+Making a single contribution to an open source project doesn't commit you to being a lifelong project member.  Many individuals make a single contribution to a project and then move on.   However, whether you've got your eye on a single bug-fix, or getting involved for a longer period there are some things you can do to get the most out of the experience, and maximise the chances that your contribution will be a positive one for both you, the project and the project community.
+
+If your contribution is a simple documentation or cosmetic fix, you can potentially get straight to it, particularly if you use something like GitHub's Web interface to directly suggest a change.  Conversely, if you're proposing making changes to the project code itself, it makes sense to get all the application code and tests running for you on a machine you control.  This might mean getting them running on your local machine, or even on a machine in the cloud provided by an IaaS such as AWS (or on C9).  How hard this is to do will depend on the project, but having all the tests running means that you can verify yourself whether any change you've made has broken other functionality in the application.
+
+So pull down the code and see if you can run the tests and app locally.  Don't suffer in silence; if you get stuck on any part of install, or deployment then ask for help in the slack chat room for the project, or open a github issue.
 
 Having joined the slack channel for the relevant project, we encourage you to read everything that is taking place there, and joining in any [asynchronous voting](https://github.com/AgileVentures/AgileVentures/blob/master/ASYNC_VOTING.md) that takes place there.  Say hello in the chat and ask if there is any way you could help.
 
