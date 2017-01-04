@@ -20,9 +20,13 @@ Or (more simply)
 
 * How are things going with you?
 
-In AgileVentures we run Scrums online.  Some may be open to all projects, such as the "Kent Beck", "Martin Fowler", PacificRim and "Bob Martin" scrums, while others may be specific to individual projects.  The idea of the "open" scrums is that participants get to hear about activities in other projects, and learn how things operate in the decentralized structure of AgileVentures.
+In AgileVentures we run Scrums online.  Some may be open to all projects, such as the "Kent Beck", "Martin Fowler", PacificRim and "Bob Martin" scrums, while others may be specific to individual projects.  The idea of the "open" scrums is that participants get to hear about activities in other projects, and learn how things operate in the decentralized structure of AgileVentures.  Where possible please start scrums via the AgileVentures website:
 
-Usually online scrums are run in Google Hangouts, and since from a technical point of view one person has to start the hangout, it often falls to that person to run the Scrum.  It can be a different person, or there might be no explicit host/master; but it often helps to have one person "running" things, particularly if there are new members, or we just want to avoid confusion about who is speaking next, or whether a conversation has run on too long.
+![Americas "Dave Thomas" Scrum](https://www.dropbox.com/s/p0lfbpjh4l5kw9w/Screenshot%202017-01-04%2013.43.52.png?dl=1)
+
+10 minutes before a scrum is due to go live a "Start a Hangout on Air" button will appear next to the "event actions" dropdown.  Clicking this button will start a Google Hangout, and if everything goes well it will notify several AgileVentures slack channels as well as making the main AgileVentures landing page include a link to the hangout.  
+
+Often, but not always, the person who starts the hangout will also run the Scrum.  It can be a different person, or there might be no explicit host/master; but it often helps to have one person "running" things, particularly if there are new members, or we just want to avoid confusion about who is speaking next, or whether a conversation has run on too long.
 
 The person who started the hangout will also need to click "Start Broadcast" for the hangout to be recorded, and the hangout will stream and be recorded to that person's YouTube account.  The person who started will also have control of which video feed appears in the recording - either auto-switching based on audio, or locked to a particular feed.
 
