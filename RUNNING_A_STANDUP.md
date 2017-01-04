@@ -20,7 +20,7 @@ Or (more simply)
 
 * How are things going with you?
 
-In AgileVentures we run Scrums online.  Some may be open to all projects, such as the "Kent Beck", "Martin Fowler", PacificRim and "Bob Martin" scrums, while others may be specific to individual projects.  The idea of the "open" scrums is that participants get to hear about activities in other projects, and learn how things operate in the decentralized structure of AgileVentures.  Where possible please start scrums via the AgileVentures website:
+In AgileVentures we run Scrums online.  Some may be open to all projects, such as the "Kent Beck", "Martin Fowler", PacificRim and "Bob Martin" scrums, while others may be specific to individual projects.  The idea of the "open" scrums is that participants get to hear about activities in other projects, and learn how things operate in the decentralized structure of AgileVentures.  Where possible please start scrums via the [AgileVentures website](http://www.agileventures.org/events):
 
 ![Americas "Dave Thomas" Scrum](https://www.dropbox.com/s/p0lfbpjh4l5kw9w/Screenshot%202017-01-04%2013.43.52.png?dl=1)
 
