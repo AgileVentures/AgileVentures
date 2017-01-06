@@ -3,11 +3,34 @@ Joining a Project
 
 :construction: UNDER CONSTRUCTION :construction:
 
+
+* [Motivation for contributing to OS](#motivation-for-contributing-to-os)
+* [Length of commitment](#length-of-commitment)
+* [Type of contribution](#type-of-contribution)
+  - [Documentation vs Code](#documentation-vs-code)
+  - [Importance of installing and testing locally](#importance-of-installing-and-testing-locally)
+* [What to do when stuck installing and/or testing](#what-to-do-when-stuck-installing-and/or-testing)
+* [When and how to reach out](#when-and-how-to-reach-out)
+* [Understanding the project contribution flow](#understanding-the-project-contribution-flow)
+* [Going with the flow](#going-with-the-flow)
+* [Reading the project documentation](#reading-the-project-documentation)
+* [Submitting your first “pull request”](#submitting-your-first-"pull-request")
+* [How to contribute when you have limited time](#how-to-contribute-when-you-have-limited-time)
+
+
+##Motivation for Contributiing to OS
+
 So you want to join an open source project?  Your motivations are probably a combination of wanting to contribute something for the greater good, honing your tech skills, and/or just fixing an issue with a piece of open source software that's bugging you because it's preventing you getting on with something else.
+
+##Length of Commitment
 
 Making a single contribution to an open source project doesn't commit you to being a lifelong project member.  Many individuals make a single contribution to a project and then move on.   However, whether you've got your eye on a single bug-fix, or getting involved for a longer period there are some things you can do to get the most out of the experience, and maximise the chances that your contribution will be a positive one for both you, the project, and the project community.
 
+##Type of contribution
+
 If your contribution is a simple documentation or cosmetic fix, you may be able to get straight to it, particularly if you use something like GitHub's Web interface to directly suggest a change.  Conversely, if you're proposing making changes to the project code itself, it makes sense to get all the application code and tests running for you on a machine you control.  This might mean getting them running on your local machine, or even on a machine in the cloud provided by an IaaS such as AWS (or on C9).  How hard this is to do will depend on the project, but having all the tests running means that you can verify yourself whether any change you've made has broken other functionality in the application.
+
+##What to do when stuck installing and/or testing
 
 So pull down the code and see if you can run the tests and app locally.  Don't suffer in silence; if you get stuck on any part of install, or deployment then ask for help in the Slack chat room for the project, or open a GitHub issue.
 
@@ -45,3 +68,9 @@ Not much time to spare?
 * <30 minutes to spare? join a scrum and say hi, give us an update on what you're doing, read a project's documentation; observe a pairing session
 * <60 minutes to spare? Start getting set up with a code base for a new project
 * <90 minutes to spare? Start working on a ticket, join a pairing session
+
+
+References
+----------
+
+* [GitHub's guide to contributing to an open source project](https://guides.github.com/activities/contributing-to-open-source/)
