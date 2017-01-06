@@ -9,7 +9,7 @@ Joining a Project
 * [Type of contribution](#type-of-contribution)
   - [Documentation vs Code](#documentation-vs-code)
   - [Importance of installing and testing locally](#importance-of-installing-and-testing-locally)
-* [What to do when stuck installing and/or testing](#what-to-do-when-stuck-installing-and/or-testing)
+* [What to do when stuck installing or testing](#what-to-do-when-stuck-installing-or-testing)
 * [When and how to reach out](#when-and-how-to-reach-out)
 * [Understanding the project contribution flow](#understanding-the-project-contribution-flow)
 * [Going with the flow](#going-with-the-flow)
@@ -30,7 +30,7 @@ Making a single contribution to an open source project doesn't commit you to bei
 
 If your contribution is a simple documentation or cosmetic fix, you may be able to get straight to it, particularly if you use something like GitHub's Web interface to directly suggest a change.  Conversely, if you're proposing making changes to the project code itself, it makes sense to get all the application code and tests running for you on a machine you control.  This might mean getting them running on your local machine, or even on a machine in the cloud provided by an IaaS such as AWS (or on C9).  How hard this is to do will depend on the project, but having all the tests running means that you can verify for yourself whether any change you've made has broken other functionality in the application.
 
-##What to do when stuck installing and/or testing
+##What to do when stuck installing or testing
 
 So pull down the code and see if you can run the tests and app locally.  Don't suffer in silence; if you get stuck on any part of install, or deployment then ask for help in the Slack chat room for the project, or open a GitHub issue.
 
