@@ -24,3 +24,5 @@ Anyone can start a vote, and please feel free to ask any question about any tick
 The most important thing is that we share what we are working on (or thinking about working on) with the rest of the team so we can all coordinate our efforts to be most effective
 
 Project coordinators will also be very happy to help you set up pair programming if you are interested in that :slightly_smiling_face:
+
+Please do review PivotalTracker's [Getting Started](https://www.pivotaltracker.com/help/articles/quick_start/) material for more on how to work with PivotalTracker.
