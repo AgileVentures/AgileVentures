@@ -72,13 +72,19 @@ If you're not receiving responses in a project channel, try adding @tansaku (or 
 
 We also recommend reading over any pull requests that the project has open.  You don't have to comment, but you can get a lot from just reading the pull requests, seeing what issues they are trying to address, looking at the code changes.  If you're up for it please do make comments in the pull requests and join the discussion about the changes being made.
 
+##Submitting your first “pull request”
+
+Most projects will prefer to receive contributions through the form of "pull requests", a confusing term that means a request to pull some code or documentation into the project.  GitHub has good [documentation on pull requests and how to make them](https://help.github.com/articles/about-pull-requests/).  Simple pull requests may even be made directly through the GitHub web interface, but they will usually involve you checking out the codebase, making changes in a feature branch and then submitting a pull request to one of the main project branches so that it can be reviewed by the rest of the project team, feedback given, and then ultimately pulled into the main codebase by the project maintainers.
+
 Not much time to spare?
 ----------------------
 
-* <15 minutes to spare?  Review a pull request, [vote on a ticket](https://github.com/AgileVentures/AgileVentures/blob/master/ASYNC_VOTING.md), or even start a new vote
-* <30 minutes to spare? join a scrum and say hi, give us an update on what you're doing, read a project's documentation; observe a pairing session
-* <60 minutes to spare? Start getting set up with a code base for a new project
-* <90 minutes to spare? Start working on a ticket, join a pairing session
+You might not have the time required to get set up with the complete codebase, and work through fixing a bug, completing a chore or implementing a story, but there are still lots of ways you can help.  See the list below for how to contribute based on the chunk of time you've got available:
+
+* &lt:15 minutes to spare?  Review a pull request, [vote on a ticket](https://github.com/AgileVentures/AgileVentures/blob/master/ASYNC_VOTING.md), or even start a new vote
+* &lt:30 minutes to spare? join a scrum and say hi, give us an update on what you're doing, read a project's documentation; observe a pairing session
+* &lt:60 minutes to spare? Start getting set up with a code base for a new project
+* &lt:90 minutes to spare? Start working on a ticket, join a pairing session
 
 
 References
