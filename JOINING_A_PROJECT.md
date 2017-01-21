@@ -66,11 +66,11 @@ A great way to get oriented to a project is to ask for an overview session with 
 Since the Agile Ventures staffing model relies primarily on volunteers, team compositions tend to be fluid
 as people come and go.  As a result, projects need to "on-board" new members quite often.
 
-If you're not receiving responses in a project channel, try adding @tansaku (or appropriate PM slack name tag) to your message in that channel, to highlight that you need help moving forward.
+If you're not receiving responses in a project channel, try adding @tansaku (or appropriate PM slack name tag) to your message in that channel, to highlight that you need help moving forward.  Each project will likely have a slightly different project contribution flow.  Usually there will be some issue/ticket tracking system (e.g. Waffle, PivotalTracker, Jira, GitHub Issues/Projects) indicating work that is in progress, ready to get started, and possibles for the future.  Check with the individual project managers, and see the specific projects documentation.
 
 ##Going with the flow
 
-We also recommend reading over any pull requests that the project has open.  You don't have to comment, but you can get a lot from just reading the pull requests, seeing what issues they are trying to address, looking at the code changes.  If you're up for it please do make comments in the pull requests and join the discussion about the changes being made.
+We recommend reading over any pull requests that the project has open.  You don't have to comment, but you can get a lot from just reading the pull requests, seeing what issues they are trying to address, looking at the code changes.  If you're up for it please do make comments in the pull requests and join the discussion about the changes being made.  Remember that you're not working in isolation.  By contributing to an open source project you are "joining the team".  You may not stay long, but your contribution doesn't exist in a vacuum.   The more you understand what other team members are working on, the more you can learn from them, and the more effective you can be at contributing something that doesn't conflict with, and hopefully complements, the changes they are making.
 
 ##Submitting your first “pull request”
 
@@ -81,10 +81,10 @@ Not much time to spare?
 
 You might not have the time required to get set up with the complete codebase, and work through fixing a bug, completing a chore or implementing a story, but there are still lots of ways you can help.  See the list below for how to contribute based on the chunk of time you've got available:
 
-* &lt;15 minutes to spare?  Review a pull request, [vote on a ticket](https://github.com/AgileVentures/AgileVentures/blob/master/ASYNC_VOTING.md), or even start a new vote
-* &lt;30 minutes to spare? join a scrum and say hi, give us an update on what you're doing, read a project's documentation; observe a pairing session
-* &lt;60 minutes to spare? Start getting set up with a code base for a new project
-* &lt;90 minutes to spare? Start working on a ticket, join a pairing session
+* &lt; 15 minutes to spare?  Review a pull request, [vote on a ticket](https://github.com/AgileVentures/AgileVentures/blob/master/ASYNC_VOTING.md), or even start a new vote
+* &lt; 30 minutes to spare? join a scrum and say hi, give us an update on what you're doing, read a project's documentation; observe a pairing session
+* &lt; 60 minutes to spare? Start getting set up with a code base for a new project
+* &lt; 90 minutes to spare? Start working on a ticket, join a pairing session
 
 
 References
