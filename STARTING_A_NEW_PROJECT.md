@@ -36,3 +36,7 @@ Some projects use Pivotal Tracker to manage their backlog of stories, while othe
 Sam Joseph (@tansaku) [blogs daily](http://nonprofits.agileventures.org/blog/) on his project experience in AgileVentures.  While these are not guides to getting specific things done, the blog posts attempt to expose the nitty gritty of Agile decision making in real projects:
 
 http://nonprofits.agileventures.org/blog/
+
+##Recommended Reading:
+
+* [Karl Fogel on getting an open source project started](http://producingoss.com/en/getting-started.html)
