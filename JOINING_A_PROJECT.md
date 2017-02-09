@@ -58,7 +58,6 @@ One of the key things is to try and make contact with the "project managers" for
 * [Redeemify](https://agileventures.slack.com/messages/redeemify/) - Matt Lindsey (and Armando Fox)
 * [ProjectScope](https://agileventures.slack.com/messages/projectscope/) - Michael C (and Sam Joseph)
 * [DDA pallet](https://agileventures.slack.com/messages/dda-pallet/) - Michael Jerger
-* [VisitMeet](https://agileventures.slack.com/messages/visitmeet/) - Bishisht Bhatta
 
 Project managers will often be maintaining projects in their spare time, and be trying to hold down paid jobs and manage all sorts of other life complexities.  Try to avoid reaching out to them individually if possible.  You may feel shy and/or embarrassed to ask questions in a public project channel, but most project maintainers will be eternally grateful if you do.  Asking for suggestions of things to work on, or help and support in a shared channel has the key benefits of reducing pressure on the project maintainers (as other team members can offer help) and also show the pulse of the project, i.e. that people are interested in contributing.  Sensible project maintainers will always do their best to ensure that any question or concern shared in a public channel is met with consideration and understanding.  
 
