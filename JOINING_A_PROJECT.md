@@ -27,24 +27,42 @@ So you want to join an Open Source software project?  Your motivations are proba
 
 Making a single contribution to an Open Source project doesn't commit you to being a lifelong project member.  Many individuals make a single contribution to a project and then move on.   However, whether you've got your eye on a single bug-fix, or getting involved for a longer period, there are some things you can do to get the most out of the experience, and maximise the chances that your contribution will be a positive one for both you, the project, and the project community.
 
-###What's a Bug Fix?
+###What's a Bug Fix? (sidebar)
 
 The term "bug" predates computers and software and has been used for many years to describe glitches or problems with mechanical systems.  To fix a software bug is to make a change to the code that removes an unanticipated problem in the software execution. Thus one common type of contribution to Open Source projects is a "bug-fix"; a change or set of changes to the code that removes the bug. 
 
 ##Type of contribution
 
-If your contribution is a simple documentation or cosmetic fix, you may be able to get straight to it, particularly if you use something like GitHub's web interface to directly suggest a change.  Conversely, if you're proposing making changes to the project code itself, it makes sense to get all the application code and tests running for you on a machine you control.  This might mean getting them running on your local machine, or even on a machine in the cloud provided by an IaaS such as AWS (or on C9).  How hard this is to do will depend on the project, but having all the tests running means that you can verify for yourself that any change you've made has not inadvertently broken other functionality in the application.
+If your contribution is a simple documentation or cosmetic fix, you may be able to get straight to it, particularly if you use something like GitHub's web interface to directly suggest a change.  Conversely, if you're proposing making changes to the project code itself, it makes sense to get all the application code and tests running for you on a machine you control.  This might mean getting the tests running on your local machine, or even on a machine in the cloud provided by an IaaS such as AWS (or on C9).  How hard this is to do will depend on the project, but having all the tests running means that you can verify for yourself that any change you've made has not inadvertently broken other functionality in the application.
 
-[SideBar on Testing]
-[SideBar on IaaS vs local vs C9]
+###Testing (Sidebar?)
+
+Many codebases will be split into two sorts of code; application code that gets the job done, and testing code that checks that the application code is doing the correct job.  Projects differ about the amount and type of testing code that is necessary in order for changes to be accepted.  The presence of tests can in principle allow developers to detect bugs that would otherwise creep in to the end user experience of the project.  A well-designed and maintained test suite with the right balance of fast running low-level unit tests, intermediate-level integration tests and high-level acceptance tests, can alert developers  to unanticipated knock-on side-effets of new code changes, particularly if Continuous Integration (CI) systems are used to automatically run those tests on every proposed change.
+
+Continuous Integration systems (such as Travis, CodeShip, Semaphore, CircleCI, SnapCI, etc.) can give a green or red light to merging in changes from both core team members and new contributors alike.  However the presence of tests does not guarantee that those tests are testing the right thing, and although there are metrics such as "Test Coverage" that can give an indication of how much of the code base is exercised by the test suite, there is no guarantee that all possible bugs and problems will be excluded.   Sometimes all tests will be passing, but the high-level acceptance tests will not capture an important corner case.  In addition indeterminately failing and long running tests may add to the overall development burden, and creating the correct test can often stretch the skills of any developer.  For a contributor short on time, writing a test in addition to their proposed change may be impractical. 
+
+However, in the absence of any tests, only extensive manual testing by the developers can unearth complex bugs.  Keeping things as simple as possible and following a coherent underlying design are going to be important independently of the nature and composition of a projects test suite.  Either way, in order to have your contribution accepted into an Open Source code base you will need to follow the project guidelines on the degree of automated testing that should be included in your submission.
+
+
+###Machines you control (Sidebar?)
+
+In the ideal world the application code and full test suite of an Open Source project will run on any machine available.  In reality the codebase of most projects will run well on a limited subset of machines not too different from those the maintainer and the core team are using.  Thus, if the team is mainly using a particular version of OSX, then you'll probably not have too much trouble installing and running the code on similar versions of OSX, but will be increasingly likely to encounter problems as the version differences increase and/or you try to run the system on Windows or Linux or other system.  Sometimes these problems can be frustratingly insurmountable.  The project may have limited resources to test on every platform available, and perhaps your first contribution will be documentation on how to successfully install and run the test suite on a new platform.
+
+Sometimes you'll have access to a sufficiently similar machine, but it will be under-resourced so that while the project maintainers can run the test suite locally in a couple of minutes, you'll be struggling to see it finish in less than an hour, and this can serve as a serious impediment to contributing.  These days you don't have to be constrainted by a physical machine of your own, and with a good internet connection and a credit card you can get terminal (text-only) access to Linux (and other OS) machines of standard shapes and sizes via Infrastructure as a Service (IaaS) providers such as Amazon (AWS), Digital Ocean and Microsoft Azure.  There are also services such as Cloud9 (C9) which will give you an IDE environment in the browser to manipulate the code in your AWS machine.   There are also hypervisor systems which allow you to create virtual machines on your local machine, which allow you to, for example, run Linux on a Windows machine and so forth.
+
+None of these solutions is without it's downsides.  If your internet connection is spotty then cloud based IDEs will be frustrating to use, and if you don't have access to a credit card, or have limited funds, then you might run up against the size and speed constraints of the free tiers of such services.  Adding virtual machines on top of your local machine can help you sidestep certain installation issues, but then the application and associated test suites will run more slowly than a native installation.   In the long run, if you want to be a serious contributor to a project you'll probably want to get set up with similar computing resources to the core project team.  In the meantime there are a lot of options for one-off or short term contributors; so be sure to talk to the team about which alternatives have worked well for others and match your own resources.
+
 
 ##What to do when stuck installing or testing
 
 So pull down the code and see if you can run the tests and app locally. Given a bit of luck the code and tests will all just run on your machine.  Project maintainers will be doing their best to be platform independent, but differences in your machine setup may lead to problems. Don't suffer in silence; if you get stuck on any part of install, running the tests, or operating the code then look into how to get help.  Projects will often state in their README or CONTRIBUTING documents whether you should post to a mailing list, open a GitHub issue or ask for help in a text chat room hosted on IRC, Slack, Gitter or similar.  AgileVentures projects have a Slack chat room for every project, and it's best to ask somewhere, even if you get redirected to ask somewhere else.  If you are asked to follow up somewhere else, don't feel too bad; just follow the suggestion and you'll get to the place where you can get support.
 
-[SideBar on Pulling down code]
-[SideBar on IaaS vs local vs C9]
-[SideBaron READMEs and CONTRIBUTING docs]
+###How to pull down code
+
+Pulling down the code to a machine you control will often involve a version control system such as git, subversion or similar.  Git is the flavour of choice these days, and while you can still download packages of code in a single file for some projects, getting set up with the version control system the project is currently using is essential for making serious contributions to the codebase.  Git repository hosting providers such as GitHub, GitLab and BitBucket provide git repository hosting for Open Source projects that can be easily cloned to your local or virtual machine via git commands from the command line.
+
+[SideBar on the correct place to ask]
+[SideBar on READMEs and CONTRIBUTING docs]
 
 ##When and how to reach out
 
@@ -118,4 +136,5 @@ You might not have the time required to get set up with the complete codebase, a
 References
 ----------
 
+* [Git Basics: Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 * [GitHub's guide to contributing to an open source project](https://guides.github.com/activities/contributing-to-open-source/)
