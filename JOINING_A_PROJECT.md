@@ -116,25 +116,15 @@ In the past contributions to open source projects were often made by the contrib
 
 The pull request is treated as a resource which can be viewed online, and can have an associated discussion, output from code quality and continuous integration tools, and serve as a focal point for considering whether a contribution will be pulled into the main project.
 
+###Branches and Forks (sidebar?)
+
+Modern version repository hosting services allow free "forking" of open source projects, which create a complete clone of an existing project.  This can be used by those participants who don't have core commit access to make changes and then suggest pull requests, or even just take the project off in a completely different direction.  Branches are also copies of a codebase, but exist within a single repository - each fork may have multiple branches.  Branches can be used to isolate development on a particular feature or bug-fix, where it won't interfere with other work taking place.  Branches are often short-lived copies of the codebase that are quickly merged back in the main 'master' branch. 
+
 ##Contacting the project manager
 
-One of the key things to do when becoming involved in a project is to try and make contact with the "project managers".  Here are some of the project managers for recently active projects in AgileVentures:
-
-* [LocalSupport](https://agileventures.slack.com/messages/localsupport/) - Sam Joseph (tansaku)
-* [MetPlus](https://agileventures.slack.com/messages/metplus/) - João Pereira (and Pat Bolger)
-* [WebSiteOne](https://agileventures.slack.com/messages/websiteone/) - Sam Joseph
-* [OSRA](https://agileventures.slack.com/messages/osra/) - Nikita Avvakumov
-* [SHF](https://agileventures.slack.com/messages/shf-project/) - Susanna Larsdotter
-* [AsyncVoter](https://agileventures.slack.com/messages/async_voter/) - Sam Joseph (and João Pereira)
-* [Redeemify](https://agileventures.slack.com/messages/redeemify/) - Matt Lindsey (and Armando Fox)
-* [ProjectScope](https://agileventures.slack.com/messages/projectscope/) - Michael C (and Sam Joseph)
-* [DDA pallet](https://agileventures.slack.com/messages/dda-pallet/) - Michael Jerger
-
-Project managers will often be maintaining projects in their spare time, and be trying to hold down paid jobs and manage all sorts of other life complexities.  Try to avoid reaching out to them individually if possible.  You may feel shy and/or embarrassed to ask questions in a public project chat, mailing list or GitHub issues, but most project maintainers will be eternally grateful for questions that can be seen and answered by others on the team.  Asking for suggestions of things to work on, or help and support in a shared channel has the key benefit of reducing pressure on the project maintainers (as other team members can offer help) and also shows the pulse of the project, i.e. that people are interested in contributing.  Sensible project maintainers will always do their best to ensure that any question or concern shared in a public channel is met with consideration and understanding.  
+One of the key things to do when becoming involved in a project is to try and make contact with the "project managers". Project managers will often be maintaining projects in their spare time, and be trying to hold down paid jobs and manage all sorts of other life complexities.  Try to avoid reaching out to them individually if possible.  You may feel shy and/or embarrassed to ask questions in a public project chat, mailing list or GitHub issues, but most project maintainers will be eternally grateful for questions that can be seen and answered by others on the team.  Asking for suggestions of things to work on, or help and support in a shared channel has the key benefit of reducing pressure on the project maintainers (as other team members can offer help) and also shows the pulse of the project, i.e. that people are interested in contributing.  Sensible project maintainers will always do their best to ensure that any question or concern shared in a public channel is met with consideration and understanding.  
 
 Conversely, please don't feel bad if a project maintainer asks you to take a line of reasoning or questioning to another channel or a direct message (DM).  A very detailed multi-paragraph debate about the pros and cons of a particular approach can be exhausting for those trying to keep up with the project.  While some spirited discussion can be invaluable, there does come a point when the discussion should be paused and further information gathered by just trying one or other approach out.  If there's a strong disagreement about particular approaches, a pull request (see below) is usually a better place to take it up, where specific code can be used to ground the discussion.  Even then, do be careful as protracted debates can be exhausting for all concerned.
-
-[SideBar on too much debate]
 
 ##Understanding the project contribution flow
 
@@ -142,14 +132,14 @@ A great way to get oriented to a project is to ask for an overview session with 
 
 If you're not receiving responses in a project channel, try adding the name of one of the project managers to your message in that channel, to highlight that you need help moving forward.  Each project will likely have a slightly different project contribution flow.  Usually there will be some issue/ticket tracking system (e.g. Waffle, PivotalTracker, Jira, GitHub Issues/Projects) indicating work that is in progress, ready to get started, and possibles for the future.  Check with the individual project managers, and see the specific projects documentation.
 
-[SideBar on Slack/Twitter nettiquette]
-[SideBar on KanBan]
+###Kanban (SideBar?)
+
+Kanban is a process of visualizing work and workflow, representing items of work as "cards" that can be moved from one column to another where the column represents the state the work is in, e.g. "unstarted", "started", "finished", "delivered", "accepted", "rejected".  These days most projects will have some form of KanBan style representation of the ongoing work in the project.  Waffle, ZenHub and GitHub Projects provide a Kanban style visualisation over Github issues, and PivotalTracker, Trello and others provide highly customizable boards for project management of all kinds.
 
 ##Submitting your first “pull request”
 
 Most projects will prefer to receive contributions through the form of "pull requests", a confusing term that means a request to pull some code or documentation into the project.  GitHub has good [documentation on pull requests and how to make them](https://help.github.com/articles/about-pull-requests/).  Simple pull requests may even be made directly through the GitHub web interface, but they will usually involve you checking out the codebase to a machine under your control, making changes on a feature branch and then submitting a pull request to one of the main project branches so that it can be reviewed by the rest of the project team, feedback given, and then ultimately pulled into the main codebase by the project maintainers.
 
-[SideBar on Branches]
 
 ##Going with the flow
 
@@ -165,7 +155,9 @@ You might not have the time required to get set up with the complete codebase, a
 * &lt; 60 minutes to spare? Start getting set up with a code base for a new project
 * &lt; 90 minutes to spare? Start working on a ticket, join a pairing session
 
-[SideBar on pairing]
+###PairProgramming (sidebar?)
+
+Pair programming is an extreme programming practice that follows from the idea that if code review is good, why not have two pairs of eyes on all code at all times.  Effective pair programming involves frequence driver/navigator rotation, where each individual in the pair takes turns at typing code, and doing support tasks such as looking up documentation, of thinking more strategically.  Pair programming might seem like an over-commitment of resources, but when well coordinated it can be enjoyable, educational and improve code quality.
 
 References
 ----------
