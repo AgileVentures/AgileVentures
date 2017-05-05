@@ -18,7 +18,7 @@ This information may later be put into a database and displayed on the AgileVent
 
 <details>
   <summary>How do I join an existing project?</summary>
-  <p>see [JOINING_A_PROJECT.md](JOINING_A_PROJECT.md)</p>
+  <p>see <a href='JOINING_A_PROJECT.md'>JOINING_A_PROJECT.md</a></p>
 </details>
 
 
@@ -100,6 +100,6 @@ This information may later be put into a database and displayed on the AgileVent
 
 <details>
   <summary>How do I start a project on AgileVentures?</summary>
-    <p>see [STARTING_A_PROJECT.md](STARTING_A_PROJECT.md)</p>
+    <p>see <a href='STARTING_A_PROJECT.md'>STARTING_A_PROJECT.md</a></p>
 </details>
 
