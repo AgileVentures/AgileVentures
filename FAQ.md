@@ -3,7 +3,7 @@ AgileVentures FAQ
 
 :construction: UNDER CONSTRUCTION :construction:
 
-##Contributing to this FAQ
+## Contributing to this FAQ
 Please add your question(s) and answers!  Did you have questions when you first joined AgileVentures (or maybe you still do)? Do you have answers?  Help us by freely adding to this document.
 
 This document is in its early stages.  We want to capture as many questions and answers as possible.  If you've had a *question* about AgileVentures, or if you can *answer* something, please _do_ edit this document.  If you are not sure if your information duplicates information, just note make a note about that: _"(This may be a duplicate of ...)"_.  If your answer contradicts another answer, please note the contradiction *_and_* *file an issue* so that others are aware of the contradiction and can help to resolve it.
@@ -14,7 +14,7 @@ It's not yet clear how to best organize this information.  Make your best guess,
 This information may later be put into a database and displayed on the AgileVentures site (a.k.a. WebSiteOne (WSO)).  For now, we just want to gather as much information as possible.
 
 
-##Joining a Project
+## Joining a Project
 
 <details>
   <summary>How do I join an existing project?</summary>
@@ -22,7 +22,7 @@ This information may later be put into a database and displayed on the AgileVent
 </details>
 
 
-##Discussing Things on Slack
+## Discussing Things on Slack
 
 <details>
   <summary>Can I talk about anything on Slack?</summary>
@@ -35,7 +35,7 @@ This information may later be put into a database and displayed on the AgileVent
   <p>The other big advantage of asking questions in group channels is sharing your search for knowledge with the rest of the team.  Others may well benefit from seeing the dialogue that emerges.</p>
 </details>
 
-##Pair Programming
+## Pair Programming
 
 <details>
   <summary>Do I have to Pair Program?</summary>
@@ -50,7 +50,7 @@ This information may later be put into a database and displayed on the AgileVent
     <p>No.  It is never required.  Some people have participated in AgileVentures for many years and never shared a video feed from their webcam.</p>
 </details>
 
-##Scrums
+## Scrums
 
 <details>
   <summary>What are Scrums?</summary>
@@ -68,15 +68,15 @@ This information may later be put into a database and displayed on the AgileVent
 
 
 
-##Events (Hangouts)
+## Events (Hangouts)
 
 * How do I effectively run a hangout with a live stream?
 
 
-##About AgileVentures (Vision, History)
+## About AgileVentures (Vision, History)
 
 
-##Premium Membership
+## Premium Membership
 
 <details>
   <summary>How do I become a Premium member</summary>
@@ -84,14 +84,14 @@ This information may later be put into a database and displayed on the AgileVent
 </details>
 
 
-##Sponsors
+## Sponsors
 
 <details>
   <summary>How do I become Sponsor</summary>
     <p>See http://www.agileventures.org/sponsorship.</p>
 </details>
 
-##Projects for Non-Profits
+## Projects for Non-Profits
 
 <details>
   <summary>What kind of projects will AgileVentures support?</summary>
