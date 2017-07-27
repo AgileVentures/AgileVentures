@@ -1,3 +1,5 @@
+## Stream a Jitsy Session to the AgileVentures YouTube Account
+
 1. Navigate to https://www.youtube.com/live_dashboard logged in as the AgileVentures account
 
 2. Update the Stream information as appropriate:
@@ -18,7 +20,8 @@
 
 ![](https://www.dropbox.com/s/j1ryyvp5ts5w7qm/Screenshot%202017-07-27%2016.13.04.png?dl=1) 
 
-7. click the live streaming button
+7. click the "Start live streaming" button
  
+### Related
 
-For more detail please see: https://jitsi.org/live-streaming-and-recording-a-jitsi-conference/
+https://jitsi.org/live-streaming-and-recording-a-jitsi-conference/
