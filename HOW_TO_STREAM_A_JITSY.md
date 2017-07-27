@@ -21,6 +21,10 @@
 ![](https://www.dropbox.com/s/j1ryyvp5ts5w7qm/Screenshot%202017-07-27%2016.13.04.png?dl=1) 
 
 7. click the "Start live streaming" button
+
+Note: 
+
+One huge advantage of Jitsy is that unlike a Google hangout, *any* participant can start a recording stream
  
 ### Related
 
