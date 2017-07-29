@@ -24,7 +24,7 @@
 
 Note: 
 
-One huge advantage of Jitsy is that unlike a Google hangout, *any* participant can start a recording stream
+One huge advantage of Jitsy is that unlike a Google hangout, *any* participant can start a recording stream, and new recordings can be re-started after a previous one has finished.  At the moment streaming from a Jitsy appears to be limited to an hour.
  
 ### Related
 
