@@ -22,7 +22,7 @@ Or (more simply)
 
 In AgileVentures we run Scrums online.  Some may be open to all projects, such as the "Kent Beck", "Martin Fowler", PacificRim and "Bob Martin" scrums, while others may be specific to individual projects.  The idea of the "open" scrums is that participants get to hear about activities in other projects, and learn how things operate in the decentralized structure of AgileVentures.  Where possible please start scrums via the [AgileVentures website](http://www.agileventures.org/events):
 
-![Americas "Dave Thomas" Scrum](https://www.dropbox.com/s/p0lfbpjh4l5kw9w/Screenshot%202017-01-04%2013.43.52.png?dl=1)
+![Americas "Dave Thomas" Scrum](images/Screenshot%202017-01-04%2013.43.52.png)
 
 10 minutes before a scrum is due to go live a "Start a Hangout on Air" button will appear next to the "event actions" dropdown.  Clicking this button will start a Google Hangout, and if everything goes well it will notify several AgileVentures slack channels as well as making the main AgileVentures landing page include a link to the hangout.  
 
@@ -36,6 +36,6 @@ https://www.youtube.com/my_live_events?action_create_live_event=1
 
 Ensure to select a "Quick" type to get the Hangout on Air.  We recommend using the Chrome browser in order to invite people to the hangout you will need to copy and paste the URL from the hangout window into the AgileVentures event page by selecting the "Event Actions" --> "Edit hangout link" operation:
 
-![edit hangout link functionality](https://www.dropbox.com/s/g9ed94s30cofr5q/Screen%20Shot%202016-11-05%20at%2009.20.42.png?dl=1)
+![edit hangout link functionality](images/Screen%20Shot%202016-11-05%20at%2009.20.42.png)
 
 Once you click save the AgileVentures slack will automatically post a notification about the hangout (with URL to join) into the [#standup_notifications](https://agileventures.slack.com/messages/standup_notifications) and [#general](https://agileventures.slack.com/messages/general) channels
