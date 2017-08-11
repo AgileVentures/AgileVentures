@@ -9,15 +9,15 @@ The details that follow depend somewhat on the particular project and the ticket
 
 the current column is what people are currently working on:
 
-![](https://www.dropbox.com/s/l1tc1xqjazvpta5/Screenshot%202017-01-19%2020.03.14.png?dl=1)
+![](images/Screenshot%202017-01-19%2020.03.14.png)
 
 If you're interested you can hook up with existing work you can reach out to the individuals working on these tickets. The backlog is ordered by priority by the client - so items at the top have priority:
 
-![](https://www.dropbox.com/s/8smg9eu4fv4wph3/Screenshot%202017-01-19%2020.04.16.png?dl=1)
+![](images/Screenshot%202017-01-19%2020.04.16.png)
 
 Tickets in the icebox are in a random order and need to be voted on by the team in order to get started:
 
-![](https://www.dropbox.com/s/azg6bk8ailjvk44/Screenshot%202017-01-19%2020.04.51.png?dl=1)
+![](images/Screenshot%202017-01-19%2020.04.51.png)
 
 Anyone can start a vote, and please feel free to ask any question about any ticket either in the project Slack channel or in the pivotal tracker (you need to be added to the tracker so you can add comments)
 
