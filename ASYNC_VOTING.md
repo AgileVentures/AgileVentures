@@ -17,7 +17,9 @@ The bot should then present a voting interface:
 
 ![](images/Screenshot%202017-08-16%2013.47.01.png)
 
-Ideally no one should press **reveal** until at least three votes have been cast, or thereabouts, but this can vary from project to project.  The idea is that 1 means simple, 2 means medium difficulty and 3 means hard; for for example 1 is a simple change to, say, only the view part of an app. 2 might involve database changes or using a new library, and 3 a combination of the previous with perhaps other sources of extra complexity.  
+Ideally no one should press **reveal** until at least three votes have been cast, or thereabouts, but this can vary from project to project.  The idea is that 1 means simple, 2 means medium difficulty and 3 means hard; for for example 1 is a simple change to, say, only the view part of an app. 2 might involve database changes or using a new library, and 3 a combination of the previous with perhaps other sources of extra complexity. 
+
+Please do vote, even if you are the one starting the vote.  Everyone in the channel is eligible to vote, but if one feels sufficiently ill-informed then it is perfectly acceptable to select the **no opinion** option.
 
 Any lack of clarity about what the issue involves should be discussed as appropriate before completion of the vote.  Once the vote is completed and the results revealed we may be in one of 3 situation:
 
