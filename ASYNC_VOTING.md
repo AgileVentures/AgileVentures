@@ -3,9 +3,12 @@ Async Vote How To
 
 :construction: UNDER CONSTRUCTION :construction:
 
+We vote on stories/bugfixes/chores etc. (generically referred to as "tickets" or "issues") in order to help everyone on the team know what each other is working on, how difficult the ticket is, and to expose any differences in assumptions between team members.  Ticket sizes (1, 2, or 3) can in principle be used for planning and estimation in terms of sprints, however we often find that in a community of part-time volunteers that the value comes more from communication and being able to anticipate the complexity of what one might work on rather than any long term planning.
+
+
 ## Automated Async Vote
 
-To start an automated asynchronous vote on a story, please use the async voter command, using the following syntax: `/voter ISSUE-NAME ISSUE-URL`.
+To start an automated asynchronous vote on an issue, please use the async voter command, using the following syntax: `/voter ISSUE-NAME ISSUE-URL`.
 
 e.g. 
 
@@ -21,17 +24,17 @@ Ideally no one should press **reveal** until at least three votes have been cast
 
 Please do vote, even if you are the one starting the vote.  Everyone in the channel is eligible to vote, but if one feels sufficiently ill-informed then it is perfectly acceptable to select the **no opinion** option.
 
-Any lack of clarity about what the issue involves should be discussed as appropriate before completion of the vote.  Once the vote is completed and the results revealed we may be in one of 3 situation:
+Note that if you have insufficient votes you may need to post additional reminders - we recommend using @channel again if 24 hours have passed with no vote - you can also DM members individually to ask them to vote if you think they will be interested, but please DM with caution as this places pressure on people, that some might find unwelcome.
 
-1. If everyone agreed then you can just set the agreed estimate - or ask someone who has permissions to do so.  
+Any lack of clarity about what the issue involves should be discussed as appropriate before completion of the vote.  Once the vote is completed and the results revealed we may be in one of 3 situations:
+
+1. If everyone agreed then you can just set the agreed estimate on the issue ticket - or ask someone who has permissions to do so.  
 
 2. If the majority are in agreement, but one small group of people have a different opinion then one person from that group should present why they thought differently from the majority - further discussion from all may also then ensue.
 
 3. If things are evenly split then each group in turn should chat about their motivations.
 
 In cases 2 and 3 individuals can agree to adjust their vote in order to come to a consensus.  Hopefully the group can then come to agreement through discussion in the channel or the ticket itself.  
-
-Note that if no one is voting you may need to post additional reminders - we recommend using @channel again if 24 hours have passed with no vote - you can also DM members individually to ask them to vote if you think they will be interested
 
 Finally, please take any discussion that took place in slack and paste into the ticket so we have a record.  In either of the three cases we should eventually come to a unanimous estimate which should then be set on the ticket - which might require asking someone who has permissions to do so.
 
