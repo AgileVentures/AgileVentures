@@ -4,14 +4,14 @@ AgileVentures FAQ
 :construction: UNDER CONSTRUCTION :construction:
 
 ## Contributing to this FAQ
-Please add your question(s) and answers!  Did you have questions when you first joined AgileVentures (or maybe you still do)? Do you have answers?  Help us by freely adding to this document.
+Please add your question(s) and answers! Did you have questions when you first joined AgileVentures (or maybe you still do)? Do you have answers? Help us by freely adding to this document.
 
-This document is in its early stages.  We want to capture as many questions and answers as possible.  If you've had a *question* about AgileVentures, or if you can *answer* something, please _do_ edit this document.  If you are not sure if your information duplicates information, just note make a note about that: _"(This may be a duplicate of ...)"_.  If your answer contradicts another answer, please note the contradiction *_and_* *file an issue* so that others are aware of the contradiction and can help to resolve it.
+This document is in its early stages. We want to capture as many questions and answers as possible. If you've had a *question* about AgileVentures, or if you can *answer* something, please _do_ edit this document. If you are not sure if your information duplicates information, just note make a note about that: _"(This may be a duplicate of ...)"_. If your answer contradicts another answer, please note the contradiction *_and_* *file an issue* so that others are aware of the contradiction and can help to resolve it.
 
 
-It's not yet clear how to best organize this information.  Make your best guess, and then as more information is added to this document, we'll evaluate and organize things.
+It's not yet clear how to best organize this information. Make your best guess, and then as more information is added to this document, we'll evaluate and organize things.
 
-This information may later be put into a database and displayed on the AgileVentures site (a.k.a. WebSiteOne (WSO)).  For now, we just want to gather as much information as possible.
+This information may later be put into a database and displayed on the AgileVentures site (a.k.a. WebSiteOne (WSO)). For now, we just want to gather as much information as possible.
 
 
 ## Joining a Project
@@ -26,13 +26,13 @@ This information may later be put into a database and displayed on the AgileVent
 
 <details>
   <summary>Can I talk about anything on Slack?</summary>
-  <p>In principle yes, although please choose the appropriate channel.  If you have a question about a project then please ask in the appropriate project channel.  If you have a technical question then please ask in #techtalk.  If you have a question or comment that is unrelated to anything in particular then please use #random.</p>
+  <p>In principle yes, although please choose the appropriate channel. If you have a question about a project then please ask in the appropriate project channel. If you have a technical question then please ask in #techtalk. If you have a question or comment that is unrelated to anything in particular then please use #random.</p>
 </details>
 
 <details>
   <summary>How do I get someone's attention on Slack?</summary>
-  <p>You can send direct messages to anyone on Slack, but please consider that we are a volunteer organisation and we rely on the input and support of our volunteer members to maintain our services, so where possible we would very STRONGLY ENCOURAGE you to post questions in group channels, which has the advantage that your question can be answered by anyone in the group.  If your question or concern is particularly urgent you can add the @here tag.  If you really need to draw the question to the attention of a particular individual you can tag them in the channel using their username, e.g. @tansaku.  However please be considerate.</p>
-  <p>The other big advantage of asking questions in group channels is sharing your search for knowledge with the rest of the team.  Others may well benefit from seeing the dialogue that emerges.</p>
+  <p>You can send direct messages to anyone on Slack, but please consider that we are a volunteer organisation and we rely on the input and support of our volunteer members to maintain our services, so where possible we would very STRONGLY ENCOURAGE you to post questions in group channels, which has the advantage that your question can be answered by anyone in the group. If your question or concern is particularly urgent you can add the @here tag. If you really need to draw the question to the attention of a particular individual you can tag them in the channel using their username, e.g. @tansaku. However please be considerate.</p>
+  <p>The other big advantage of asking questions in group channels is sharing your search for knowledge with the rest of the team. Others may well benefit from seeing the dialogue that emerges.</p>
 </details>
 
 ## Pair Programming
@@ -47,14 +47,14 @@ This information may later be put into a database and displayed on the AgileVent
 </details>
 <details>
   <summary>Do I have to share video from my webcam in a pairing session?</summary>
-    <p>No.  It is never required.  Some people have participated in AgileVentures for many years and never shared a video feed from their webcam.</p>
+    <p>No. It is never required. Some people have participated in AgileVentures for many years and never shared a video feed from their webcam.</p>
 </details>
 
 ## Scrums
 
 <details>
   <summary>What are Scrums?</summary>
-    <p>Short 15 minute coordination meetings for everyone to report in and mention if they are blocked on anything.  After the scrum people can hangout to get blocks resolved and start pair programming sessions.</p>
+    <p>Short 15 minute coordination meetings for everyone to report in and mention if they are blocked on anything. After the scrum people can hangout to get blocks resolved and start pair programming sessions.</p>
 </details>
 <details>
   <summary>When are Scrums?</summary>
@@ -100,6 +100,6 @@ This information may later be put into a database and displayed on the AgileVent
 
 <details>
   <summary>How do I start a project on AgileVentures?</summary>
-    <p>see <a href='STARTING_A_PROJECT.md'>STARTING_A_PROJECT.md</a></p>
+<p>see <a href='STARTING_A_NEW_PROJECT.md'>Starting a New Project</a></p>
 </details>
 
