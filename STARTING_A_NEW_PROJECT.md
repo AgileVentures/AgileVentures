@@ -37,6 +37,6 @@ Sam Joseph (@tansaku) [blogs daily](http://nonprofits.agileventures.org/blog/) o
 
 http://nonprofits.agileventures.org/blog/
 
-##Recommended Reading:
+## Recommended Reading:
 
 * [Karl Fogel on getting an open source project started](http://producingoss.com/en/getting-started.html)
