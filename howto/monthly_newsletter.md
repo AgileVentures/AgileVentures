@@ -8,8 +8,12 @@
 
 ![](https://dl.dropbox.com/s/ohapbzs4jifcwi4/Screenshot%202017-10-12%2013.36.58.png?dl=0)
 
+4.  Start editing the newsletter
+
+![](https://dl.dropbox.com/s/mc7rn820ufc4s6u/Screenshot%202017-10-12%2013.38.22.png?dl=0)
 
 
+10?. import new emails etc.
 
 i.[At this point, export a csv file from Elastic email called: “elasticemail-All_Contacts-4051--2017-07-07.csv” Modify accordingly (i.e. contacts quantity and current date]
 
