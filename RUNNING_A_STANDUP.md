@@ -24,7 +24,7 @@ In AgileVentures we run Scrums online.  Some may be open to all projects, such a
 
 ![Americas "Dave Thomas" Scrum](images/Screenshot%202017-01-04%2013.43.52.png)
 
-10 minutes before a scrum is due to go live a "Start a Hangout on Air" button will appear next to the "event actions" dropdown.  Clicking this button will start a Google Hangout.  In the past this auto-notified Slack and the website via the Google Hangouts API.  This button may now not work and so we recommend that you log in to a verified YouTube account so you can start a YouTube live event directly from the following link:
+10 minutes before a scrum is due to go live a "Start a Hangout on Air" button will appear next to the "event actions" dropdown.  Clicking this button starts a Google Hangout on air, but it may not now work correctky so we recommend that you log in to a verified YouTube account so you can start a YouTube live event directly from the following link:
 
 https://www.youtube.com/my_live_events?action_create_live_event=1
 
