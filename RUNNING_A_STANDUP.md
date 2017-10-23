@@ -20,22 +20,38 @@ Or (more simply)
 
 * How are things going with you?
 
-In AgileVentures we run Scrums online.  Some may be open to all projects, such as the "Kent Beck", "Martin Fowler", PacificRim and "Bob Martin" scrums, while others may be specific to individual projects.  The idea of the "open" scrums is that participants get to hear about activities in other projects, and learn how things operate in the decentralized structure of AgileVentures.  Where possible please start scrums via the [AgileVentures website](http://www.agileventures.org/events):
+In AgileVentures we run Scrums online.  Some may be open to all projects, such as the "Kent Beck", "Martin Fowler", PacificRim and "Bob Martin" scrums, while others may be specific to individual projects.  The idea of the "open" scrums is that participants get to hear about activities in other projects, and learn how things operate in the decentralized structure of AgileVentures.  It is possible to scrums via the [AgileVentures website](http://www.agileventures.org/events) and we recommend using the chrome browser to do so:
 
 ![Americas "Dave Thomas" Scrum](images/Screenshot%202017-01-04%2013.43.52.png)
 
-10 minutes before a scrum is due to go live a "Start a Hangout on Air" button will appear next to the "event actions" dropdown.  Clicking this button will start a Google Hangout, and if everything goes well it will notify several AgileVentures slack channels as well as making the main AgileVentures landing page include a link to the hangout.  
-
-Often, but not always, the person who starts the hangout will also run the Scrum.  It can be a different person, or there might be no explicit host/master; but it often helps to have one person "running" things, particularly if there are new members, or we just want to avoid confusion about who is speaking next, or whether a conversation has run on too long.
-
-The person who started the hangout will also need to click "Start Broadcast" for the hangout to be recorded, and the hangout will stream and be recorded to that person's YouTube account.  The person who started will also have control of which video feed appears in the recording - either auto-switching based on audio, or locked to a particular feed.
-
-In some cases the Google Hangouts API may fail.   The "Start Hangout on Air" button has in the past redirected to a set of instructions about how to start a YouTube Live event.  If you are logged in to a verified YouTube account you can start a YouTube live event directly from the following link:
+10 minutes before a scrum is due to go live a "Start a Hangout on Air" button will appear next to the "event actions" dropdown.  Clicking this button will start a Google Hangout.  In the past this auto-notified Slack and the website via the Google Hangouts API.  This button may now not work and so we recommend that you log in to a verified YouTube account so you can start a YouTube live event directly from the following link:
 
 https://www.youtube.com/my_live_events?action_create_live_event=1
 
-Ensure to select a "Quick" type to get the Hangout on Air.  We recommend using the Chrome browser in order to invite people to the hangout you will need to copy and paste the URL from the hangout window into the AgileVentures event page by selecting the "Event Actions" --> "Edit hangout link" operation:
+Ensure to select a "Quick" type to get the Hangout on Air, and set the name of the event to the name of Scum:  
+
+![](https://dl.dropbox.com/s/s3g4v3qweaqygp0/Screenshot%202017-10-23%2012.06.46.png?dl=0)
+
+You can also go into "Advanced Settings" to improve the performance for the hangout for realtime interaction:
+
+![](https://dl.dropbox.com/s/x0sfsonuzpfrm87/Screenshot%202017-10-23%2012.06.41.png?dl=0)
+
+The API has been suspended and now a manual update is required to update the link on the website and ping them to slack.  
+
+To do the manual update start by copying and paste the URL (up to the ? to avoid any uneeded params) from the hangout window into the AgileVentures event page by selecting the "Event Actions" --> "Edit hangout link" operation:
 
 ![edit hangout link functionality](images/Screen%20Shot%202016-11-05%20at%2009.20.42.png)
 
 Once you click save the AgileVentures slack will automatically post a notification about the hangout (with URL to join) into the [#standup_notifications](https://agileventures.slack.com/messages/standup_notifications) and [#general](https://agileventures.slack.com/messages/general) channels
+
+Often, but not always, the person who starts the hangout will also run the Scrum.  It can be a different person, or there might be no explicit host/master; but it often helps to have one person "running" things, particularly if there are new members, or we just want to avoid confusion about who is speaking next, or whether a conversation has run on too long.
+
+The person who started the hangout will also need to click "Start Broadcast" for the hangout to be recorded, and the hangout will stream and be recorded to that person's YouTube account.  The person who started will also have control of which video feed appears in the recording - either auto-switching based on audio, or locked to a particular feed.  The link for the youtube video for the hangout can be retrieved by clicking "Links" in the bottom left of the hangout:
+
+![](https://dl.dropbox.com/s/pk5jz8mya11uqmo/Screenshot%202017-10-23%2012.08.05.png?dl=0)
+
+and then can be manually set on the event page, in a similar fashion to manually setting the hangout URL:
+
+![adding a youtube link](https://dl.dropbox.com/s/gtl7xriohfcup8v/Screenshot%202017-10-23%2012.10.53.png?dl=0)
+
+
