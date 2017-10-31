@@ -13,9 +13,11 @@
 ![](https://dl.dropbox.com/s/mc7rn820ufc4s6u/Screenshot%202017-10-12%2013.38.22.png?dl=0)
 
 
-10?. import new emails etc.
+5. import new emails etc.
 
-i.[Export a csv file from Elastic email called: “elasticemail-All_Contacts-4051--2017-07-07.csv” Modify accordingly (i.e. contacts quantity and current date]
+i.[Export a csv file from Elastic email called: “elasticemail-All_Contacts-4051--2017-07-07.csv” Modify filename accordingly (i.e. contacts quantity and current date]
+
+![](https://dl.dropbox.com/s/85o6m6p1ndkyqqd/Screenshot%202017-10-30%2016.27.45.png?dl=0)
 
 ii. [Open in Numbers app. Copy only email column and save to text file, after removing “Email” entry, called: “elasticemail-All_Contacts-4051--2017-07-07.txt" in an `email_lists` local directory. Modify txt file name accordingly]
 
@@ -26,7 +28,7 @@ iii. [Retrieve latest signup emails from AV rails production console.
 irb> User.all.each {|u| puts "#{u.full_name}\t#{u.email}" } ; nil
 irb> exit
 ```
-Copy and paste into Numbers to analyze and then to strip to just emails. Save to text file: "WSO-export-update-2017-07-07.txt" Modify name accordingly.]
+Copy and paste into Numbers to analyze and then to strip to just emails. Save to text file: "WSO-export-update-2017-07-07.txt" Modify filename accordingly.]
 
 iv. [Modify “1-duplicate_remover--WSO_export_update-ee_All_contacts.rb” accordingly with txt files from above steps. Name destination file as "New-Emails-WSO-export-update-2017-07-07.csv” Modify accordingly]
 
@@ -35,7 +37,9 @@ Run Script 1:
  $ ruby 1-duplicate_remover--WSO_export_update-ee_All_contacts.rb
 ```
 
-v. [At this point, add “Email” to top of file and upload to EE: New-Emails-WSO-export-update-2017-07-07.csv (the existing EE static list is called’New-Emails-WSO-plus-WS2-export-update’)]
+v. [At this point, add “Email” to top of file and upload to ElasticEmail: New-Emails-WSO-export-update-2017-07-07.csv (the existing EE static list is called’New-Emails-WSO-plus-WS2-export-update’)]
+
+![](https://dl.dropbox.com/s/nl39vwzznx4km71/Screenshot%202017-10-30%2017.09.20.png?dl=0)
  
 vi. [Export MC WS2 signups at https://us6.admin.mailchimp.com/lists/members/?id=214453 Save download file as MC-WS2-newsletter-signup-46-members_export 
 
