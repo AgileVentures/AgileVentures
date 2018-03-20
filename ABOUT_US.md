@@ -79,7 +79,7 @@ The Agile Manifesto is based on twelve principles:
 7. Face-to-face conversation is the best form of communication (co-location)
 8. Projects are built around motivated individuals, who should be trusted
 9. Continuous attention to technical excellence and good design
-10. Simplicity—the art of maximizing the amount of work not done—is essential
+10. Simplicity - the art of maximizing the amount of work not done - is essential
 11. Self-organizing teams
 12. Regular adaptation to changing circumstances
 
