@@ -1,7 +1,7 @@
 Joining a Project
 -----------------
 
-:construction: UNDER CONSTRUCTION :construction:
+UNDER CONSTRUCTION
 
 
 * [Motivations for contributing to an Open Source project](#motivations-for-contributing-to-an-open-source-project)
@@ -14,7 +14,7 @@ Joining a Project
 * [Reading the project documentation](#reading-the-project-documentation)
 * [Contacting the project manager](#contacting-the-project-manager)
 * [Understanding the project contribution flow](#understanding-the-project-contribution-flow)
-* [Submitting your first “pull request”](#submitting-your-first-"pull-request")
+* [Submitting your first "pull request"](#submitting-your-first-"pull-request")
 * [Going with the flow](#going-with-the-flow)
 * [How to contribute when you have limited time](#not-much-time-to-spare)
 
@@ -69,7 +69,7 @@ A great way to get oriented to a project is to ask for an overview session with 
 
 If you're not receiving responses in a project channel, try adding @tansaku (or appropriate PM slack name tag) to your message in that channel, to highlight that you need help moving forward.  Each project will likely have a slightly different project contribution flow.  Usually there will be some issue/ticket tracking system (e.g. Waffle, PivotalTracker, Jira, GitHub Issues/Projects) indicating work that is in progress, ready to get started, and possibles for the future.  Check with the individual project managers, and see the specific projects documentation.
 
-## Submitting your first “pull request”
+## Submitting your first "pull request"
 
 Most projects will prefer to receive contributions through the form of "pull requests", a confusing term that means a request to pull some code or documentation into the project.  GitHub has good [documentation on pull requests and how to make them](https://help.github.com/articles/about-pull-requests/).  Simple pull requests may even be made directly through the GitHub web interface, but they will usually involve you checking out the codebase, making changes in a feature branch and then submitting a pull request to one of the main project branches so that it can be reviewed by the rest of the project team, feedback given, and then ultimately pulled into the main codebase by the project maintainers.
 
