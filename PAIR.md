@@ -40,7 +40,7 @@ Selection of help videos and protocols
 
 Quotes from Remote Pair Programmers in edX's Massively Open Online Class "Engineering Software as a Service":
 
-### Dag Andre Ivarsøn:
+### Dag Andre Ivarson:
 
 I've really learned how to use the debugger during these pairing sessions, and we really drive each other forwards :-) It really helps having someone to talk to.
 
