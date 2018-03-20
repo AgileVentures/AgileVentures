@@ -13,7 +13,7 @@ If you're not trying to level up as an Agile software developer yourself, you ca
 | [Project logistics advice and support](https://www.agileventures.org/free)                                                       |       X       |      X        |      X       |       X       |
 | [User experience review of project (HCI)](https://www.agileventures.org/free)                                                    |       X       |      X        |      X       |       X       |
 | [Financially support AV mission to help charities and education access for all](https://www.agileventures.org/premium)           |               |      X        |      X       |       X       |
-| [JetBrains RubyMine/WebStorm (IDE) licence](https://www.agileventures.org/premium) (worth £15/month)                             |               |      X        |      X       |       X       |
+| [JetBrains RubyMine/WebStorm (IDE) licence](https://www.agileventures.org/premium) (worth $15/month)                             |               |      X        |      X       |       X       |
 | [Eligibility to work on paid projects](https://www.agileventures.org/premium)                                                    |               |      X        |      X       |       X       |
 | [Professional Code Review (your PRs reviewed first)](https://www.agileventures.org/premium)                                      |               |      X        |      X       |       X       |
 | [Access to AV Professional Development Slack](https://www.agileventures.org/premium)                                             |               |      X        |      X       |       X       |
