@@ -14,6 +14,6 @@ When you get stuck on a project, it often helps to explain what you are trying t
 
 ### Agile Ventures and Open Source Coding
 
-At Agile Ventures we believe that Open Source Coding is the future for progressive software development. We have members from all over the world working on projects through online ‘scrums’ and ‘mobs’ to create fully functioning software for other charities.
+At Agile Ventures we believe that Open Source Coding is the future for progressive software development. We have members from all over the world working on projects through online 'scrums' and 'mobs' to create fully functioning software for other charities.
 
 The AV team is a supportive and friendly educational environment for old hands and new developers alike, which will help you to learn new skills and boost your CV with demonstrable proof of your coding abilities.
