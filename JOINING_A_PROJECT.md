@@ -54,7 +54,7 @@ One of the key things is to try and make contact with the "project managers" for
 * [WebSiteOne](https://agileventures.slack.com/messages/websiteone/) - Raoulo Diffouo (and Sam Joseph)
 * [OSRA](https://agileventures.slack.com/messages/osra/) - Nikita Avvakumov
 * [SHF](https://agileventures.slack.com/messages/shf-project/) - Susanna Larsdotter
-* [AsyncVoter](https://agileventures.slack.com/messages/async_voter/) - Sam Joseph (and João Pereira)
+* [AsyncVoter](https://agileventures.slack.com/messages/async_voter/) - Sam Joseph (and Joao Pereira)
 * [Redeemify](https://agileventures.slack.com/messages/redeemify/) - Matt Lindsey (and Armando Fox)
 * [ProjectScope](https://agileventures.slack.com/messages/projectscope/) - Michael C (and Sam Joseph)
 * [DDA pallet](https://agileventures.slack.com/messages/dda-pallet/) - Michael Jerger
