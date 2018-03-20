@@ -50,7 +50,7 @@ It certainly doesn't hurt to read all the documentation associated with the proj
 One of the key things is to try and make contact with the "project managers" for each project.  Here are some of the PMs for recently active projects:
 
 * [LocalSupport](https://agileventures.slack.com/messages/localsupport/) - Sam Joseph (tansaku)
-* [MetPlus](https://agileventures.slack.com/messages/metplus/) - João Pereira (and Pat Bolger)
+* [MetPlus](https://agileventures.slack.com/messages/metplus/) - Joao Pereira (and Pat Bolger)
 * [WebSiteOne](https://agileventures.slack.com/messages/websiteone/) - Raoulo Diffouo (and Sam Joseph)
 * [OSRA](https://agileventures.slack.com/messages/osra/) - Nikita Avvakumov
 * [SHF](https://agileventures.slack.com/messages/shf-project/) - Susanna Larsdotter
