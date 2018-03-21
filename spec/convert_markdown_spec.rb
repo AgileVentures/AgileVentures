@@ -3,7 +3,7 @@
 require 'spec_helper'
 
 RSpec.describe 'Process md files in the root path' do
-  markdown_paths = Dir.glob('./*').select { |path| path if path =~ /\.md$/i }
+  markdown_paths = Dir.glob('./*').select { |path| path if path =~ /\.md$/ }
 
   markdown_paths.each do |markdown_path|
     it "should convert '#{markdown_path}' markdown to html" do
@@ -12,6 +12,10 @@ RSpec.describe 'Process md files in the root path' do
         decoded_markdown = Base64.decode64(encoded_markdown)
         expect { MarkdownConverter.new(decoded_markdown).as_html }.not_to raise_error
       end
+    end
+
+    it "should match #{markdown_path} to a certain structure" do
+      expect(markdown_path).to match(/[A-Z]+(?:_[A-Z]+)?\.md$/)
     end
   end
 end
