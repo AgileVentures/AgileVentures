@@ -42,7 +42,7 @@ Discount to the [CraftAcademy](https://craftacademy.se/international/) Bootcamp.
 
 Craft Academy remote students need to be in a timezone within 2 hours of UTC and must also not be a resident of Sweden. For on-site training a valid visa to Sweden is required.
 
-AgileVentures Premium Plus membership is currently £100 a month.  Please email info@agileventures.org if you need to adjust or cancel your subscription.
+AgileVentures Premium Plus membership is currently 100 pounds a month.  Please email info@agileventures.org if you need to adjust or cancel your subscription.
 
 [Sign up for Premium Plus Membership](http://www.agileventures.org/subscriptions//new?plan=premiumplus)
 
