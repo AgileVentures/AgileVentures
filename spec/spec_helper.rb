@@ -2,6 +2,9 @@
 
 require 'kramdown'
 require 'byebug'
+require 'active_support'
+require 'active_support/core_ext/string/output_safety'
+require_relative '../markdown_converter'
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|
