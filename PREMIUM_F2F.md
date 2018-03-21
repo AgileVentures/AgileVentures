@@ -42,4 +42,4 @@ Yes, you'll be charged each month automatically - please email info@agileventure
 
 ### 50 Pounds/Month is a lot of money for me, surely you want Premium F2F to be affordable to everyone, everywhere?
 
-Of course we do; however we also want to make our operation sustainable.  If you can't afford £50/month please contact info@agileventures.org and we will see if we can find sponsorship to cover some or all of the costs of your Premium F2F membership.
+Of course we do; however we also want to make our operation sustainable.  If you can't afford 50 pounds/month please contact info@agileventures.org and we will see if we can find sponsorship to cover some or all of the costs of your Premium F2F membership.
