@@ -58,7 +58,7 @@ Any project can become an AgileVentures project given that it meets the followin
 
 Premium membership guarantees a pull request will be reviewed promptly and thoroughly.  Pull requests that wait for a long time before a review often require more work to be merged in, and may be discarded if no one is willing to do that additional work.  Also, it's great to get feedback when the code you have just created is still fresh in your mind.  If it takes a long time to get feedback you may not be able to learn as much as you would otherwise.
 
-### Does being a Premium member mean that my PR is going to be accepted even if it doesn’t seem relevant?
+### Does being a Premium member mean that my PR is going to be accepted even if it doesn't seem relevant?
 
 No it doesn't mean it will be accepted - but being a Premium member means we'll try harder to work with you to get it into a shape where it can be accepted.  Even if it ultimately doesn't make sense to merge it in, we'll be doing our best to ensure that you derive the maximum learning benefit from the experience.
 
@@ -66,7 +66,7 @@ No it doesn't mean it will be accepted - but being a Premium member means we'll 
 
 It's an open issue because it's something that needs to be addressed, however that does not mean that the way that you tried to address it is necessarily compatible with other aspects of the project.  We'll do our best to help you make it compatible, but ultimately if you don't follow our suggestions for changes to your PR and we don't have the resources to make them ourselves, or the process has taken so long that it's no longer efficient to work with your PR, then it might well be discarded and the issue will be fixed by a PR from another member.
 
-### In the case where multiple Premium members have submitted PR’s, how will they be prioritized?
+### In the case where multiple Premium members have submitted PR's, how will they be prioritized?
 
 Given PRs from multiple Premium members project priorities come into play.  Exploring the interplay between delivering value to the end client, use of different technologies and team collaboration is precisely what the AgileVentures experience is all about.  If there are many Premium members submitting PRs and we don't have enough reviewers to meet the demand we will need to recruit and or hire more reviewers, or possibly adjust the pricing model.
 
