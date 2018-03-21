@@ -62,4 +62,4 @@ Yes, you'll be charged each month automatically - please email info@agileventure
 
 ### 100 Pounds/Month is a lot of money for me, surely you want premium plus to be affordable to everyone, everywhere?
 
-Of course we do; however we also want to make our operation sustainable.  If you can't afford £100/month please contact info@agileventures.org and we will see if we can find sponsorship to cover some or all of the costs of your premium plus membership.
+Of course we do; however we also want to make our operation sustainable.  If you can't afford 100 Pounds/Month please contact info@agileventures.org and we will see if we can find sponsorship to cover some or all of the costs of your premium plus membership.
