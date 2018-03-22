@@ -15,7 +15,8 @@ RSpec.describe 'Process md files in the root path' do
     end
 
     it "should match #{markdown_path} to a certain structure" do
-      expect(markdown_path).to match(/[A-Z]+(?:_[A-Z]+)?\.md$/)
+      base_name = File.basename(markdown_path)
+      expect(base_name).to match(/^[A-Z]+[A-Z0-9_]*[A-Z0-9]+\.md$/)
     end
   end
 end
