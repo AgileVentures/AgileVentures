@@ -27,6 +27,6 @@ Use this name to alert that person to a specific message when you post to the pr
 
 "patrick" will then be alerted to your message and respond back.
 
-
+![](https://github.com/AgileVentures/AgileVentures/blob/master/gifts/getting-started-on-slack.gif)
 
 [On to Step 2](https://www.agileventures.org/getting-started-2)
