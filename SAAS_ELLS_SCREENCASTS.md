@@ -48,7 +48,10 @@ Always found it funny to talk about HTML and HTTP without any mention of Tim Ber
 
 [Vimeo version](https://vimeo.com/34754654)
 
-Missing Screen cast from sections 4.1, 4.2 and 4.3
+### Screen cast from sections 4.1, 4.2 and 4.3
+
+[![Screen cast from sections 4.1, 4.2 and 4.3](https://raw.githubusercontent.com/AgileVentures/AgileVentures/master/images/saas_ells_screencasts/sections_4_1_4_2_4_3.jpg
+)](https://youtu.be/5ar8SWO1lGs)
 
 ### 4.4.1 The Application Layout
 
