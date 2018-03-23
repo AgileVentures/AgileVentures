@@ -4,7 +4,8 @@ These are the critical things to work through before you start on any of the Saa
 
 ### 2.1.1 Getting Started
 
-
+[![Getting Started](https://raw.githubusercontent.com/AgileVentures/AgileVentures/master/images/saas_ells_screencasts/virtual_machine_2_1_1.jpg
+)](https://youtu.be/mmPNHJZwqCE)
 
 [Vimeo version](https://vimeo.com/34754478)
 
