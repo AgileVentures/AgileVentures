@@ -18,7 +18,7 @@ This video has some problems with the audio, and also it's not recorded in the V
 
 ### 2.3.1 HTML Introduction
 
-
+[![HTML Introduction](https://raw.githubusercontent.com/AgileVentures/AgileVentures/master/images/saas_ells_screencasts/html_2_3_1.jpg)](https://youtu.be/lXNeDR_5feQ)
 
 Always found it funny to talk about HTML and HTTP without any mention of Tim Berners Lee, but then again it's pretty strange to talk about Rails without talking about DHH.
 
