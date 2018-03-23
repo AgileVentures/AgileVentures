@@ -6,21 +6,21 @@ AgileVentures also provides [Premium](http://www.agileventures.org/premium) and 
 
 Not trying to level up as an Agile software developer? Sign up for a plan to [sponsor a developer](http://www.agileventures.org/sponsorship) to get the support they can't otherwise afford.
 
-|                                                                                       | Free    | Premium (10 pounds/month) | Premium Plus (100 pounds/month) |
-| :------------------------------------------------------------------------------------ | :-----: | :-----------------------: | :-----------------------------: |
-| Access to AV Slack                                                                    |    *    |             *             |                 *               |
-| Access to AV Scrums                                                                   |    *    |             *             |                 *               |
-| Project logistics advice and support                                                  |    *    |             *             |                 *               |
-| User experience review of project (HCI)                                               |    *    |             *             |                 *               |
-| Financially supporting the AV mission of helping charities and real education for all |         |             *             |                 *               |
-| JetBrains Integrated Development Environment (IDE) licence                            |         |             *             |                 *               |
-| Eligibility to work on priority and paid projects                                     |         |             *             |                 *               |
-| Professional Code Review                                                              |         |             *             |                 *               |
-| Access to AV Professional Development Slack                                           |         |             *             |                 *               |
-| Voting rights in AV general meetings                                                  |         |                           |                 *               |
-| Two Hours Pair Programming with AV mentor                                             |         |                           |                 *               |
-| Personalized 10 Year Professional Development Plan                                    |         |                           |                 *               |
-| Discount to CraftAcademy Bootcamp                                                     |         |                           |                 *               |
+|                                                                                                                                | Free    | Premium (10 pounds/month) | Premium Plus (100 pounds/month) |
+| :----------------------------------------------------------------------------------------------------------------------------- | :-----: | :-----------------------: | :-----------------------------: |
+| [Access to AV Slack](https://www.agileventures.org/free)                                                                       |    *    |             *             |                 *               |
+| [Access to AV Scrums](https://www.agileventures.org/free)                                                                      |    *    |             *             |                 *               |
+| [Project logistics advice and support](https://www.agileventures.org/free)                                                     |    *    |             *             |                 *               |
+| [User experience review of project (HCI)](https://www.agileventures.org/free)                                                  |    *    |             *             |                 *               |
+| [Financially supporting the AV mission of helping charities and real education for all](https://www.agileventures.org/premium) |         |             *             |                 *               |
+| [JetBrains Integrated Development Environment (IDE) licence](https://www.agileventures.org/premium)                            |         |             *             |                 *               |
+| [Eligibility to work on priority and paid projects](https://www.agileventures.org/premium)                                     |         |             *             |                 *               |
+| [Professional Code Review](https://www.agileventures.org/premium)                                                              |         |             *             |                 *               |
+| [Access to AV Professional Development Slack](https://www.agileventures.org/premium)                                           |         |             *             |                 *               |
+| [Voting rights in AV general meetings](https://www.agileventures.org/premiumplus)                                              |         |                           |                 *               |
+| [Two Hours Pair Programming with AV mentor](https://www.agileventures.org/premiumplus)                                         |         |                           |                 *               |
+| [Personalized 10 Year Professional Development Plan](http://www.agileventures.org/premiumplus)                                 |         |                           |                 *               |
+| [Discount to CraftAcademy Bootcamp](http://www.agileventures.org/premiumplus)                                                  |         |                           |                 *               |
 
 ### Sign up for
 
