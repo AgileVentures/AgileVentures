@@ -26,7 +26,7 @@ Always found it funny to talk about HTML and HTTP without any mention of Tim Ber
 
 ### 2.3.2 Inspecting the ID and Class attributes
 
-
+[![Inspecting the ID and Class attributes](https://raw.githubusercontent.com/AgileVentures/AgileVentures/master/images/saas_ells_screencasts/inspecting_id_and_class_attributes_2_3_2.jpg)](https://youtu.be/S0aPYEVYiTo)
 
 [Vimeo version](https://vimeo.com/34754568)
 
