@@ -40,7 +40,7 @@ Always found it funny to talk about HTML and HTTP without any mention of Tim Ber
 
 ### 2.7.1 Create and Update each require two interactions
 
-
+[![Create and Update each require two interactions](https://raw.githubusercontent.com/AgileVentures/AgileVentures/master/images/saas_ells_screencasts/create_and_update_each_require_two_interactions_2.7.1.jpg)](https://youtu.be/q6bOFDxkpck)
 
 [Vimeo version](https://vimeo.com/34754622)
 
