@@ -44,7 +44,7 @@ Always found it funny to talk about HTML and HTTP without any mention of Tim Ber
 
 ### 2.8.1 Interpolation into views using Haml
 
-
+[![Interpolation into views using Haml](https://raw.githubusercontent.com/AgileVentures/AgileVentures/master/images/saas_ells_screencasts/interpolation_into_views_using_haml_2_8_1.jpg)](https://youtu.be/Df7lYwBHrMo)
 
 [Vimeo version](https://vimeo.com/34754654)
 
