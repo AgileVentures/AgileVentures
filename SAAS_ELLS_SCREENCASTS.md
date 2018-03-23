@@ -12,7 +12,7 @@ These are the critical things to work through before you start on any of the Saa
 
 This video has some problems with the audio, and also it's not recorded in the VM, so the web developer tools are not in the same places as for students using the VM.  Also seems like the web developer toolbar extension is now not in the VM FF by default.
 
-
+[![Cookies](https://raw.githubusercontent.com/AgileVentures/AgileVentures/master/images/saas_ells_screencasts/cookies_2_2_1.jpg)](https://youtu.be/AolqBqYOp74)
 
 [Vimeo version](https://vimeo.com/33918630)
 
