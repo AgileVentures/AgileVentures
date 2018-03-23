@@ -52,6 +52,6 @@ Missing Screen cast from sections 4.1, 4.2 and 4.3
 
 ### 4.4.1 The Application Layout
 
-
+[![The Application Layout](https://raw.githubusercontent.com/AgileVentures/AgileVentures/master/images/saas_ells_screencasts/application_layout_4_4_1.jpg)](https://youtu.be/CGiYtVhMFqU)
 
 [Vimeo version](https://vimeo.com/34754667)
