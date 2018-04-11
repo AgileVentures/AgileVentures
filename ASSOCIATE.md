@@ -19,7 +19,7 @@ The main benefit from the associate plan is to help AgileVentures in its ongoing
 
 Posting to StackOverflow or similar forums is a fantastic way to get quick feedback on any coding problem you may have.  You'll need to follow the [guidelines](http://stackoverflow.com/help/how-to-ask) on how to ask a good question, but assuming you do and you post a link to your question into the #techtalk channel, and follow any instructions from AV mentors on how to improve your question, then we'll do our best to answer it, including starring it and up-voting to help attract the attention of others in case we cannot provide a direct answer ourselves.
 
-Premium cost is currently 5 pounds a month. [Sign up to be an AgileVentures Associate](http://www.agileventures.org/subscriptions/new?plan=associate)
+Premium cost is currently &#xa3;5 a month. [Sign up to be an AgileVentures Associate](http://www.agileventures.org/subscriptions/new?plan=associate)
 
 ### Frequently Asked Questions
 
@@ -27,6 +27,6 @@ Premium cost is currently 5 pounds a month. [Sign up to be an AgileVentures Asso
 
 Yes, you'll be charged each month automatically - please email info@agileventures.org if you would like to cancel your subscription.
 
-### 5 pounds/month is a lot of money for me, surely you want membership to be affordable to everyone, everywhere?
+### &#xa3;5/month is a lot of money for me, surely you want membership to be affordable to everyone, everywhere?
 
 Of course we do; however we also want to make our operation sustainable.  Associate membership is a way of donating to our cause in order to make it sustainable.

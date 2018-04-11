@@ -26,11 +26,11 @@ Posting to StackOverflow or similar forums is a fantastic way to get quick feedb
 
 By becoming an AgileVentures Premium member you become part of our NonProfit organisation and thus become eligible for a $10 discount on the CodeSchool monthly fee of $29.
 
-You'll also get licenses for great development software from JetBrains, such as the RubyMine integrated development environment (IDE).  These are for use on AgileVentures OpenSource projects, as approved by JetBrains.  The usual price is 15 POUNDS a month.
+You'll also get licenses for great development software from JetBrains, such as the RubyMine integrated development environment (IDE).  These are for use on AgileVentures OpenSource projects, as approved by JetBrains.  The usual price is &#xa3;15 a month.
 
 Return to Plan Pricing [Overview](http://www.agileventures.org/pricing)
 
-Premium cost is currently 10 POUNDS a month, and comes with a 7-day free trial.  Please alert info@agileventures.org within your first 7 days to cancel your subscription at no cost.
+Premium cost is currently &#xa3;10 a month, and comes with a 7-day free trial.  Please alert info@agileventures.org within your first 7 days to cancel your subscription at no cost.
 
 [Sign up for AgileVentures Premium](http://www.agileventures.org/subscriptions/new)
 
@@ -92,6 +92,6 @@ Because we are a good cause, and we're trying to help other good causes around t
 
 Yes, you'll be charged each month automatically - please email info@agileventures.org if you would like to cancel your subscription.
 
-### 10 Pounds/Month is a lot of money for me, surely you want membership to be affordable to everyone, everywhere?
+### &#xa3;10/Month is a lot of money for me, surely you want membership to be affordable to everyone, everywhere?
 
-Of course we do; however we also want to make our operation sustainable. If you can't afford 10 pounds/month please contact info@agileventures.org and we will see if we can find sponsorship to cover some or all of the costs of your premium membership.
+Of course we do; however we also want to make our operation sustainable. If you can't afford &#xa3;10/month please contact info@agileventures.org and we will see if we can find sponsorship to cover some or all of the costs of your premium membership.

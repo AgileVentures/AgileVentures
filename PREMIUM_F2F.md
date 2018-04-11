@@ -40,6 +40,6 @@ The main cost of Premium F2F is the time of the Senior AgileVentures Mentor who 
 
 Yes, you'll be charged each month automatically - please email info@agileventures.org if you would like to cancel your subscription.
 
-### 50 Pounds/Month is a lot of money for me, surely you want Premium F2F to be affordable to everyone, everywhere?
+### &#xa3;50/Month is a lot of money for me, surely you want Premium F2F to be affordable to everyone, everywhere?
 
-Of course we do; however we also want to make our operation sustainable.  If you can't afford 50 pounds/month please contact info@agileventures.org and we will see if we can find sponsorship to cover some or all of the costs of your Premium F2F membership.
+Of course we do; however we also want to make our operation sustainable.  If you can't afford &#xa3;50/month please contact info@agileventures.org and we will see if we can find sponsorship to cover some or all of the costs of your Premium F2F membership.

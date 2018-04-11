@@ -14,9 +14,9 @@ Commitment to transparency means that free tier membership provides significant 
 
 ## Income (as of April 2017)
 
-- Premium Membership (inc. Donor Subscriptions): 800 pounds a month from ~35 individuals
-- Corporate Sponsorship: 350 pounds a month
-- Contracts: ~ 16,000 pounds (so far 2017)
+- Premium Membership (inc. Donor Subscriptions): &#xa3;800 a month from ~35 individuals
+- Corporate Sponsorship: &#xa3;350 a month
+- Contracts: ~ &#xa3;16,000 (so far 2017)
 
 ## Outgoings
 

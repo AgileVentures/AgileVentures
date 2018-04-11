@@ -37,12 +37,12 @@ AgileVentures is registering as an official UK charity and as such is bound by r
 
 Discount to the [CraftAcademy](https://craftacademy.se/international/) Bootcamp. (Based on prices as of 16/6/16)
 
-- 2600 Pounds (60% discount) for a remote spot 
-- 5700 Pounds (20% discount) for a on-site spot in Sweden
+- &#xa3;2600 (60% discount) for a remote spot 
+- &#xa3;5700 (20% discount) for a on-site spot in Sweden
 
 Craft Academy remote students need to be in a timezone within 2 hours of UTC and must also not be a resident of Sweden. For on-site training a valid visa to Sweden is required.
 
-AgileVentures Premium Plus membership is currently 100 pounds a month.  Please email info@agileventures.org if you need to adjust or cancel your subscription.
+AgileVentures Premium Plus membership is currently &#xa3;100 a month.  Please email info@agileventures.org if you need to adjust or cancel your subscription.
 
 [Sign up for Premium Plus Membership](http://www.agileventures.org/subscriptions//new?plan=premiumplus)
 
@@ -60,6 +60,6 @@ The main cost of premium plus is the time of the Senior AgileVentures Mentor who
 
 Yes, you'll be charged each month automatically - please email info@agileventures.org if you would like to cancel your subscription.
 
-### 100 Pounds/Month is a lot of money for me, surely you want premium plus to be affordable to everyone, everywhere?
+### &#xa3;100/Month is a lot of money for me, surely you want premium plus to be affordable to everyone, everywhere?
 
-Of course we do; however we also want to make our operation sustainable.  If you can't afford 100 Pounds/Month please contact info@agileventures.org and we will see if we can find sponsorship to cover some or all of the costs of your premium plus membership.
+Of course we do; however we also want to make our operation sustainable.  If you can't afford &#xa3;100/Month please contact info@agileventures.org and we will see if we can find sponsorship to cover some or all of the costs of your premium plus membership.

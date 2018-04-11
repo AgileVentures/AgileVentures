@@ -38,6 +38,6 @@ The main cost of Premium Mob is the time of the Senior AgileVentures Mentor who 
 
 Yes, you'll be charged each month automatically - please email info@agileventures.org if you would like to cancel your subscription.
 
-### 25 Pounds/Month is a lot of money for me, surely you want Premium Mob to be affordable to everyone, everywhere?
+### &#xa3;25/Month is a lot of money for me, surely you want Premium Mob to be affordable to everyone, everywhere?
 
-Of course we do; however we also want to make our operation sustainable.  If you can't afford 25 Pounds/Month please contact info@agileventures.org and we will see if we can find sponsorship to cover some or all of the costs of your Premium Mob membership.
+Of course we do; however we also want to make our operation sustainable.  If you can't afford &#xa3;25/Month please contact info@agileventures.org and we will see if we can find sponsorship to cover some or all of the costs of your Premium Mob membership.

@@ -14,19 +14,107 @@ If you have any questions about NonProfit Support then please email nonprofits@a
 
 ### Pricing Plans
 
-|                                                                          | Free  | Basic (20 pounds/month) | Extra (100 pounds/month) | Enterprise (250 pounds/month) |
-| :----------------------------------------------------------------------- | :---: | :---------------------: | :----------------------: | :---------------------------: |
-| Consultation                                                             |   *   |            *            |             *            |                *              |
-| Access to AV Slack text chat support environment                         |       |            *            |             *            |                *              |
-| Initial handoff (~1hour)                                                 |       |            *            |             *            |                *              |
-| Support (~1hour a month)                                                 |       |            *            |             *            |                *              |
-| Designated AV contact person                                             |       |            *            |             *            |                *              |
-| Upgrade and Planning support                                             |       |            *            |             *            |                *              |
-| Support requests acknowledged within 2 working days, resolution within 5 |       |            *            |             *            |                *              |
-| Initial handoff (~5 hours)                                               |       |                         |             *            |                *              |
-| Support (~6 hour a month)                                                |       |                         |             *            |                *              |
-| Initial handoff (~8 hours)                                               |       |                         |                          |                *              |
-| Support (~15 hour a month) - includes new feature development            |       |                         |                          |                *              |
+<table class="tg" style="border-collapse: collapse;border-spacing:0;border-color: #aaa;">
+  <tbody>
+<tr>
+    <th class="tg-7cqi" style="font-family: Arial, sans-serif;font-size: 14px;font-weight: normal;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #ffffff;background-color: #ee7335;vertical-align: top;"><br></th>
+    <th class="tg-vc1w" style="font-family: Arial, sans-serif;font-size: 14px;font-weight: normal;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #ffffff;background-color: #ee7335;text-align: center;vertical-align: top;">Free  </th>
+    <th class="tg-vc1w" style="font-family: Arial, sans-serif;font-size: 14px;font-weight: normal;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #ffffff;background-color: #BC412B;text-align: center;vertical-align: top;">Basic<br> (&#xa3;20/month)</th>
+    <th class="tg-vc1w" style="font-family: Arial, sans-serif;font-size: 14px;font-weight: normal;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #ffffff;background-color: #BC412B;text-align: center;vertical-align: top;">Extra<br> (&#xa3;100/month)</th>
+    <th class="tg-vc1w" style="font-family: Arial, sans-serif;font-size: 14px;font-weight: normal;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #ffffff;background-color: #BC412B;text-align: center;vertical-align: top;">Enterprise<br> (&#xa3;250/month)</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Consultation</td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;</td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;</td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;</td>
+   <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;</td>
+  </tr>
+  <tr>
+    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;">Access to AV Slack text chat support environment</td>
+<td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;">
+<br>
+</td>
+<td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;">&#x2022;<br>
+</td>
+<td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;">&#x2022;<br>
+</td>
+<td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;">&#x2022;<br>
+</td>
+</tr>
+  <tr>
+    <td class="tg-yw4l" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Initial handoff (&#126;1hour)</td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;"></td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;</td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;</td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;</td>
+  </tr>
+<tr>
+    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;">Support (&#126;1hour a month)</td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;"></td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;">&#x2022;</td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;">&#x2022;</td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;">&#x2022;</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Designated AV contact person</td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;"></td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;</td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;</td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;</td>
+  </tr>
+  <tr>
+    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;">Upgrade and Planning support</td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;"></td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;">&#x2022;</td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;">&#x2022;</td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;">&#x2022;</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Support requests acknowledged within 2 working days, resolution within 5</td>
+<td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;"></td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;</td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;</td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;</td>
+  </tr>
+  <tr>
+    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;">Initial handoff (&#126;5 hours)<br>
+</td>
+<td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;"></td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;"></td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;">&#x2022;</td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;">&#x2022;</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Support (&#126;6 hour a month)<br>
+</td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;"></td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;"></td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;<br>
+</td>
+    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;</td>
+  </tr>
+  <tr>
+    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;">
+Initial handoff (&#126;8 hours)<br>
+</td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;"></td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;"></td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;"><br></td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;">&#x2022;<br>
+</td>
+  </tr>
+  <tr>
+    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Support (&#126;15 hour a month) - includes new feature development<br>
+</td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;"></td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;"></td>
+    <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;"><br></td>
+   <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;">&#x2022;<br>
+</td>
+  </tr>
+</tbody>
+</table>
 
 ### Sign up for AgileVentures NonProfit
 
