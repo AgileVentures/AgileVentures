@@ -13,14 +13,14 @@ If you're not trying to level up as an Agile software developer yourself, you ca
 		<th width="65px" align="center" style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;"><div style="text-align: center;"><a href="/free"><font color="#ffffff">Free</font></a></div></th>
 		<th width="65px" align="center" style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;">
 <div style="text-align: center;"><a href="/premium"><font color="#ffffff">Premium</font></a></div>
-<div style="text-align: center;">(£10/month)</div>
+<div style="text-align: center;">(&#xa3;10/month)</div>
 </th>
          <th width="65px" align="center" style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;">
 <div style="text-align: center;"><a href="/premium_mob"><font color="#ffffff">PremiumMob</font></a></div>
-<div style="text-align: center;">(£25/month)</div> </th>
+<div style="text-align: center;">(&#xa3;25/month)</div> </th>
 		<th width="60px" align="center" style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;">
 <div style="text-align: center;"><a href="/premium_f2f"><font color="#ffffff">PremiumF2F</font></a></div>
-<div style="text-align: center;">(£50/month)</div>
+<div style="text-align: center;">(&#xa3;50/month)</div>
 </th>
     </tr>
     <tr>
@@ -60,7 +60,7 @@ If you're not trying to level up as an Agile software developer yourself, you ca
 	</tr>
 	<tr>
 		<td style="font-family: Arial, sans-serif;font-size: 14px;background:#efefef;padding:8px;">
-<a href="/premium">JetBrains RubyMine/WebStorm (IDE) licence</a> <br>(worth £15/month)</td>    
+<a href="/premium">JetBrains RubyMine/WebStorm (IDE) licence</a> <br>(worth &#xa3;15/month)</td>    
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;"><img width="32px" src="https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/512/Tick_Mark-128.png" alt="icon" title="Image not found"></td>
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;"><img width="32px" src="https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/512/Tick_Mark-128.png" alt="icon" title="Image not found"></td>
