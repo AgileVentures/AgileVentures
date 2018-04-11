@@ -4,7 +4,9 @@ We're recommending all our projects adopt the [Contributor Covenant](https://www
 
 ### Step 1
 
+
 Find a project that interests you from the table below, and join the corresponding Slack channel:
+
 
 | Project Name          | Slack Channel          | Contacts                         | Primary Technologies                                |
 | :-------------------- | :--------------------: | :------------------------------: | :-------------------------------------------------: |
@@ -28,5 +30,6 @@ Use this name to alert that person to a specific message when you post to the pr
 "patrick" will then be alerted to your message and respond back.
 
 ![](https://raw.githubusercontent.com/AgileVentures/AgileVentures/master/gifts/getting-started-on-slack.gif)
+
 
 [On to Step 2](https://www.agileventures.org/getting-started-2)
