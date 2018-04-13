@@ -1,7 +1,5 @@
 # About Us
 
-Nico is Awesome!!!!
-
 Agile Ventures is an official UK Charity (#1170963) dedicated to crowdsourced learning and project development. We follow the Agile approach to software development (see below), and do so online everyday using remote pair programming technologies such as Google Hangouts. 
 
 Anyone at any skill level can participate or simply observe in the remote pair programming sessions and planning meetings as we develop solutions for real customers in the non-profit sector. There are no minimum requirements, simply an interest to learn.
