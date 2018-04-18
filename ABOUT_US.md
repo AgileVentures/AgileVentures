@@ -1,6 +1,5 @@
 # About Us
 
-tansaku rocks
 
 Agile Ventures is an official UK Charity (#1170963) dedicated to crowdsourced learning and project development. We follow the Agile approach to software development (see below), and do so online everyday using remote pair programming technologies such as Google Hangouts. 
 
