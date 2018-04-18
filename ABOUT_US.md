@@ -13,7 +13,7 @@ Agile Ventures general scrums (anyone can join and ask any question) currently r
 
 - 15:15 UTC ["Kent Beck" Scrum & Pair Hookup](http://www.agileventures.org/events/kent-beck-scrum-and-pair-hookup) (Scrum Master: [Sam Joseph](http://agileventures.org/users/sam-joseph))
 
-**The above times are subject to change, so do double check the [event listing](/events)**  and to be doubly sure please join the Slack chat environment. Send email to [support@agileventure.org](support@agileventure.org) to be added to the Slack chat rooms we currently use to ensure that the live hangout links get distributed.
+**The above times are subject to change, so do double check the [event listings](/events)**  and to be doubly sure please join the Slack chat environment. [Sign up](/users/sign_up) to AgileVentures to get a free invite to the Slack chat rooms we currently use to ensure that the live hangout links get distributed.  If you don't get the Slack invite through email, please contact us at [support@agileventure.org](support@agileventure.org) to be added directly to the Slack chat.
 
 
 ## What exactly can you get out of participating in AgileVentures?
