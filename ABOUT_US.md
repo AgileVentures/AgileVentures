@@ -13,7 +13,7 @@ Agile Ventures general scrums (anyone can join and ask any question) currently r
 
 - 15:15 UTC ["Kent Beck" Scrum & Pair Hookup](http://www.agileventures.org/events/kent-beck-scrum-and-pair-hookup) (Scrum Master: [Sam Joseph](http://agileventures.org/users/sam-joseph))
 
-**The above times are subject to change, so do double check the event listing at** http://agileventures.org/events and to be doubly sure please join the Slack chat environment. Send email to support@agileventure.org to be added to the Slack chat rooms we currently use to ensure that the live hangout links get distributed.
+**The above times are subject to change, so do double check the [event listing](/events)**  and to be doubly sure please join the Slack chat environment. Send email to [support@agileventure.org](support@agileventure.org) to be added to the Slack chat rooms we currently use to ensure that the live hangout links get distributed.
 
 
 ## What exactly can you get out of participating in AgileVentures?
@@ -33,7 +33,7 @@ Agile Ventures general scrums (anyone can join and ask any question) currently r
 - Get hired
 - Just have fun, meet new people from all over the world and socialize
 
-Please see the following document: http://agileventures.org/getting-started
+Please see the following document: [http://agileventures.org/getting-started](http://agileventures.org/getting-started)
 
 ### As a charity or non-profit organisation
 
@@ -43,7 +43,7 @@ Both Agile Ventures as a community and individual Agile Ventures developers are 
 
 Feel free to sign up for our services:
 
-http://bitly.com/AgileVenturesNonProfitSignup
+[http://bitly.com/AgileVenturesNonProfitSignup](http://bitly.com/AgileVenturesNonProfitSignup)
 
 ## History of Agile Ventures
 
