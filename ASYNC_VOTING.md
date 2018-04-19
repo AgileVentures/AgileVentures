@@ -18,7 +18,7 @@ e.g.
 
 The bot should then present a voting interface:
 
-![](images/Screenshot%202017-08-16%2013.47.01.png)
+![](https://github.com/AgileVentures/AgileVentures/blob/master/images/Screenshot%202017-08-16%2013.47.01.png?raw=true)
 
 Ideally no one should press **reveal** until at least three votes have been cast, or thereabouts, but this can vary from project to project.  The idea is that 1 means simple, 2 means medium difficulty and 3 means hard; for for example 1 is a simple change to, say, only the view part of an app. 2 might involve database changes or using a new library, and 3 a combination of the previous with perhaps other sources of extra complexity. 
 
