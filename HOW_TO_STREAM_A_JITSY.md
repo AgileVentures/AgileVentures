@@ -4,21 +4,21 @@
 
 2. Update the Stream information as appropriate:
 
-![](images/Screenshot%202017-07-27%2016.15.42.png)
+![](https://github.com/AgileVentures/AgileVentures/blob/master/images/Screenshot%202017-07-27%2016.15.42.png?raw=true)
 
 3. Click on the button Reveal 
 
-![](images/Screenshot%202017-07-27%2016.11.30.png) 
+![](https://github.com/AgileVentures/AgileVentures/blob/master/images/Screenshot%202017-07-27%2016.11.30.png?raw=true) 
 
 4. Copy the code to your clipboard>
 
 5. Click the youtube stream button in the jitsy: 
 
-![](images/Screenshot%202017-07-27%2016.12.23.png)
+![](https://github.com/AgileVentures/AgileVentures/blob/master/images/Screenshot%202017-07-27%2016.12.23.png?raw=true)
 
 6. Paste in the code 
 
-![](images/Screenshot%202017-07-27%2016.13.04.png) 
+![](https://github.com/AgileVentures/AgileVentures/blob/master/images/Screenshot%202017-07-27%2016.13.04.png?raw=true) 
 
 7. click the "Start live streaming" button
 
