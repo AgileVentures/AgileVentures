@@ -42,7 +42,7 @@ Find a project that interests you from the table below, and join the correspondi
   </tr>
   <tr>
     <td class="tg-z2zr" style="padding:10px 5px;border-image:none;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;background-color: #008080;"><a style="color: #ffffff;" href="https://www.agileventures.org/projects/open-peer-power">Open Peer Power</a></td>
-    <td class="tg-z2zr" style="padding:10px 5px;border-image:none;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;background-color: #008080;"><a style="color: #ffffff;" href="https://agileventures.slack.com/messages/C6M6QND5X/">#osra</a></td>
+    <td class="tg-z2zr" style="padding:10px 5px;border-image:none;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;background-color: #008080;"><a style="color: #ffffff;" href="https://agileventures.slack.com/messages/C6M6QND5X/">#open_peer_power</a></td>
     <td class="tg-z2zr" style="border-width:0px;border-style:solid;padding:10px 5px;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;background-color: #008080;"><font color="#ffffff">pcaston</font></td>
     <td class="tg-z2zr" style="border-width:0px;border-style:solid;padding:10px 5px;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;background-color: #008080;"><font color="#ffffff">Ruby on Rails/Node</font></td>
   </tr>
