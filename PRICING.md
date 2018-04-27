@@ -88,7 +88,7 @@ If you're not trying to level up as an Agile software developer yourself, you ca
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;border-right:solid 1px #ddd;"><img width="32px" src="https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/512/Tick_Mark-128.png" alt="icon" title="Image not found"></td>
 		</tr>
 	<tr>
-		<td style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;"><a href="/premium_mob">Several hours a week mob programming (group) sessions with assigned AV mentor</a></td>    
+		<td style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;"><a href="/premium_mob">One hour a week mob programming (group) sessions with assigned AV mentor</a></td>    
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"><img width="32px" src="https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/512/Tick_Mark-128.png" alt="icon" title="Image not found"></td>
