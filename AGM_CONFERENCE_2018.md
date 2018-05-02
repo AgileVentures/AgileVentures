@@ -18,3 +18,25 @@ Presentations planned on the following projects:
 * Y
 
 The format will be 15 minute online presentations followed by 15 minutes for disucssion.  Then 30 minute breakout networking sessions before the next presentation
+
+## Who is the target of this Conference
+Everyone is welcome to participate in the conference.
+(Maybe some interesting sales pitch here?)
+
+## Election of new Trustees
+### Who are the candidates
+#### John Doe
+
+Some information about him
+
+#### Jane Doe
+
+Some information about her
+
+## Who can vote
+
+According to the rules all Premium Members can vote
+
+## How will the vote be recorded
+
+.....
