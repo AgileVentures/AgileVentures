@@ -22,11 +22,9 @@ In addition to all the other benefits your subscription to a premium plan helps 
 
 Posting to StackOverflow or similar forums is a fantastic way to get quick feedback on any coding problem you may have.  You'll need to follow the [guidelines](http://stackoverflow.com/help/how-to-ask) on how to ask a good question, but assuming you do and you post a link to your question into the #techtalk channel, and follow any instructions from AV mentors on how to improve your question, then we'll do our best to answer it, including starring it and up-voting to help attract the attention of others in case we cannot provide a direct answer ourselves.
 
-### Get discounts on important software and services for developers?
+### Get discounts on services for developers?
 
 By becoming an AgileVentures Premium member you become part of our NonProfit organisation and thus become eligible for a $10 discount on the CodeSchool monthly fee of $29.
-
-You'll also get licenses for great development software from JetBrains, such as the RubyMine integrated development environment (IDE).  These are for use on AgileVentures OpenSource projects, as approved by JetBrains.  The usual price is &#xa3;15 a month.
 
 Return to Plan Pricing [Overview](http://www.agileventures.org/pricing)
 
