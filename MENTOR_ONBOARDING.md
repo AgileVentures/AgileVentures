@@ -11,5 +11,5 @@ I would recommend that you also set your status to `av-mentor`:
  
 ![av-mentor status](https://dl.dropbox.com/s/3ubxgeezo548ze6/Screenshot%202018-05-10%2012.14.39.png?dl=0)
  
-This will make the black hover tooltip, actually say something (i.e. `av-mentor`):
+This will make the black hover tooltip actually say something (i.e. `av-mentor`):
 ![av-mentor status tooltip](https://dl.dropbox.com/s/f1de08ox5kak36v/Screenshot%202018-05-10%2006.18.22.png)
