@@ -32,7 +32,7 @@ Return to Plan Pricing [Overview](http://www.agileventures.org/pricing)
 
 Premium cost is currently &#xa3;10 a month, and comes with a 7-day free trial.  Please alert info@agileventures.org within your first 7 days to cancel your subscription at no cost.
 
-[Sign up for AgileVentures Premium](http://www.agileventures.org/subscriptions/new)
+[Sign up for AgileVentures Premium](http://www.agileventures.org/subscriptions/new?plan=premium)
 
 Want even more benefits including scheduled pair programming time with senior AV [mentors](http://www.agileventures.org/mentors)?  Check out our [Premium Plus membership](http://www.agileventures.org/premiumplus).
 
