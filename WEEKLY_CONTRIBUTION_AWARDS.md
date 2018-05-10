@@ -8,3 +8,5 @@
     - for contributions to [LocalSupport](https://www.agileventures.org/projects/localsupport/) and [AsyncVoter](https://www.agileventures.org/projects/asyncvoter/)
 - 23rd April 2018 --- [Nick Schimek](https://www.agileventures.org/users/cfme00) 
     - for contributions to [LocalSupport](https://www.agileventures.org/projects/localsupport/) and [WebSiteOne](https://www.agileventures.org/projects/websiteone/)
+- 7th May 2018 --- [Mariam Ahhttouche](https://www.agileventures.org/users/mariam-ahhttouche) 
+    - for contributions to [LocalSupport](https://www.agileventures.org/projects/localsupport/), [WebSiteOne](https://www.agileventures.org/projects/websiteone/) and [MetPlus](https://www.agileventures.org/projects/metplus/)
