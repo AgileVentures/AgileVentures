@@ -8,7 +8,7 @@ Remote pair programming will involve arranging a mutually convenient time and wi
 
 We have several existing charity projects, but are also open to suggestions for new charity projects and tech stacks/frameworks.  We currently have charity projects--using Rails, Elixir/Phoenix, React, and Node--ready to work on, but are also excited to try new things :-)
    
-Remote pairing can be at any level from novice programmer to expert.  Our mentor will adjust the complexity of the programming task to suit your level.  See example session below:
+Remote pairing can be at any level from novice programmer to expert.  Our mentor will adjust the complexity of the programming task to suit your level.  Click on the image below to view an example session:
 
 [![Pairing Session on Rails](https://img.youtube.com/vi/5gqxw-s0hfw/0.jpg)](https://www.youtube.com/watch?v=5gqxw-s0hfw)
 
