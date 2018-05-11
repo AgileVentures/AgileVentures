@@ -10,7 +10,7 @@ Presentations planned on the following projects:
 * ??:00 UTC WebSiteOne
 * ??:00 UTC SHF
 * ??:00 UTC MetPlus
-* 14:00 UTC RFM (Robert Schäfer)
+* 14:00 UTC RFM (Robert Sch&#228fer)
 * 15:00 UTC Wiki Edu Dashboard (Sage Ross)
 * ??:00 UTC AGM MEETING
 * ??:00 UTC AsyncVoter
