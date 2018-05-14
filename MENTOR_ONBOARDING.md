@@ -1,3 +1,9 @@
+General Mentor Onboarding Steps
+===============================
+
+Mentor Slack Badge
+------------------
+
 How to set up your mentor badge in slack:
 
 ![set badge steps](https://dl.dropbox.com/s/u7p6bf4cm69ldkt/Screenshot%202018-05-10%2012.07.59.png?dl=0)
@@ -13,3 +19,21 @@ I would recommend that you also set your status to `av-mentor`:
  
 This will make the black hover tooltip actually say something (i.e. `av-mentor`):
 ![av-mentor status tooltip](https://dl.dropbox.com/s/f1de08ox5kak36v/Screenshot%202018-05-10%2006.18.22.png)
+
+
+Mentor in AV Site
+------------------
+
+* add to https://www.agileventures.org/mentors
+
+Private Mentor Slack Groups
+---------------------------
+
+* invite to #mentors
+
+Incentivized Mentor Onboarding Steps
+===============================
+
+* add to #mentors_extra
+* ensure they are set up with AV calendar
+* add to https://github.com/AgileVentures/AgileVentures/blob/master/PREMIUM_F2F_OFFER.md if willing to take F2F sessions
