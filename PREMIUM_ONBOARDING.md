@@ -10,7 +10,7 @@ and post the following:
 
 > hi @<slack-tag> - this is your private premium support channel - I'm here as your mentor, but others may join later :slightly_smiling_face:
 
-Here's a list of all your Premium benefits:
+> Here's a list of all your Premium benefits:
 
 ```* Access to AgileVentures' private Premium Slack channels (#professional_develop, #jobs, #tech_tests etc.)
 * Professional Code Review
