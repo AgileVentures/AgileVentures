@@ -4,7 +4,7 @@ New Premium Member Sign Up
 Creating Private Premium Channel
 --------------------------------
 
-e.g. premium_annie
+e.g. premium_annie (+ surname if necessary)
 
 and post the following:
 
@@ -16,7 +16,8 @@ Here's a list of all your Premium benefits:
 * Professional Code Review
 * Eligibility to work on paid projects
 * Support on any questions you post to StackOverflow
-* CodeSchool NonProfit Discount ($10 a month saving)```
+* CodeSchool NonProfit Discount ($10 a month saving)
+```
 
 Editing as appropriate
 
