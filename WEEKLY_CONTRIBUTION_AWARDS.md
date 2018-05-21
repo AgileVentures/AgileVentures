@@ -10,3 +10,5 @@
     - for contributions to [LocalSupport](https://www.agileventures.org/projects/localsupport/) and [WebSiteOne](https://www.agileventures.org/projects/websiteone/)
 - 7th May 2018 --- [Mariam Ahhttouche](https://www.agileventures.org/users/mariam-ahhttouche) 
     - for contributions to [LocalSupport](https://www.agileventures.org/projects/localsupport/), [WebSiteOne](https://www.agileventures.org/projects/websiteone/) and [MetPlus](https://www.agileventures.org/projects/metplus/)
+- 21st May 2018 --- [Ryder Timberlake](https://www.agileventures.org/users/wrtimberlake) 
+    - for contributions to [Paironauts](https://github.com/AgileVentures/paironauts)
