@@ -15,7 +15,7 @@ Presentations planned on the following projects:
 * 17:00 UTC Metplus (Joao)                 EDT - 13:00
 * 18:00 UTC                                EDT - 14:00
 * 19:00 UTC                                EDT - 15:00
-* 20:00 UTC                                EDT - 16:00
+* 20:00 UTC Y (Will)                       EDT - 16:00
 
 
 * ??:00 UTC AGM MEETING
@@ -28,6 +28,5 @@ Presentations planned on the following projects:
 * ??:00 UTC AsyncVoter (?)
 * ??:00 UTC Paironauts (Ryder)
 * ??:00 UTC PhoenixOne (Federico)
-* ??:00 UTC Y (Will)
 
 The format will be 15 minute online presentations followed by 15 minutes for discussion.  Then 30 minute breakout networking sessions before the next presentation
