@@ -13,19 +13,20 @@ Presentations planned on the following projects:
 * 15:00 UTC Wiki Edu Dashboard (Sage Ross) EDT - 11:00
 * 16:00 UTC                                EDT - 12:00
 * 17:00 UTC Metplus (Joao)                 EDT - 13:00
-* 18:00 UTC                                EDT - 14:00
-* 19:00 UTC                                EDT - 15:00
+* 18:00 UTC WebsiteOne (Nico)              EDT - 14:00
+* 19:00 UTC Paironauts (Ryder)             EDT - 15:00
 * 20:00 UTC Y (Will)                       EDT - 16:00
 
 
 * ??:00 UTC AGM MEETING
 
 
-* ??:00 UTC LocalSupport (?)
-* ??:00 UTC WebSiteOne (?)
+* ??:00 UTC LocalSupport (Sam)
+* ??:00 UTC WebSiteOne (Nico)
 * ??:00 UTC SHF (Susanna)
+* ??:00 UTC AutomatedPremium (Michael)
 
-* ??:00 UTC AsyncVoter (?)
+* ??:00 UTC AsyncVoter (Paolo?)
 * ??:00 UTC Paironauts (Ryder)
 * ??:00 UTC PhoenixOne (Federico)
 
