@@ -8,10 +8,10 @@ Presentations planned on the following projects:
 
 
 * 12:00 UTC SHF (Susanna/Pat)              EDT - 08:00
-* 13:00 UTC                                EDT - 09:00
+* 13:00 UTC ---open---                     EDT - 09:00
 * 14:00 UTC RFM (Robert Sch&#228;fer)      EDT - 10:00
 * 15:00 UTC Wiki Edu Dashboard (Sage Ross) EDT - 11:00
-* 16:00 UTC                                EDT - 12:00
+* 16:00 UTC ---open---                     EDT - 12:00
 * 17:00 UTC Metplus (Joao)                 EDT - 13:00
 * 18:00 UTC WebsiteOne (Nico)              EDT - 14:00
 * 19:00 UTC Paironauts (Ryder)             EDT - 15:00
