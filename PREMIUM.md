@@ -37,7 +37,7 @@
       <p></p>
       <div>By becoming an AgileVentures Premium member you become part of our NonProfit organisation and thus become eligible for a $10 discount on the CodeSchool monthly fee of $29.</div>
       <div><br></div>
-      <div>You'll also get licenses for great development software from JetBrains, such as the RubyMine integrated development environment (IDE). &nbsp;These are for use on AgileVentures OpenSource projects, as approved by JetBrains. &nbsp;The usual price is&nbsp;£15 a month.<br>
+      <div>You'll also get licenses for great development software from JetBrains, such as the RubyMine integrated development environment (IDE). &nbsp;These are for use on AgileVentures OpenSource projects, as approved by JetBrains. &nbsp;The usual price is&nbsp;&#xa3;15 a month.<br>
       </div>
       <p></p>
    </details>
@@ -51,7 +51,7 @@
       <div>
          <hr>
       </div>
-      <div>Premium cost is currently £10 a month, and comes with a 7-day free trial. &nbsp;Please alert <a href=\"mailto:info@agileventures.org\" style=\"background-color: rgb(248, 248, 248);\">info@agileventures.org</a> within your first 7 days to cancel your subscription at no cost.<br></div>
+      <div>Premium cost is currently &#xa3;10 a month, and comes with a 7-day free trial. &nbsp;Please alert <a href=\"mailto:info@agileventures.org\" style=\"background-color: rgb(248, 248, 248);\">info@agileventures.org</a> within your first 7 days to cancel your subscription at no cost.<br></div>
       <p><a href=\"http://www.agileventures.org/subscriptions/new\">Sign up for AgileVentures Premium</a><br></p>
       <p>Want even more benefits including scheduled pair programming time with senior AV <a href=\"http://www.agileventures.org/mentors\">mentors</a>? &nbsp;Check out our <a href=\"http://www.agileventures.org/premiumplus\">Premium Plus membership</a>.</p>
       <hr>
@@ -145,9 +145,9 @@
       </details>
       <br>
       <details>
-         <summary><b>£10/month is a lot of money for me, surely you want membership to be affordable to everyone, everywhere?</b></summary>
+         <summary><b>&#xa3;10/month is a lot of money for me, surely you want membership to be affordable to everyone, everywhere?</b></summary>
          <p></p>
-         <p>Of course we do; however we also want to make our operation sustainable. If you can't afford £10/month please contact <a href=\"mailto:info@agileventures.org\">info@agileventures.org</a> and we will see if we can find sponsorship to cover some or all of the costs of your premium membership.</p>
+         <p>Of course we do; however we also want to make our operation sustainable. If you can't afford &#xa3;10/month please contact <a href=\"mailto:info@agileventures.org\">info@agileventures.org</a> and we will see if we can find sponsorship to cover some or all of the costs of your premium membership.</p>
       </details>
       <div></div>
    </div>
