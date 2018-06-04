@@ -93,7 +93,7 @@
       </details>
       <br>
       <details>
-         <summary><b>Does being a Premium member mean that my PR is going to be accepted even if it doesn’t seem relevant?</b></summary>
+         <summary><b>Does being a Premium member mean that my PR is going to be accepted even if it doesn't seem relevant?</b></summary>
          <p></p>
          <p>No it doesn't mean it will be accepted - but being a Premium member means we'll try harder to work with you to get it into a shape where it can be accepted.  Even if it ultimately doesn't make sense to merge it in, we'll be doing our best to ensure that you derive the maximum learning benefit from the experience.</p>
          <p></p>
@@ -106,7 +106,7 @@
       </details>
       <br>
       <details>
-         <summary><b>In the case where multiple Premium members have submitted PR’s, how will they be prioritized?</b></summary>
+         <summary><b>In the case where multiple Premium members have submitted PR's, how will they be prioritized?</b></summary>
          <p></p>
          <p>Given PRs from multiple Premium members project priorities come into play.  Exploring the interplay between delivering value to the end client, use of different technologies and team collaboration is precisely what the AgileVentures experience is all about.  If there are many Premium members submitting PRs and we don't have enough reviewers to meet the demand we will need to recruit and or hire more reviewers, or possibly adjust the pricing model.</p>
       </details>
