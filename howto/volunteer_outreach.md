@@ -1,3 +1,6 @@
+Sales & Marketing Intern
+------------------------
+
 Example first email to sales and marketing intern applicant:
 
 ```
@@ -34,4 +37,36 @@ Sorry for the delay in getting back to you.  Would you be interested in joining 
 If you're interested let us know.
 
 Best, Sam
+```
+
+UI/UX Designer
+-------------
+
+
+Example acceptance email:
+
+```
+Hi Name,
+
+Sorry for the further delay - we'd love to get you involved.   What's your availability during the week?
+
+Feel free to sign up at https://www.agileventures.org and you'll get an invite to our slack instance where you can meet different project leads and find out more about our community.
+
+Best, Sam
+```
+
+Junior Developer
+----------------
+
+Example first contact email:
+
+```
+Hi Name,
+
+Great to hear from you.  Please sign up at https://www.agileventures.org if you'd like to pursue this opportunity.  Once you've signed up you'll get an email invite to our Slack chat instance.  There we can talk more about the role and getting your involved with our programming team.
+
+Since we're a charity with a limited budget this is unfortunately an unpaid position.  We can cover expenses, but would be very happy to have you join us as a volunteer junior developer if your background makes you a good fit.  We can give you experience with the latest tech stacks and collaboration with developers from all over the world.
+
+Many thanks in advance
+Best regards 
 ```
