@@ -28,3 +28,12 @@ Adding to Channels
 ------------------
 
 Depending on your discussion with the new member, you may want to immediately to add them to all the private channels, but the only requirement is to add them to #professional_develop - they may or may not be interested in the others ...
+
+Help messages after Adding to a Channel
+---------------------------------------
+
+It may help the new member to let them know a little about the channel they've just joined (even in the channel where it might help remind others of the channel purpose), like so:
+
+> @name this channel has all the AV mentors, and all members who are Premium and above; and it's for any questions about Premium or professional development in general :-)
+
+> please feel free to introduce yourself or just hang out and listen - it's all good :-)
