@@ -12,7 +12,8 @@ and post the following:
 
 > Here's a list of all your Premium benefits:
 
-```* Access to AgileVentures' private Premium Slack channels (#professional_develop, #jobs, #tech_tests etc.)
+```
+* Access to AgileVentures' private Premium Slack channels (#professional_develop, #jobs, #tech_tests etc.)
 * Professional Code Review
 * Eligibility to work on paid projects
 * Support on any questions you post to StackOverflow
