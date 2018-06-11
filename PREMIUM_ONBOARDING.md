@@ -37,3 +37,12 @@ It may help the new member to let them know a little about the channel they've j
 > @name this channel has all the AV mentors, and all members who are Premium and above; and it's for any questions about Premium or professional development in general :-)
 
 > please feel free to introduce yourself or just hang out and listen - it's all good :-)
+
+Checking User Represented Correctly on Site
+-------------------------------------------
+
+Assuming the sign up process has gone off correctly, the new member shoul be visible in the list of Premium members:
+
+https://www.agileventures.org/premium_members
+
+
