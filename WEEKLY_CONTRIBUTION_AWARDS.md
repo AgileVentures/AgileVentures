@@ -11,4 +11,6 @@
 - 7th May 2018 --- [Mariam Ahhttouche](https://www.agileventures.org/users/mariam-ahhttouche) 
     - for contributions to [LocalSupport](https://www.agileventures.org/projects/localsupport/), [WebSiteOne](https://www.agileventures.org/projects/websiteone/) and [MetPlus](https://www.agileventures.org/projects/metplus/)
 - 21st May 2018 --- [Ryder Timberlake](https://www.agileventures.org/users/wrtimberlake) 
-    - for contributions to [Paironauts](https://github.com/AgileVentures/paironauts)
+    - for contributions to the mobs and [Paironauts](https://github.com/AgileVentures/paironauts)
+- 11th June 2018 --- [Matt Rider](https://www.agileventures.org/users/wrtimberlake) 
+    - for contributions to the mobs, RFM, ChampionerOne, Anvil and [Paironauts](https://github.com/AgileVentures/paironauts)
