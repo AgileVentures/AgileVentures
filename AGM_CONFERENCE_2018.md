@@ -4,7 +4,7 @@ AgileVentures Annual General Meeting (AGM) and Conference
 Tues June 26th 2018
 -------------------
 
-Presentations planned on the following projects:
+Running order:
 
 * 11:00 UTC (07:00 EDT) -- [LocalSupport](/projects/localsupport) (Sam) 
 * 12:00 UTC (08:00 EDT) -- [SHF](/projects/shf-project) (Susanna/Pat)
