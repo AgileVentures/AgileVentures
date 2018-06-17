@@ -1,12 +1,11 @@
 Elixir
 -------
 
-/remind #premium_extra to *Elixir mob* is @here on Monday at this time - we're currently working on https://github.com/AgileVentures/Paironauts at 12:45PM every Friday
+/remind #premium_extra to *Elixir mob* is @here on Wednesday at this time - we're currently working on https://github.com/AgileVentures/Paironauts at 12:45PM every Friday
 
-/remind #premium_extra to *Elixir mob* is @here on Monday at this time - we're currently working on https://github.com/AgileVentures/Paironauts at 12:45PM every Sunday
+/remind #premium_extra to *Elixir mob* starting @here in 15 minutes - mobbing on https://github.com/AgileVentures/Paironauts at 12:30PM every Wednesday
 
-/remind #premium_extra to *Elixir mob* starting @here in 15 minutes - mobbing on https://github.com/AgileVentures/Paironauts at 12:30PM every Monday
-
+/remind #premium_extra to *Elixir mob* is @here on Wednesday at this time - we're currently working on https://github.com/AgileVentures/Paironauts at 12:45PM every Sunday
 
 WebDev
 ------
@@ -52,13 +51,18 @@ AsyncVoter
 WebSiteOne
 ----------
 
-/remind #websiteone to any tickets you want voted on in the weekly meeting @here in 2 hours? at May 15th 1PM every two weeks
-/remind #websiteone to prepare for weekly meeting @here in 10 minutes at May 15th 2:50PM every two weeks
+/remind #websiteone to any tickets you want voted on in the weekly meeting @here in 2 hours? at Jun 19th 1PM every two weeks
+/remind #websiteone to prepare for weekly meeting @here in 10 minutes at Jun 19th 2:50PM every two weeks
 
 
 NHS Wiki meeting
 -----------------
 
 /remind #nhs-wiki to *hlpwiki* meeting @here in 15 minutes at 4:15PM every Wednesday Delete
-/Remind #nhs-wiki to *hlpwiki* meeting @here at 4:30PM every Wednesday
+/remind #nhs-wiki to *hlpwiki* meeting @here at 4:30PM every Wednesday
 
+Marketing
+----------
+
+/remind #marketing to @here check marketing meeting action items (and optionally meet up) at 12:30PM every Monday
+/remind #marketing to Marketing meeting starting @here in 10 minutes at 12:35PM every Wednesday
