@@ -19,3 +19,5 @@ Running order:
 * 20:00 UTC (16:00 EDT) -- [Y](/projects/y) (Will)
 
 The format will be 15 minute online presentations followed by 15 minutes for discussion.  Then 30 minute breakout networking sessions before the next presentation
+
+All live feeds will be available in the AgileVentures Slack on the day - just jump into Slack to participate.  There's a limit of seven people in each hangout, and Premium members will have first refusal on these places, but any places that are not filled will be made available on a first come first served basis.   
