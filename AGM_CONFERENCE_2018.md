@@ -57,4 +57,4 @@ According to the rules all Premium F2F Members are eligible to vote
 
 ## How will the vote be recorded
 
-The vote will be organised by the chair of the AGM who will ask the eligible members to approve trustees with an indication of 'yay' or 'nay' in the text chat associated with the event hangout
+The vote will be organised by the chair of the AGM who will ask the eligible members to approve trustees with an indication of 'yay' or 'nay' in the text chat associated with the event hangout.  In the event of a tie the chair will cast the deciding vote.
