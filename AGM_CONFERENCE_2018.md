@@ -6,6 +6,7 @@ Tues June 26th 2018
 
 Running order:
 
+* 10:30 UTC (06:30 EDT) -- Conference opening and introduction (Sam) 
 * 11:00 UTC (07:00 EDT) -- [LocalSupport](/projects/localsupport) (Sam) 
 * 12:00 UTC (08:00 EDT) -- [SHF](/projects/shf-project) (Susanna/Pat)
 * 13:00 UTC (09:00 EDT) -- [PhoenixOne](/projects/phoenixone) (Federico)
