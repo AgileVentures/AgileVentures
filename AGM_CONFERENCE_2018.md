@@ -29,14 +29,13 @@ Everyone is welcome to participate in the conference, particularly those who'd l
 ### Who are the candidates
 #### Bryan Yap
 
-A long time member of AgileVentures, worked on projects including WebsiteOne, Codealia and LocalSupport. Was very active back in the day when he was still learning how to develop software (basically unemployed), and now he is a full time software developer at Alliants. Always looking for new challenges and ideas, he isn’t afraid of testing new technologies such as Elixir, React, GraphQL and Rust.
+Bryan is a long time member of AgileVentures, worked on projects including WebsiteOne, Codealia and LocalSupport. Was very active back in the day when he was still learning how to develop software, and his experiences have since landed him a professional job working in software. He is now a lead developer working remotely for a company called Inflowmatix. Always looking for new challenges and ideas, he isn’t afraid of testing new technologies such as Elixir, React, GraphQL and Rust.
 
-Nowadays, he is a mentor for the AgileVentures premium members and occasionally pops into Slack channels for a chat. He doesn’t bite so drop him a message if you see him online, he is always happy to help.
+Being one of the success stories from AgileVentures early days, he strongly believes in their philosophy on bringing up new software developers. He is currently chair of the board of trustees for AgileVentures.
 
 #### Steve Porter
 
 Steve Porter is the CEO of Capable Communities, a Social Enterprise company, and he believes strongly in the capability of voluntary and community groups to achieve positive social change.  He wants to help this process by strengthening groups so they can successfully compete with other sectors, win public sector contracts and deliver on an equal footing with the public sector.  
-
 
 #### Rachel Wright
 
