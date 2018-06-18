@@ -1,0 +1,72 @@
+Sales & Marketing Intern
+------------------------
+
+Example first email to sales and marketing intern applicant:
+
+```
+Hi NAME,
+
+Great to hear from you.
+
+Our sales and marketing intern at AgileVentures is unpaid, but we do cover expenses.  We're a UK charity trying to help other charities with their IT and help people around the world skill up in IT and programming.
+
+If you're interested please send me your resume, references and a cover letter and we'll review and get back to you.
+
+Best, Sam 
+```
+
+Example acceptance email to sales and marketing intern applicant:
+
+```
+Hi NAME,
+
+Hope you had a good weekend.  Please join our Slack by going to https://www.agileventures.org.
+
+The references that have come in so far are very good - hope we can chat on Slack soon.  I'll invite you into the marketing channel :-)
+
+Best, Sam
+```
+
+Example trial email to sales and marketing intern applicant:
+
+```
+Hi Alex,
+
+Sorry for the delay in getting back to you.  Would you be interested in joining our marketing meeting next Wed at 12:45pm UTC+1 to see if you'd be a good fit for our intern position?
+
+If you're interested let us know.
+
+Best, Sam
+```
+
+UI/UX Designer
+-------------
+
+
+Example acceptance email:
+
+```
+Hi Name,
+
+Sorry for the further delay - we'd love to get you involved.   What's your availability during the week?
+
+Feel free to sign up at https://www.agileventures.org and you'll get an invite to our slack instance where you can meet different project leads and find out more about our community.
+
+Best, Sam
+```
+
+Junior Developer
+----------------
+
+Example first contact email:
+
+```
+Hi Name,
+
+Great to hear from you.  Please sign up at https://www.agileventures.org if you'd like to pursue this opportunity.  Once you've signed up you'll get an email invite to our Slack chat instance.  There we can talk more about the role and getting your involved with our programming team.
+
+Since we're a charity with a limited budget this is unfortunately an unpaid position.  We can cover expenses, but would be very happy to have you join us as a volunteer junior developer if your background makes you a good fit.  We can give you experience with the latest tech stacks and collaboration with developers from all over the world.
+
+Many thanks in advance
+Best regards 
+```
