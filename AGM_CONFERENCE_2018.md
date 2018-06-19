@@ -31,7 +31,7 @@ Everyone is welcome to participate in the conference, particularly those who'd l
 
 Bryan is a long time member of AgileVentures, worked on projects including WebsiteOne, Codealia and LocalSupport. Was very active back in the day when he was still learning how to develop software, and his experiences have since landed him a professional job working in software. He is now a lead developer working remotely for a company called Inflowmatix. Always looking for new challenges and ideas, he isn’t afraid of testing new technologies such as Elixir, React, GraphQL and Rust.
 
-Being one of the success stories from AgileVentures early days, he strongly believes in their philosophy on bringing up new software developers. He is currently chair of the board of trustees for AgileVentures.
+Being one of the success stories from AgileVentures early days, he strongly believes in our philosophy on bringing up new software developers. He is currently chair of the board of trustees for AgileVentures.
 
 #### Steve Porter
 
@@ -45,11 +45,11 @@ She is a trustee of a small UK based charity which runs a volunteer-led activity
 
 #### James Bore
 
-I find solutions for problems, leaning on existing tooling and expertise as much as possible to solve cybersecurity challenges.
+James find solutions for problems, leaning on existing tooling and expertise as much as possible to solve cybersecurity challenges.
 
-After starting out in network management I meandered for a few years across most of the disciplines in IT, gradually building more of a focus on security as a speciality rather than any single field of technical expertise. I've worked to become a jack of all trades across information technology, and am currently working to be a master of security on top.
+After starting out in network management he meandered for a few years across most of the disciplines in IT, gradually building more of a focus on security as a speciality rather than any single field of technical expertise. He's worked to become a jack of all trades across information technology, and is currently working to be a master of security on top.
 
-I also keep bees, so am used to dealing with large numbers of angry clients and have developed a resistance to their venom. Alongside, in my spare time, I help teachers to deliver cybersecurity and IT knowledge as part of curriculum classes and occasionally run lockpicking or security workshops for various age groups.
+James also keep bees, so am used to dealing with large numbers of angry clients and have developed a resistance to their venom. Alongside, in my spare time, James help teachers to deliver cybersecurity and IT knowledge as part of curriculum classes and occasionally run lockpicking or security workshops for various age groups.
 
 ## Who can vote
 
