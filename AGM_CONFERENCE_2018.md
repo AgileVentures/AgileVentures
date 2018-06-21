@@ -29,7 +29,7 @@ Everyone is welcome to participate in the conference, particularly those who'd l
 ### Who are the candidates
 #### Bryan Yap
 
-Bryan is a long time member of AgileVentures, worked on projects including WebsiteOne, Codealia and LocalSupport. Was very active back in the day when he was still learning how to develop software, and his experiences have since landed him a professional job working in software. He is now a lead developer working remotely for a company called Inflowmatix. Always looking for new challenges and ideas, he isn’t afraid of testing new technologies such as Elixir, React, GraphQL and Rust.
+Bryan is a long time member of AgileVentures, worked on projects including WebsiteOne, Codealia and LocalSupport. Was very active back in the day when he was still learning how to develop software, and his experiences have since landed him a professional job working in software. He is now a lead developer working remotely for a company called Inflowmatix. Always looking for new challenges and ideas, he isn't afraid of testing new technologies such as Elixir, React, GraphQL and Rust.
 
 Being one of the success stories from AgileVentures early days, he strongly believes in our philosophy on bringing up new software developers. He is currently chair of the board of trustees for AgileVentures.
 
@@ -39,7 +39,7 @@ Steve Porter is the CEO of Capable Communities, a Social Enterprise company, and
 
 #### Rachel Wright
 
-Rachel has extensive experience in project coordination and a strong background in developing effective systems and structures within the voluntary and public sector. She’s responsible for quality systems, finance, running our Disclosure & Barring Service and operational business development.
+Rachel has extensive experience in project coordination and a strong background in developing effective systems and structures within the voluntary and public sector. She's responsible for quality systems, finance, running Disclosure &amp; Barring Services and operational business development.
 
 She is a trustee of a small UK based charity which runs a volunteer-led activity programme in a psychiatric hospital in Romania.
 
