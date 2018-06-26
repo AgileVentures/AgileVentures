@@ -13,9 +13,9 @@ Running order:
 * [14:00 UTC (10:00 EDT)](/events/avconf-wikiedudashboard-project-presentation) -- [Wiki Edu Dashboard](/projects/wiki-ed-dashboard) (Sage Ross)
 * [15:00 UTC (11:00 EDT)](/events/avconf-rfm-project-presentation) -- [RFM](/projects/rundfunk-mitbestimmen) (Robert Sch&#228;fer)
 * [16:00 UTC (12:00 EDT)](/events/avconf-av-annual-general-meeting-agm) -- AGM MEETING
-* [17:00 UTC (13:00 EDT)](/events/avconf-phoenixone-project-presentation) -- [PhoenixOne](/projects/phoenixone) (Federico)
+* [17:00 UTC (13:00 EDT)](/events/avconf-phoenixone-project-presentation) -- [Paironauts](/projects/paironauts) (Sam)
 * [18:00 UTC (14:00 EDT)](/events/avconf-websiteone-project-presentation) -- [WebsiteOne](/projects/websiteone) (Nico) 
-* [19:00 UTC (15:00 EDT)](/events/avconf-paironauts-project-presentation) -- [Paironauts](/projects/paironauts) (Ryder)
+* [19:00 UTC (15:00 EDT)](/events/avconf-paironauts-project-presentation) -- GDPR (James)
 * [20:00 UTC (16:00 EDT)](/events/avconf-y-project-presentation) -- [Y](/projects/y) (Will)
 
 The format will be 15 minute online presentations followed by 15 minutes for discussion.  Then 30 minute breakout networking sessions before the next presentation
