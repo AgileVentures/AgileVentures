@@ -9,11 +9,11 @@ Running order:
 * [10:30 UTC (06:30 EDT)](/events/agileventures-conference-kickoff) -- Conference opening and introduction (Sam) 
 * [11:00 UTC (07:00 EDT)](/events/avconf-localsupport-project-presentation) -- [LocalSupport](/projects/localsupport) (Sam) 
 * [12:00 UTC (08:00 EDT)](/events/avconf-shf-project-presentation) -- [SHF](/projects/shf-project) (Susanna/Pat)
-* [13:00 UTC (09:00 EDT)](/events/avconf-phoenixone-project-presentation) -- [PhoenixOne](/projects/phoenixone) (Federico)
+* [13:00 UTC (09:00 EDT)](/events/avconf-metplus-project-presentation) -- [Metplus](/projects/metplus) (Joao) 
 * [14:00 UTC (10:00 EDT)](/events/avconf-wikiedudashboard-project-presentation) -- [Wiki Edu Dashboard](/projects/wiki-ed-dashboard) (Sage Ross)
 * [15:00 UTC (11:00 EDT)](/events/avconf-rfm-project-presentation) -- [RFM](/projects/rundfunk-mitbestimmen) (Robert Sch&#228;fer)
 * [16:00 UTC (12:00 EDT)](/events/avconf-av-annual-general-meeting-agm) -- AGM MEETING
-* [17:00 UTC (13:00 EDT)](/events/avconf-metplus-project-presentation) -- [Metplus](/projects/metplus) (Joao) 
+* [17:00 UTC (13:00 EDT)](/events/avconf-phoenixone-project-presentation) -- [PhoenixOne](/projects/phoenixone) (Federico)
 * [18:00 UTC (14:00 EDT)](/events/avconf-websiteone-project-presentation) -- [WebsiteOne](/projects/websiteone) (Nico) 
 * [19:00 UTC (15:00 EDT)](/events/avconf-paironauts-project-presentation) -- [Paironauts](/projects/paironauts) (Ryder)
 * [20:00 UTC (16:00 EDT)](/events/avconf-y-project-presentation) -- [Y](/projects/y) (Will)
