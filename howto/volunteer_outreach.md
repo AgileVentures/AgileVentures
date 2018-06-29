@@ -1,3 +1,13 @@
+Volunteer Outreach
+==================
+
+We received volunteers through [DoIt](https://do-it.org/) and interns via [Internwise](https://www.internwise.co.uk/).
+
+The [applications page in Do-It](https://do-it.org/users/applications/manage) (only accessible to those granted admin status) shows all the volunteers who have applied.  Depending on the position they are applying for we should send them an email from one of the templates below. IMPORTANT - please ensure that all emails are cc'd to sam@agileventures.org
+
+Once an applicant has emailed we should add the date that we emailed them to the notes in do-it 
+
+
 Sales & Marketing Intern
 ------------------------
 
