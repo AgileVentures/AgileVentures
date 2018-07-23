@@ -51,7 +51,7 @@
       </div>
       <div>Premium cost is currently &#xa3;10 a month, and comes with a 7-day free trial. ;Please alert <a href="mailto:info@agileventures.org" style="background-color: rgb(248, 248, 248);">info@agileventures.org</a> within your first 7 days to cancel your subscription at no cost.<br></div>
       <p><a href="http://www.agileventures.org/subscriptions/new">Sign up for AgileVentures Premium</a><br></p>
-      <p>Want even more benefits including scheduled pair programming time with senior AV <a href="http://www.agileventures.org/mentors">mentors</a>? Check out our <a href="http://www.agileventures.org/premiumplus">Premium Plus membership</a>.</p>
+      <p>Want even more benefits including scheduled pair programming time with senior AV <a href="http://www.agileventures.org/mentors">mentors</a>? Check out our <a href="http://www.agileventures.org/premium-plus">Premium Plus membership</a>.</p>
       <hr>
       <a name="faq">
          <h1>Frequently Asked Questions</h1>
