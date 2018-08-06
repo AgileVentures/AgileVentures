@@ -14,9 +14,10 @@ If you'd like to sponsor an individual developer and get reports on their progre
 We prefer recurring donations to support [individual developers](http://www.agileventures.org/sponsorship), but if you want to make a one off donation - please
   <a class="donate-with-crypto"
      href="https://commerce.coinbase.com/checkout/2041eb5e-5de8-4655-9cb3-b6d1a5fe77b7">
-    <span>Donate with Crypto</span>
+    <span>donate with crypto.</span>
   </a>
   <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
   </script>
+  
 <br>
 You can also help us by spreading the message and sharing links to our sponsorship pages with your network.
