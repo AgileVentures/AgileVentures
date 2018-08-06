@@ -11,9 +11,7 @@ Perhaps you have participated in a pair programming session with someone across 
 
 If you'd like to sponsor an individual developer and get reports on their progress, please see our [Sponsorship](http://www.agileventures.org/sponsorship) page.
 
-We prefer recurring donations to support [individual developers](http://www.agileventures.org/sponsorship), but if you want to make a one off donation - please use the following Cryptocurrency donation form:
-
-<div>
+We prefer recurring donations to support [individual developers](http://www.agileventures.org/sponsorship), but if you want to make a one off donation - please <div>
   <a class="donate-with-crypto"
      href="https://commerce.coinbase.com/checkout/2041eb5e-5de8-4655-9cb3-b6d1a5fe77b7">
     <span>Donate with Crypto</span>
@@ -21,5 +19,5 @@ We prefer recurring donations to support [individual developers](http://www.agil
   <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
   </script>
 </div>
-
+<br>
 You can also help us by spreading the message and sharing links to our sponsorship pages with your network.
