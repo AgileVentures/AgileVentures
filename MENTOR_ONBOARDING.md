@@ -35,5 +35,7 @@ Incentivized Mentor Onboarding Steps
 ===============================
 
 * add to #mentors_extra
-* ensure they are set up with AV calendar
+* ensure they are set up with AV calendar (create av.org email via admin.google.com)
 * add to https://github.com/AgileVentures/AgileVentures/blob/master/PREMIUM_F2F_OFFER.md if willing to take F2F sessions
+* get them to sign [data confidentiality form](http://bit.ly/AV-confidentiality)
+* get their preferred payment destination for their monthly stipend
