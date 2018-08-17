@@ -41,7 +41,7 @@ It may help the new member to let them know a little about the channel they've j
 Checking User Represented Correctly on Site
 -------------------------------------------
 
-Assuming the sign up process has gone off correctly, the new member shoul be visible in the list of Premium members:
+Assuming the sign up process has gone off correctly, the new member should be visible in the list of Premium members:
 
 https://www.agileventures.org/premium_members
 
