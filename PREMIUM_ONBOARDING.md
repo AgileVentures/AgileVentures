@@ -43,6 +43,27 @@ Checking User Represented Correctly on Site
 
 Assuming the sign up process has gone off correctly, the new member should be visible in the list of Premium members:
 
-https://www.agileventures.org/premium_members
+https://www.agileventures.org/premium_member
 
+New Premium Mob Member Sign Up
+==============================
 
+If the person has signed up for Premium Mob all the above procedure is still followed, but we also add the person to the #premium_extra channel and explain its purpose:
+
+> @name this channel has all Premium Mob members and above and all the links to the hangouts and videos for the different mobs get posted here
+
+and post the list of mob benefits to their private premium channel:
+
+> also, here's a list of your premium mob benefits:
+
+```
+* Mob programming sessions with an assigned AV Mentor each week
+* Professional Development Planning Support
+* Free accesss to Udemy Complete Elixir & Phoenix Bootcamp course
+* Free accesss to Udemy React Redux course 
+* 25% discount on "Effective Testing with RSpec 3"
+* 10% discount on Upcase membership
+* Free access to the "Phoenix Inside Out" book series
+```
+
+> don't hesitate to ask if there's anything you need :-)
