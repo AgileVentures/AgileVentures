@@ -67,3 +67,5 @@ and post the list of mob benefits to their private premium channel:
 ```
 
 > don't hesitate to ask if there's anything you need :-)
+
+There's also the option of giving the Premium Mob member access to our youtube account so they can review all previous videos - ultimately we'd like to replace this with having access to the videos through the AV website.
