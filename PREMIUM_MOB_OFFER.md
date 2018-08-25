@@ -2,7 +2,11 @@ Are you interested in React, BlockChain, Elixir, Test Driven Development (TDD), 
 
 [Sign up for a free trial via our booking calendar](http://bit.ly/mob-with-AV)
 
-Example of first TDD (RSpec) Mob below:
+Example of our first Agile Development using Ruby on Rails Mob:
+
+[![Pairing Session on Rails](https://img.youtube.com/vi/tgFsFbMpwjo/0.jpg)](https://youtu.be/tgFsFbMpwjo)
+
+Example of first TDD (RSpec) Mob:
 
 [![Pairing Session on Rails](https://img.youtube.com/vi/lnfMbu4Se7E/0.jpg)](https://youtu.be/lnfMbu4Se7E)
 
