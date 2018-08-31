@@ -3,6 +3,7 @@ Are you interested in remote pair programming online with an experienced mentor?
 * [Pair with Sam](http://bit.ly/pair-with-sam)
 * [Pair with Federico](http://bitly.com/pair-with-federico)
 * [Pair with Jo&#227;o](http://bitly.com/pair-with-joao)
+* [Pair with Robert](https://calendar.google.com/calendar/selfsched?sstoken=UU4yRXh4WXVQWktyfGRlZmF1bHR8ZGUxYjcwZWVlZmZlZWUyZTIzYmE0YTEwMTk2OGYyZTA)
 
 Remote pair programming will involve arranging a mutually convenient time and will take place via Google Hangouts, Jitsi, or Skype and no particular software is required, apart from the Chrome browser, or Skype if that is preferred.
 
