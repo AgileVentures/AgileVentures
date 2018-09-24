@@ -18,20 +18,13 @@ If you have any questions about NonProfit Support then please email nonprofits@a
   <tbody>
 <tr>
     <th class="tg-7cqi" style="font-family: Arial, sans-serif;font-size: 14px;font-weight: normal;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #ffffff;background-color: #ee7335;vertical-align: top;"><br></th>
-    <th class="tg-vc1w" style="font-family: Arial, sans-serif;font-size: 14px;font-weight: normal;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #ffffff;background-color: #ee7335;text-align: center;vertical-align: top;">Free  </th>
+    <th class="tg-vc1w" style="font-family: Arial, sans-serif;font-size: 14px;font-weight: normal;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #ffffff;background-color: #ee7335;text-align: center;vertical-align: top;"></th>
     <th class="tg-vc1w" style="font-family: Arial, sans-serif;font-size: 14px;font-weight: normal;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #ffffff;background-color: #BC412B;text-align: center;vertical-align: top;">Basic<br> (&#xa3;20/month)</th>
     <th class="tg-vc1w" style="font-family: Arial, sans-serif;font-size: 14px;font-weight: normal;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #ffffff;background-color: #BC412B;text-align: center;vertical-align: top;">Extra<br> (&#xa3;100/month)</th>
     <th class="tg-vc1w" style="font-family: Arial, sans-serif;font-size: 14px;font-weight: normal;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #ffffff;background-color: #BC412B;text-align: center;vertical-align: top;">Enterprise<br> (&#xa3;250/month)</th>
   </tr>
   <tr>
-    <td class="tg-yw4l" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Consultation</td>
-    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
-    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
-    <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
-   <td class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;text-align: center;vertical-align: top;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
-  </tr>
-  <tr>
-    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;">Access to AV Slack text chat support environment</td>
+    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;">Slack text chat support</td>
 <td class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;text-align: center;vertical-align: top;">
 <br>
 </td>
