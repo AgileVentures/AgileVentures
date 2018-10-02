@@ -14,3 +14,5 @@
     - for contributions to the mobs and [Paironauts](https://github.com/AgileVentures/paironauts)
 - 11th June 2018 --- [Matt Rider](https://www.agileventures.org/users/wrtimberlake) 
     - for contributions to the mobs, RFM, ChampionerOne, Anvil and [Paironauts](https://github.com/AgileVentures/paironauts)
+- 1st October 2018 --- [Faith Ng'etich](https://www.agileventures.org/users/faith) 
+    - for contributions to the [LocalSupport](https://www.agileventures.org/projects/localsupport/) and [RFM](https://www.agileventures.org/projects/rundfunk-mitbestimmen)
