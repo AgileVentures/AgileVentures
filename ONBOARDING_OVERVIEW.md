@@ -24,7 +24,7 @@
 * Mentor Incentivization Package Offboarding
   - remove them from #mentors_extra channel
   - remove booking calendar from site
-* Premium Onboarding
+* [Premium Onboarding](PREMIUM_ONBOARDING.md)
   - create their #premium_<name> private channel
   - add them to #professional_develop
   - pointing them to booking calendars
@@ -34,7 +34,7 @@
   - archive #premium_<name> private channel
   - remove them from #professional_develop
   - ensure site representation is updated (tags on site)
-* Premium Mob Onboarding
+* [Premium Mob Onboarding](PREMIUM_ONBOARDING.md#new-premium-mob-member-sign-up)
   - add them to #premium_extra channel
   - pointing them to booking calendars
   - ensuring they're aware of all benefits
