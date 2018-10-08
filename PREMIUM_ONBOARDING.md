@@ -43,7 +43,7 @@ Checking User Represented Correctly on Site
 
 Assuming the sign up process has gone off correctly, the new member should be visible in the list of Premium members:
 
-https://www.agileventures.org/premium_member
+https://www.agileventures.org/premium_members
 
 New Premium Mob Member Sign Up
 ==============================
