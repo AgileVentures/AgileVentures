@@ -16,3 +16,5 @@
     - for contributions to the mobs, RFM, ChampionerOne, Anvil and [Paironauts](https://github.com/AgileVentures/paironauts)
 - 1st October 2018 --- [Faith Ng'etich](https://www.agileventures.org/users/faith) 
     - for contributions to the [LocalSupport](https://www.agileventures.org/projects/localsupport/) and [RFM](https://www.agileventures.org/projects/rundfunk-mitbestimmen)
+- 8th October 2018 --- [Mike Aono](https://www.agileventures.org/users/mike-aono) 
+    - for contributions to the [LocalSupport](https://www.agileventures.org/projects/localsupport/) and [RFM](https://www.agileventures.org/projects/rundfunk-mitbestimmen)
