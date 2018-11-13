@@ -19,7 +19,7 @@ and post the following:
 * Support on any questions you post to StackOverflow
 * CodeSchool NonProfit Discount ($10 a month saving)
 ```
-> I'll add you now to #professional_develop - just let me know if you want access to #tech_tests #jobs #jobs_feed #devops #paid_projects or any others that we have
+> I'll add you now to #professional_develop - just let me know if you want access to #tech_tests #jobs #jobs_feed #devops #paid_projects #bcdev or any others that we have
 
 
 Editing as appropriate
