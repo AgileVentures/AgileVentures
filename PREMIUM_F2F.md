@@ -72,9 +72,9 @@
     </details>
     <br>
     <details>
-      <summary><b>£50/month is a lot of money for me, surely you want Premium F2F&nbsp;to be affordable to everyone, everywhere?</b></summary>
+      <summary><b>&\#xa3;50/month is a lot of money for me, surely you want Premium F2F&nbsp;to be affordable to everyone, everywhere?</b></summary>
       <p></p>
-      <p>Of course we do; however we also want to make our operation sustainable. &nbsp;If you can't afford&nbsp;£50/month please contact&nbsp;<a href="mailto:info@agileventures.org">info@agileventures.org</a>&nbsp;and we will see if we can find sponsorship to cover some or all of the costs of your Premium F2F&nbsp;membership.</p>
+      <p>Of course we do; however we also want to make our operation sustainable. &nbsp;If you can't afford&nbsp;&\#xa3;50/month please contact&nbsp;<a href="mailto:info@agileventures.org">info@agileventures.org</a>&nbsp;and we will see if we can find sponsorship to cover some or all of the costs of your Premium F2F&nbsp;membership.</p>
     </details>
   </div>
 </div>
