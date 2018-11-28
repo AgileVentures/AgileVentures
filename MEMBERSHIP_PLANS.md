@@ -2,7 +2,7 @@
 
 AgileVentures helps teams of developers get together to work on open source charity IT projects.  In the [free plan](http://www.agileventures.org/free) developers get project logistics support and the use of AgileVentures Slack and Google hangouts integration for online meetings.
 
-AgileVentures also provides [Premium](http://www.agileventures.org/premium), [Premium Mob](https://www.agileventures.org/premium_mob) ([free trial offer](https://www.agileventures.org/premium-mob-offer)) and [Premium F2F](https://www.agileventures.org/premium_f2f) ([free trial offer](https://www.agileventures.org/premium-f2f-offer))  membership plans with benefits beyond our [free tier membership](http://www.agileventures.org/free). These plans provide our members with greater support for their professional development as an Agile software developer, including live group and private sessions with AV Mentors.
+AgileVentures also provides [Premium](http://www.agileventures.org/premium), [Premium Mob](https://www.agileventures.org/premium-mob) ([free trial offer](https://www.agileventures.org/premium-mob-offer)) and [Premium F2F](https://www.agileventures.org/premium-f2f) ([free trial offer](https://www.agileventures.org/premium-f2f-offer))  membership plans with benefits beyond our [free tier membership](http://www.agileventures.org/free). These plans provide our members with greater support for their professional development as an Agile software developer, including live group and private sessions with AV Mentors.
 
 If you're not trying to level up as an Agile software developer yourself, you can still help out by [sponsoring another developer](http://www.agileventures.org/sponsorship) to get the support they can't otherwise afford.
 
