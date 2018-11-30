@@ -36,14 +36,14 @@ If you have any questions about NonProfit Support then please email nonprofits@a
 </td>
 </tr>
   <tr>
-    <td class="tg-yw4l" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Initial handoff (&#126;1hour)</td>
+    <td class="tg-yw4l" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Initial handoff (up to 1hour)</td>
     <td align="center" class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;"></td>
     <td align="center" class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
     <td align="center" class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
     <td align="center" class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
   </tr>
 <tr>
-    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;">Support (&#126;1hour a month)</td>
+    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;">Support (up up 1hour a month)</td>
     <td align="center" class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;"></td>
     <td align="center" class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
     <td align="center" class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
@@ -71,7 +71,7 @@ If you have any questions about NonProfit Support then please email nonprofits@a
     <td align="center" class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
   </tr>
   <tr>
-    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;">Initial handoff (&#126;5 hours)<br>
+    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;">Initial handoff (up to 5 hours)<br>
 </td>
 <td align="center" class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;"></td>
     <td align="center" class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;"></td>
@@ -79,7 +79,7 @@ If you have any questions about NonProfit Support then please email nonprofits@a
     <td align="center" class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Support (&#126;3 hour a month)<br>
+    <td class="tg-yw4l" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Support (up to 3 hours a month)<br>
 </td>
     <td align="center" class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;"></td>
     <td align="center" class="tg-baqh" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;"></td>
@@ -89,7 +89,7 @@ If you have any questions about NonProfit Support then please email nonprofits@a
   </tr>
   <tr>
     <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;">
-Initial handoff (&#126;8 hours)<br>
+Initial handoff (up to 8 hours)<br>
 </td>
     <td align="center" class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;"></td>
     <td align="center" class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #efefef;vertical-align: top;"></td>
@@ -98,7 +98,7 @@ Initial handoff (&#126;8 hours)<br>
 </td>
   </tr>
   <tr>
-    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Support (&#126;8 hour a month) <br>
+    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Support (up to 8 hour a month) <br>
 </td>
     <td align="center" class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;"></td>
     <td align="center" class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;"></td>
