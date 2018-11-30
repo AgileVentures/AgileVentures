@@ -98,7 +98,7 @@ Initial handoff (up to 8 hours)<br>
 </td>
   </tr>
   <tr>
-    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Support (up to 8 hour a month) <br>
+    <td class="tg-yzt1" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;">Support (up to 8 hours a month) <br>
 </td>
     <td align="center" class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;"></td>
     <td align="center" class="tg-uqo3" style="font-family: Arial, sans-serif;font-size: 14px;padding:10px 5px;border-style:solid;border-width:0px;overflow: hidden;border-color: #aaa;color: #333;background-color: #fff;vertical-align: top;"></td>
