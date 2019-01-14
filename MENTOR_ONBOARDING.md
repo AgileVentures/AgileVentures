@@ -39,3 +39,12 @@ Incentivized Mentor Onboarding Steps
 * add to https://github.com/AgileVentures/AgileVentures/blob/master/PREMIUM_F2F_OFFER.md if willing to take F2F sessions
 * get them to sign [data confidentiality form](http://bit.ly/AV-confidentiality)
 * get their preferred payment destination for their monthly stipend, or desire to use as sponsor of other members
+
+#### Creating Appointment Calendars
+
+Create an appointment slot in your personal AV calendar which will look like this:
+
+![](https://dl.dropbox.com/s/4k9d4v4tjhm4pf4/Screenshot%202019-01-14%2010.33.37.png?dl=0
+Screenshot 2019-01-14 10.33.37.png)
+
+and that blue link "Go to appointment page for this calendar" is what we need for a bit.ly pair-with-X link
