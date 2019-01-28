@@ -44,7 +44,6 @@ Incentivized Mentor Onboarding Steps
 
 Create an appointment slot in your personal AV calendar which will look like this:
 
-![](https://dl.dropbox.com/s/4k9d4v4tjhm4pf4/Screenshot%202019-01-14%2010.33.37.png?dl=0
-Screenshot 2019-01-14 10.33.37.png)
+![](https://dl.dropbox.com/s/4k9d4v4tjhm4pf4/Screenshot%202019-01-14%2010.33.37.png?dl=0)
 
 and that blue link "Go to appointment page for this calendar" is what we need for a bit.ly pair-with-X link
