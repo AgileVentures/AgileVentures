@@ -48,7 +48,11 @@ https://www.agileventures.org/premium_members
 New Premium Mob Member Sign Up
 ==============================
 
-If the person has signed up for Premium Mob all the above procedure is still followed, but we also add the person to the #premium_extra channel and explain its purpose:
+If the person has signed up for Premium Mob all the above procedure is still followed, but we also add the person to the #premium_extra channel
+
+> welcome to our latest premium mob member @name :-) :tada:
+
+and explain its purpose:
 
 > @name this channel has all Premium Mob members and above and all the links to the hangouts and videos for the different mobs get posted here
 
