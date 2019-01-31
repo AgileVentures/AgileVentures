@@ -10,7 +10,7 @@ Monthly Activities
 * Run at least one face to face session with a Premium F2F member 
 * Run at least one private mob session with Premium mob members
 * Be available on Slack in at least three private mentee channels for Q&A for Premium members and Professional Development plan support for Premium Mob members
- - a private channel includes mentee, sam, mentor, and potentially other mentors
+  - a private channel includes mentee, sam, mentor, and potentially other mentors
 * Attend at least one team meeting a month; can be any off AV Community meeting, New Member meeting, Marketing meeting or scrum
 * Review at least one Project Pull Request for a Premium member
 * At least one reach out (saying hello, checking for interest in Premium) to potential mentees (potentials posted weekly in #data-mining)
