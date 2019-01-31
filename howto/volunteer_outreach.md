@@ -22,7 +22,7 @@ Our sales and marketing intern at AgileVentures is unpaid, but we do cover expen
 
 If you're interested please send me your resume, references and a cover letter and we'll review and get back to you.
 
-Best, Sam 
+Best, (Your NAME) 
 ```
 
 Example acceptance email to sales and marketing intern applicant:
@@ -34,7 +34,7 @@ Hope you had a good weekend.  Please join our Slack by going to https://www.agil
 
 The references that have come in so far are very good - hope we can chat on Slack soon.  I'll invite you into the marketing channel :-)
 
-Best, Sam
+Best, (Your NAME)
 ```
 
 Example trial email to sales and marketing intern applicant:
@@ -62,7 +62,7 @@ Sorry for the further delay - we'd love to get you involved.   What's your avail
 
 Feel free to sign up at https://www.agileventures.org and you'll get an invite to our slack instance where you can meet different project leads and find out more about our community.
 
-Best, Sam
+Best, (Your NAME)
 ```
 
 Junior Developer
@@ -78,5 +78,6 @@ Great to hear from you.  Please sign up at https://www.agileventures.org if you'
 Since we're a charity with a limited budget this is unfortunately an unpaid position.  We can cover expenses, but would be very happy to have you join us as a volunteer junior developer if your background makes you a good fit.  We can give you experience with the latest tech stacks and collaboration with developers from all over the world.
 
 Many thanks in advance
-Best regards 
+Best regards,
+(Your NAME)
 ```
