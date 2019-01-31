@@ -7,6 +7,8 @@ The [applications page in Do-It](https://do-it.org/users/applications/manage) (o
 
 Once an applicant has emailed we should add the date that we emailed them to the notes in do-it 
 
+(PS: If you are going to directly copy and paste it from here into the email, you may want to edit the font along with your signature before you send it to make it more aesthetically pleasing and professional)
+
 
 Sales & Marketing Intern
 ------------------------
