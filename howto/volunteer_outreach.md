@@ -56,7 +56,7 @@ UI/UX Designer
 Example acceptance email:
 
 ```
-Hi Name,
+Hi NAME,
 
 Sorry for the further delay - we'd love to get you involved.   What's your availability during the week?
 
@@ -71,7 +71,7 @@ Junior Developer
 Example first contact email:
 
 ```
-Hi Name,
+Hi NAME,
 
 Great to hear from you.  Please sign up at https://www.agileventures.org if you'd like to pursue this opportunity.  Once you've signed up you'll get an email invite to our Slack chat instance.  There we can talk more about the role and getting your involved with our programming team.
 
