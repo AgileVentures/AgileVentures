@@ -1,8 +1,8 @@
-Are you interested in remote pair programming online with an experienced mentor?  We're offering a free one hour Premium F2F programming session on an open source charity project with AV mentors [Sam Joseph](https://www.agileventures.org/users/sam-joseph), [Federico Esparza](https://www.agileventures.org/users/federico-esparza), [Jo&#227;o Pereira](https://www.agileventures.org/users/joao-pereira), [Joseph Ngugi](https://www.agileventures.org/users/joseph-ngugi) and [Matt Rider](https://www.agileventures.org/users/matthew-rider).  To book a pairing session with a mentor use the following links:
+Are you interested in remote pair programming online with an experienced mentor?  We're offering a free one hour Premium F2F programming session on an open source charity project with AV mentors [Federico Esparza](https://www.agileventures.org/users/federico-esparza), [Jo&#227;o Pereira](https://www.agileventures.org/users/joao-pereira), [Sam Joseph](https://www.agileventures.org/users/sam-joseph), [Joseph Ngugi](https://www.agileventures.org/users/joseph-ngugi) and [Matt Rider](https://www.agileventures.org/users/matthew-rider).  To book a pairing session with a mentor use the following links:
 
-* [Pair with Sam](http://bit.ly/pair-with-sam)
 * [Pair with Federico](http://bitly.com/pair-with-federico)
 * [Pair with Jo&#227;o](http://bitly.com/pair-with-joao)
+* [Pair with Sam](http://bit.ly/pair-with-sam)
 * [Pair with Joseph](http://bit.ly/pair-with-joseph)
 * [Pair with Matt](http://bit.ly/pair-with-matt)
 
