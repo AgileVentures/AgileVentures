@@ -14,7 +14,7 @@ Monthly Activities
 * Attend at least one team meeting a month; can be any off AV Community meeting, New Member meeting, Marketing meeting or scrum
 * Review at least one Project Pull Request for a Premium member
 * At least one reach out (saying hello, checking for interest in Premium) to potential mentees (potentials posted weekly in #data-mining)
-* At least one reach out to an exising Premium member to check how they are doing
+* At least one reach out to an existing Premium member to check how they are doing
 * At least one reach out on slack to new members
   - Alternatively, promote AV at a real world meetup
 
