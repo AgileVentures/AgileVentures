@@ -6,7 +6,7 @@ Creating Private Premium Channel
 
 e.g. premium_annie (+ surname if necessary)        
 Purpose `Private Premium channel for Annie`            
-Send invites to: `Sam Joseph Annie`                  
+Send invites to: `@tansaku @Annie`                  
 
 and post the following:
 
