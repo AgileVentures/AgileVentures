@@ -4,9 +4,9 @@ New Premium Member Sign Up
 Creating Private Premium Channel
 --------------------------------
 
-e.g. premium_annie (+ surname if necessary)
-Purpose `Private Premium channel for Annie`
-Send invites to: `Sam Joseph Annie`
+e.g. premium_annie (+ surname if necessary)        
+Purpose `Private Premium channel for Annie`            
+Send invites to: `Sam Joseph Annie`                  
 
 and post the following:
 
