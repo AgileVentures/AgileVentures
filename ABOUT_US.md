@@ -9,9 +9,9 @@ We hold scrum meetings and pair programming sessions every day with participants
 
 Agile Ventures general scrums (anyone can join and ask any question) currently run at:
 
-- 11:00 UTC ["Martin Fowler" Scrum & Pair Hookup](http://www.agileventures.org/events/martin-fowler-scrum-and-pair-hookup) (Scrum Master: [Sam Joseph](http://agileventures.org/users/sam-joseph)) (Mon-Fri)
+- 11:00 UTC ["Martin Fowler" Scrum & Pair Hookup](/events/martin-fowler-scrum-and-pair-hookup) (Scrum Master: [Sam Joseph](/users/sam-joseph)) (Mon-Fri)
 
-- 15:15 UTC ["Kent Beck" Scrum & Pair Hookup](http://www.agileventures.org/events/kent-beck-scrum-and-pair-hookup) (Scrum Master: [Sam Joseph](http://agileventures.org/users/sam-joseph)) (Fridays only)
+- 15:15 UTC ["Kent Beck" Scrum & Pair Hookup](/events/kent-beck-scrum-and-pair-hookup) (Scrum Master: [Sam Joseph](/users/sam-joseph)) (Fridays only)
 
 **The above times are subject to change, so do double check the [event listings](/events)**  and to be doubly sure please join the Slack chat environment. [Sign up](/users/sign_up) to AgileVentures to get a free invite to the Slack chat rooms we currently use to ensure that the live hangout links get distributed.  If you don't get the Slack invite through email, please contact us at [support@agileventure.org](support@agileventure.org) to be added directly to the Slack chat.
 
@@ -33,7 +33,7 @@ Agile Ventures general scrums (anyone can join and ask any question) currently r
 - Get hired
 - Just have fun, meet new people from all over the world and socialize
 
-Please see the following document: [http://agileventures.org/getting-started](http://agileventures.org/getting-started)
+Please see the following document: [/getting-started](/getting-started)
 
 ### As a charity or non-profit organisation
 
@@ -86,7 +86,7 @@ The Agile Manifesto is based on twelve principles:
 
 ### Read more about AgileVentures:
 
-- [Mission, Values and Goals](http://agileventures.org/projects/agileventures-community/documents/mission-statement) and [discussion](https://agileventures.slack.com/messages)
-- [Crowdsourced Learning](http://agileventures.org/articles/crowdsourced-learning)
-- [Testimonials](http://agileventures.org/articles/testimonials)
+- [Mission, Values and Goals](/projects/agileventures-community/documents/mission-statement) and [discussion](https://agileventures.slack.com/messages)
+- [Crowdsourced Learning](/articles/crowdsourced-learning)
+- [Testimonials](/articles/testimonials)
 - [Blog](http://nonprofits.agileventures.org/blog/)
