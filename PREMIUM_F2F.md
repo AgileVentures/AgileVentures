@@ -2,7 +2,7 @@
   <details>
     <summary><b>Get personalised individual support to improve your coding and pairing skills?</b></summary>
     <p></p>
-    <p>AgileVentures&nbsp;<a href="http://www.agileventures.org/mentors">Mentors</a>&nbsp;are experienced pair programmers who will pair program with you over the course of an&nbsp;hour session to help you improve your pairing style, your coding skills and your Agile development technique. &nbsp;Coding will be on an AgileVentures project.</p>
+    <p>AgileVentures&nbsp;<a href="/mentors">Mentors</a>&nbsp;are experienced pair programmers who will pair program with you over the course of an&nbsp;hour session to help you improve your pairing style, your coding skills and your Agile development technique. &nbsp;Coding will be on an AgileVentures project.</p>
     <p></p>
     <p>Any project can become an AgileVentures project given that it meets the following criteria:</p>
     <p></p>
@@ -23,9 +23,9 @@
   <br>
 
   <div>
-    <div class="text-center"><span class="btn btn-primary btn-block" style="padding: 5px; width: 60%; border-color: #ee7335; background: #ee7335; display: inline-block; font-size: 1.4em;"><a href="http://www.agileventures.org/subscriptions/new?plan=premiumf2f"><b><font color="#ffffff">Get Started with Premium F2F</font></b></a></span></div>
+    <div class="text-center"><span class="btn btn-primary btn-block" style="padding: 5px; width: 60%; border-color: #ee7335; background: #ee7335; display: inline-block; font-size: 1.4em;"><a href="/subscriptions/new?plan=premiumf2f"><b><font color="#ffffff">Get Started with Premium F2F</font></b></a></span></div>
     <div><br></div>
-    <div>Membership Plans&nbsp;<a href="http://www.agileventures.org/membership-plans">Overview</a>
+    <div>Membership Plans&nbsp;<a href="/membership-plans">Overview</a>
     </div>
   </div>
 
@@ -54,7 +54,7 @@
       <summary><b>Can I choose my Mentor?</b></summary>
       <p></p>
       <p>You can request to work with a
-        particular mentor from our <a href="http://www.agileventures.org/mentors">Mentors list</a>. Unfortunately&nbsp;we&nbsp;cannot
+        particular mentor from our <a href="/mentors">Mentors list</a>. Unfortunately&nbsp;we&nbsp;cannot
         guarantee that any individual mentor will have availability, since this
         will depend on time-zones and other factors.</p>
     </details>
@@ -68,7 +68,7 @@
     <details>
       <summary><b>Will my Premium F2F&nbsp;membership&nbsp;auto-renew each month?</b></summary>
       <p></p>
-      <p>Yes, you'll be charged each month automatically - please email&nbsp;<a href="http://www.agileventures.org/info@agileventures.org">info@agileventures.org</a>&nbsp;if you would like to cancel your subscription.</p>
+      <p>Yes, you'll be charged each month automatically - please email&nbsp;<a href="mailto:info@agileventures.org">info@agileventures.org</a>&nbsp;if you would like to cancel your subscription.</p>
     </details>
     <br>
     <details>
