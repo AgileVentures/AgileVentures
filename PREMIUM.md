@@ -4,7 +4,7 @@
    <details>
       <summary><b>Find great developer jobs? Get help on the job search process? Ace technical tests required to get interviews? Accelerate your professional development?</b></summary>
       <p></p>
-      <p>Many AgileVentures have leveraged the skills they've learnt through working in teams on our open source projects to land great tech jobs, get promotions and develop themselves professionally. See <a href="http://www.agileventures.org/grow">http://www.agileventures.org/grow</a> for testimonials. Premium membership helps you learn from senior members' experience to help you in the AV private Slack channels for jobs, tech tests, devops and professional development.</p>
+      <p>Many AgileVentures have leveraged the skills they've learnt through working in teams on our open source projects to land great tech jobs, get promotions and develop themselves professionally. See <a href="/grow">/grow</a> for testimonials. Premium membership helps you learn from senior members' experience to help you in the AV private Slack channels for jobs, tech tests, devops and professional development.</p>
    </details>
    <br>
    <details>
@@ -42,16 +42,16 @@
    <br>
    <div><br></div>
    <div>
-      <div class="text-center"><span class="btn btn-primary btn-block" style="padding: 5px; width: 50%; border-color: rgb(238, 115, 53); background: rgb(238, 115, 53); display: inline-block; font-size: 1.5em; white-space: normal;"><a href="http://www.agileventures.org/subscriptions/new?plan=premium"><b><font color="#ffffff">Get Started with Premium</font></b></a></span></div>
+      <div class="text-center"><span class="btn btn-primary btn-block" style="padding: 5px; width: 50%; border-color: rgb(238, 115, 53); background: rgb(238, 115, 53); display: inline-block; font-size: 1.5em; white-space: normal;"><a href="/subscriptions/new?plan=premium"><b><font color="#ffffff">Get Started with Premium</font></b></a></span></div>
       <div><br></div>
-      <div>Return to Plan Pricing <a style="display: inline-block;" href="http://www.agileventures.org/pricing">Overview</a>
+      <div>Return to Plan Pricing <a style="display: inline-block;" href="/membership-plans">Overview</a>
       </div>
       <div>
          <hr>
       </div>
       <div>Premium cost is currently &#xa3;10 a month, and comes with a 7-day free trial. ;Please alert <a href="mailto:info@agileventures.org" style="background-color: rgb(248, 248, 248);">info@agileventures.org</a> within your first 7 days to cancel your subscription at no cost.<br></div>
-      <p><a href="http://www.agileventures.org/subscriptions/new">Sign up for AgileVentures Premium</a><br></p>
-      <p>Want even more benefits including scheduled pair programming time with senior AV <a href="http://www.agileventures.org/mentors">mentors</a>? Check out our <a href="http://www.agileventures.org/premium-plus">Premium Plus membership</a>.</p>
+      <p><a href="/subscriptions/new">Sign up for AgileVentures Premium</a><br></p>
+      <p>Want even more benefits including scheduled pair programming time with senior AV <a href="/mentors">mentors</a>? Check out our <a href="/premium-plus">Premium Plus membership</a>.</p>
       <hr>
       <a name="faq">
          <h1>Frequently Asked Questions</h1>
@@ -127,7 +127,7 @@
       <details>
          <summary><b>But aren't you a charity?  Shouldn't you just be relying purely on donations?</b></summary>
          <p></p>
-         <p>AgileVentures is a registered UK charity, and donations are very welcome.  If you're keen to donate then please check out our <a href="http://www.agileventures.org/associate">Associate</a> membership.  To the extent we could continue to provide all our services purely based on donations we would.  However donations by themselves are insufficient at this time.  Being a charity does not mean expending all available resources to the point of bankruptcy.  It is perfectly reasonable for a charity to provide Premium services to members who are in a position to contribute a little extra.  In any community there is a danger that some members will consume more resources than others to the overall detriment of the community.  Particularly as regards PRs, even well-meaning attempts at fixing issues can actually be dangerous red-herrings that require lots of effort to get into shape.  Premium membership provides a mechanism for AgileVentures project managers to focus their effort on submission from the more committed members and ultimately to get fairly compensated for the work that they put in to help members learn about how to participate effectively in the Agile development process.</p>
+         <p>AgileVentures is a registered UK charity, and donations are very welcome.  If you're keen to donate then please check out our <a href="/associate">Associate</a> membership.  To the extent we could continue to provide all our services purely based on donations we would.  However donations by themselves are insufficient at this time.  Being a charity does not mean expending all available resources to the point of bankruptcy.  It is perfectly reasonable for a charity to provide Premium services to members who are in a position to contribute a little extra.  In any community there is a danger that some members will consume more resources than others to the overall detriment of the community.  Particularly as regards PRs, even well-meaning attempts at fixing issues can actually be dangerous red-herrings that require lots of effort to get into shape.  Premium membership provides a mechanism for AgileVentures project managers to focus their effort on submission from the more committed members and ultimately to get fairly compensated for the work that they put in to help members learn about how to participate effectively in the Agile development process.</p>
       </details>
       <br>
       <details>
@@ -139,7 +139,7 @@
       <details>
          <summary><b>Will my Premium membership auto-renew each month?</b></summary>
          <p></p>
-         <p>Yes, you'll be charged each month automatically - please email <a href="http://www.agileventures.org/info@agileventures.org">info@agileventures.org</a> if you would like to cancel your subscription.</p>
+         <p>Yes, you'll be charged each month automatically - please email <a href="mailto:info@agileventures.org">info@agileventures.org</a> if you would like to cancel your subscription.</p>
       </details>
       <br>
       <details>
