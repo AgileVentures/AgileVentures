@@ -24,11 +24,11 @@ sudo service ssh reload
 After, set up your ssh config locally like so,
 
 ```
-Host charity-commission-api-production
+Host <app-name>
   HostName <external ip address>
   User matt
 
-Host charity-commission-api-production-dokku
+Host <app-name>-dokku
   HostName <external ip address>
   User dokku
 ```
