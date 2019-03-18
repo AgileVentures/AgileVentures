@@ -10,7 +10,6 @@ wget https://raw.githubusercontent.com/dokku/dokku/v0.14.6/bootstrap.sh;
 sudo DOKKU_TAG=v0.14.6 bash bootstrap.sh
 sudo adduser matt
 sudo mkdir /home/matt/.ssh
-cd /home/matt/
 sudo vim /home/matt/.ssh/authorized_keys
 sudo chown matt:matt /home/matt/.ssh/authorized_keys 
 sudo chown matt:matt /home/matt/.ssh
@@ -18,7 +17,20 @@ groups
 groups matt
 sudo usermod -aG google-sudoers matt
 sudo usermod -aG devops_agileventures matt
-sudo service ssh reload
 sudo vim /home/dokku/.ssh/authorized_keys 
 sudo service ssh reload
 ```
+
+After, set up your ssh config locally like so,
+
+```
+Host charity-commission-api-production
+  HostName <external ip address>
+  User matt
+
+Host charity-commission-api-production-dokku
+  HostName <external ip address>
+  User dokku
+```
+
+
