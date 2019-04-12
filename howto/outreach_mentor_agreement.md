@@ -32,3 +32,22 @@ Requirements
 
 
 Originally at: https://docs.google.com/document/d/1W0yvS19NjTTEoqQLL1ZkscbcjKI806kDbWD5KUai0mg/edit#
+
+Outreach templates
+------------------
+
+When reaching out to members individually we usually just say:
+
+> hi there, how is everything going? :-)
+
+and then I often follow up with:
+
+> Is there any way we can help you get more out of AgileVentures?
+
+Another approach is to lead with more text, e.g.
+
+> @kboscar1 Hi Kristen. I’m @federico, an `Outreach Mentor` for AgileVentures. I notice you’ve joined our community for your Software Engineering course that @karmatrinlema runs, and you are working on a project called College Daily, which is really great. :slightly_smiling_face:
+
+> *If there’s anything about AV that you’re not understanding,* like how our pairing sessions work (including our Mob group pairing sessions), *don’t hesitate to reach out and ask me.*
+
+> How has your AV experience been so far?
