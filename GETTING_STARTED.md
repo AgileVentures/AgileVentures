@@ -2,7 +2,7 @@
 
 ### Step 0
 
-First of all, [create an id] (https://www.agileventures.org/users/sign_up) on this website in order to receive your welcome email, which will explain how to join our [Agile Ventures Slack] (https://agileventures.slack.com) community discussion space.
+First of all, [create an id](https://www.agileventures.org/users/sign_up) on this website in order to receive your welcome email, which will explain how to join our [Agile Ventures Slack](https://agileventures.slack.com) community discussion space.
 
 If you want to join one of our learning mobs or pair-program with someone, you're all set to post your interest on Slack!  
 By joining this website you also now have the ability to create your own [Event](https://www.agileventures.org/events) and encourage others to join you.
