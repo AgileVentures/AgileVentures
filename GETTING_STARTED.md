@@ -1,11 +1,19 @@
 # Getting Started 1 (of 7)
 
-We're recommending all our projects adopt the [Contributor Covenant](https://www.contributor-covenant.org/) - see individual projects for details.  Please also see our [Community Code of Conduct](https://github.com/AgileVentures/AgileVentures/blob/master/CODE_OF_CONDUCT.md).
+### Step 0
+
+First of all, [create an id](https://www.agileventures.org/users/sign_up) on this website in order to receive your welcome email, which will explain how to join our [Agile Ventures Slack](https://agileventures.slack.com) community discussion space.
+
+If you want to join one of our learning mobs or pair-program with someone, you're all set to post your interest on Slack!  
+By joining this website you also now have the ability to create your own [Event](https://www.agileventures.org/events) and encourage others to join you.
+
+Keep reading in order to learn about how projects work here and how to join one...
 
 ### Step 1
 
+We're recommending all our projects adopt the [Contributor Covenant](https://www.contributor-covenant.org/) - see individual projects for details.  Please also see our [Community Code of Conduct](https://github.com/AgileVentures/AgileVentures/blob/master/CODE_OF_CONDUCT.md).
 
-Find a project that interests you from the table below, and join the corresponding Slack channel:
+Find a project that interests you from the table below (or better yet, see the [Projects](https://www.agileventures.org/projects) page for a up-to-date list) and join the corresponding Slack channel:
 
 <table width="100%" class="tg" style="border-collapse: collapse;border-spacing:0;" border="0">
   <tbody>
