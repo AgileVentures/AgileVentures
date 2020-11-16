@@ -48,13 +48,13 @@ Find a project that interests you from the table below (or better yet, see the [
 	  <td class="tg-031e" style="padding:10px 5px;border-image:none;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;">Ruby on Rails(backend)<br>EmberJS(frontend)</td>
 	</tr>
 	<tr>
-		<td class="tg-z2zr" style="padding:10px 5px;border-image:none;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;background-color: #008080;"><a style="color: #ffffff;" href="http://www.agileventures.org/projects/website-two">WebsiteTwo</a></td>
+		<td class="tg-z2zr" style="padding:10px 5px;border-image:none;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;background-color: #008080;"><a style="color: #ffffff;" href="http://www.agileventures.org/projects/av-websitetwo">WebsiteTwo</a></td>
 		<td class="tg-z2zr" style="padding:10px 5px;border-image:none;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;background-color: #008080;"><a style="color: #ffffff;" href="https://agileventures.slack.com/messages/website-two">#website-two</a></td>
 		<td class="tg-z2zr" style="border-width:0px;border-style:solid;padding:10px 5px;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;background-color: #008080;color: #ffffff;">mlindsey<br></td>
 		<td class="tg-z2zr" style="border-width:0px;border-style:solid;padding:10px 5px;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;background-color: #008080;color: #ffffff;;">React<br>Ruby on Rails</td>
 	  </tr>
 	<tr>
-		<td class="tg-031e" style="padding:10px 5px;border-image:none;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;"><a href="https://www.agileventures.org/projects/reach4help">Reach4Help</a></td>
+		<td class="tg-031e" style="padding:10px 5px;border-image:none;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;"><a href="https://helpfulengineering.org/projects/reach4help/">Reach4Help</a></td>
 		<td class="tg-031e" style="padding:10px 5px;border-image:none;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;"><a href="https://agileventures.slack.com/messages/general">#general</a></td>
 		<td class="tg-031e" style="padding:10px 5px;border-image:none;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;">Ethan Strominger</td>
 		<td class="tg-031e" style="padding:10px 5px;border-image:none;overflow: hidden;font-family: Arial, sans-serif;font-size: 18px;">React</td>
