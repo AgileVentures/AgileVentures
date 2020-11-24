@@ -11,10 +11,9 @@ If you want to join a project, see the project list below or join a daily scrum.
 
 Find a project that interests you from the table below and join the corresponding Slack channel:
 
-
-<table class="tg" style="border-collapse: collapse;border-spacing:0; width: 100%;">
-<style>
- tbody tr:nth-child(odd) {
+(setq markdown-xhtml-header-content
+      “<style type=‘text/css’>
+tbody tr:nth-child(odd) {
    padding:10px 5px;
    background-color: #008080;
    border-image:none;
@@ -40,7 +39,8 @@ Find a project that interests you from the table below and join the correspondin
  a {
    color: Darkturquoise;
  }
-</style>
+</style>“)
+<table class="tg" style="border-collapse: collapse;border-spacing:0; width: 100%;">
   <tbody>
   <tr>
 	  <th><span style="font-weight: bold;">Project Name</span></th>
