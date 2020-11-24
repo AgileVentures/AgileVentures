@@ -1,20 +1,19 @@
-# Getting Started 1 (of 7)
-
-### Step 0
+Welcome to Agile Ventures!
 
 First of all, [create an id](https://www.agileventures.org/users/sign_up) on this website in order to receive your welcome email, which will explain how to join our [Agile Ventures Slack](https://agileventures.slack.com) community discussion space.
 
-If you want to join one of our learning mobs or pair-program with someone, you're all set to post your interest on Slack!  
-By joining this website you also now have the ability to create your own [Event](https://www.agileventures.org/events) and encourage others to join you.
+You can join any of our events available [here](/events).  You will see book clubs and project work sessions hosted by members.  If you are interested in starting your own, contact xxxx.
 
-Keep reading in order to learn about how projects work here and how to join one...
+There are daily scrums where you can find out live status updates and ask any questions 
+person to person.
 
-### Step 1
+If you want to join a project, see the [Project listing] for available projects or join a daily scrum.  If you are interested in starting a project, contact xxxxx.
+### PROJECT LIST
 
-We're recommending all our projects adopt the [Contributor Covenant](https://www.contributor-covenant.org/) - see individual projects for details.  Please also see our [Community Code of Conduct](https://github.com/AgileVentures/AgileVentures/blob/master/CODE_OF_CONDUCT.md).
+Find a project that interests you from the table below and join the corresponding Slack channel:### PROJECT LIST
 
-Find a project that interests you from the table below (or better yet, see the [Projects](https://www.agileventures.org/projects) page for a up-to-date list) and join the corresponding Slack channel:
 
+Find a project that interests you from the table below and join the corresponding Slack channel:
 <table width="100%" class="tg" style="border-collapse: collapse;border-spacing:0;" border="0">
   <tbody>
 <tr>
