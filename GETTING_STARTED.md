@@ -1,45 +1,20 @@
-Welcome to Agile Ventures!
+# Welcome to Agile Ventures!
 
-First of all, [create an id](https://www.agileventures.org/users/sign_up) on this website in order to receive your welcome email, which will explain how to join our Agile Ventures Slack community discussion space.
+To start, [create an account](/users/sign_up) in order to receive your welcome email, which will explain how to join our Agile Ventures Slack community discussion space.
 
-You can join any of our events available [here](/events).  You will see book clubs and project work sessions hosted by members.  If you are interested in starting your own, contact <info@agileventures.org>.
+You can join any of our events available [here](/events).  This page lists book clubs, technical sessions, and project work sessions hosted by members.  
 
-There are daily scrums where you can find out live status updates and ask any questions
-person to person.
+Join one of the projects listed below.  Website One, Website Two, and Reach4Help are great projects if you like to pair or mob program or are looking to work with a mentor.  
 
-If you want to join a project, see the project list below or join a daily scrum.  If you are interested in starting a project, contact <info@agileventures.org>.
+Come to one of our daily scrums where you can find out the status of projects and initiatives and get answers to your questions. 
+
+If you are interested in hosting a book club, starting a project, or facilitating a technical session, contact <info@agileventures.org>.
+
 
 Find a project that interests you from the table below and join the corresponding Slack channel:
 
-(setq markdown-xhtml-header-content
-      “<style type=‘text/css’>
-tbody tr:nth-child(odd) {
-   padding:10px 5px;
-   background-color: #008080;
-   border-image:none;
-   overflow: hidden;
-   font-family: Arial, sans-serif;
-   font-size: 18px;
- }
- tbody tr:nth-child(even) {
-   padding:10px 5px;
-   border-image:none;
-   overflow: hidden;
-   font-family: Arial, sans-serif;
-   font-size: 18px;
-   }
- th {
-   border-width:0px;
-   border-style:solid;
-   padding:10px 5px;
-   overflow: hidden;
-   font-family: Arial, sans-serif;
-   font-size: 18px;
-   }
- a {
-   color: Darkturquoise;
- }
-</style>“)
+
+
 <table class="tg" style="border-collapse: collapse;border-spacing:0; width: 100%;">
   <tbody>
   <tr>
