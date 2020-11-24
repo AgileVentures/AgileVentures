@@ -1,6 +1,6 @@
 Welcome to Agile Ventures!
 
-First of all, [create an id](https://www.agileventures.org/users/sign_up) on this website in order to receive your welcome email, which will explain how to join our [Agile Ventures Slack](https://agileventures.slack.com) community discussion space.
+First of all, [create an id](https://www.agileventures.org/users/sign_up) on this website in order to receive your welcome email, which will explain how to join our Agile Ventures Slack community discussion space.
 
 You can join any of our events available [here](/events).  You will see book clubs and project work sessions hosted by members.  If you are interested in starting your own, contact <info@agileventures.org>.
 
@@ -9,9 +9,10 @@ person to person.
 
 If you want to join a project, see the project list below or join a daily scrum.  If you are interested in starting a project, contact <info@agileventures.org>.
 
-
 Find a project that interests you from the table below and join the corresponding Slack channel:
 
+
+<table class="tg" style="border-collapse: collapse;border-spacing:0; width: 100%;">
 <style>
  tbody tr:nth-child(odd) {
    padding:10px 5px;
@@ -40,8 +41,7 @@ Find a project that interests you from the table below and join the correspondin
    color: Darkturquoise;
  }
 </style>
-<table class="tg" style="border-collapse: collapse;border-spacing:0; width: 100%;">
-	<tbody>
+  <tbody>
   <tr>
 	  <th><span style="font-weight: bold;">Project Name</span></th>
 	  <th><span style="font-weight: bold;">Slack Channel</span></th>
