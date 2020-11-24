@@ -1,10 +1,6 @@
 # Membership Plans
 
-AgileVentures helps teams of developers get together to work on open source charity IT projects.  In the [free plan](/free) developers get project logistics support and the use of AgileVentures Slack and Google hangouts integration for online meetings.
-
-AgileVentures also provides [Premium](/premium), [Premium Mob](/premium-mob) ([free trial offer](/premium-mob-offer)) and [Premium F2F](/premium-f2f) ([free trial offer](/premium-f2f-offer))  membership plans with benefits beyond our [free tier membership](/free). These plans provide our members with greater support for their professional development as an Agile software developer, including live group and private sessions with AV Mentors.
-
-If you're not trying to level up as an Agile software developer yourself, you can still help out by [sponsoring another developer](/sponsorship) to get the support they can't otherwise afford.
+AgileVentures helps teams of developers get together to work on open source charity IT projects.  In the [free plan](/free) developers get the use of AgileVentures Slack.
 
 <table class="tg" style="border-collapse: collapse;border-spacing:0;border-color: #aaa; width: 100%">
  <tbody>
