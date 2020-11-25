@@ -15,14 +15,16 @@ Find a project that interests you from the table below and join the correspondin
 
 
 
-<table class="tg" style="border-collapse: collapse;border-spacing:0; width: 100%;">
-  <tbody>
-  <tr>
+<table class="table" style="border-collapse: collapse;border-spacing:0; width: 100%;">
+    <thead>
+    <tr>
 	  <th><span style="font-weight: bold;">Project Name</span></th>
 	  <th><span style="font-weight: bold;">Slack Channel</span></th>
 	  <th><span style="font-weight: bold;">Contacts</span></th>
 	  <th><span style="font-weight: bold;">Primary Technologies</span></th>
 	</tr>
+	</thead>
+	<tbody>
 	<tr id="first-row">
 	  <td><a href="http://agileventures.org/projects/websiteone">WebsiteOne</a></td>
 	  <td><a href="https://agileventures.slack.com/messages/websiteone/">#websiteone</a></td>
