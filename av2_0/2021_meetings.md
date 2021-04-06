@@ -36,6 +36,8 @@ If we want to move on with the Summer Camp and other initiatives, we want to get
 
 **Action points**: Mike reaches out to Federico (a member of the Marketing Team) for more details.
 
+**Mike:**I have reached out to Federico and he suggests that we reach out to Sam as he never directly dealt with the Google Ads people, while Sam did and could help with access. The google ads are still active and he still receives monthly invoices as part of the marketing team, with Lara and Sam. I will reachout to Sam in this regard
+
 #### Spring Cleaning
 The website needs to be cleaned from a lot of old projects, inactive members, out-dated descriptions of the charity. 
 
