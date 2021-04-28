@@ -3,7 +3,7 @@
 
 AgileVentures has appointed  Mr. Thomas Ochman as its next chief executive. 
  
-Mr. Ochman is a senior developer and tech-entrepreneur with a focus on education, project management, and agile methodologies. He is currently running a training and education start-up in Sweden. His expertise in education and re-skilling projects will add to the mix of charitable activities AgileVentire offers to live up to its mission; to promote advancement of education of the general public as well as efficiency and effectiveness of other Third Sector organizations, by providing affordable software development and project management.
+Mr. Ochman is a senior developer and tech-entrepreneur with a focus on education, project management, and agile methodologies. He is currently running a training and education start-up in Sweden. His expertise in education and re-skilling projects will add to the mix of charitable activities AgileVentures offers to live up to its mission; to promote advancement of education of the general public as well as efficiency and effectiveness of other Third Sector organizations, by providing affordable software development and project management.
  
 Bryan Yap, Chair of the Board of Trustees of AgileVentures, states: "The landscape of software development and learning is changing rapidly.  Thomas's appointment to the role as Chief Executive is a clear indication of our intention to ensure that we as a charity can help to further democratize technical education, and help our organization in these pivotal times."
  
