@@ -9,7 +9,7 @@ AgileVentures helps teams of developers get together to work on open source char
         <th style="width: 65px;font-family: Arial, sans-serif;font-size: 14px;padding:8px;">
         <div style="text-align: center;"><a href="/free" style="color:white">Free</a></div></th>
         <th style="width: 60px;font-family: Arial, sans-serif;font-size: 14px;padding:8px;">
-        <div style="text-align: center;"><a href="/premium-f2f" style="color:white">Contributing</a></div>
+        <div style="text-align: center;"><a href="/premium-f2f" style="color:white">Associate Membership</a></div>
         <div style="text-align: center;">(&#xa3;10/month)</div>
         </th>
     </tr>
@@ -35,8 +35,7 @@ AgileVentures helps teams of developers get together to work on open source char
 		</tr>
     <tr>
 		<td style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;"><a href="/premium-mob">Udemy Modern React with Redux course</a></td>    
-		<td style="text-align: center;padding:8px;border-left:solid 1px #ddd;"><img width="32" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
-		<td style="text-align: center;padding:8px;border-left:solid 1px #ddd;border-right:solid 1px #ddd;"><img width="32" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
+CONTR		<td style="text-align: center;padding:8px;border-left:solid 1px #ddd;border-right:solid 1px #ddd;"><img width="32" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
 	</tr>
     <tr>
 		<td style="font-family: Arial, sans-serif;font-size: 14px;background:#efefef;padding:8px;"><a href="/premium-mob">Udemy Complete Elixir &amp; Phoenix Bootcamp course</a></td>    
