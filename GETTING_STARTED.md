@@ -4,7 +4,7 @@ To start, [create an account](/users/sign_up) in order to receive your welcome e
 
 You can join any of our events available [here](/events).  This page lists book clubs, technical sessions, and project work sessions hosted by members.  
 
-If you feel that you want to start to contribute to any of our community projects, check out the list below or the repository of [ongoing projects](/projects). Come to one of our community follow-ups (MONDAYS, WEDNESDAYS anf FRIDAYS)s where you can find out the status of projects and initiatives and get answers to your questions. 
+If you feel that you want to start to contribute to any of our community projects, check out the list below or the repository of [ongoing projects](/projects). Come to one of our community follow-ups (ran on MONDAYS, WEDNESDAYS and FRIDAYS)s where you can find out the status of projects and initiatives and get answers to your questions. 
 
 If you are interested in hosting a book club, starting a project, or facilitating a technical session, contact <info@agileventures.org>.
 
