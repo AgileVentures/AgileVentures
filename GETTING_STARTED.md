@@ -19,7 +19,8 @@ Find a project that interests you from the table below and join the correspondin
     <thead>
     <tr>
 	  <th><span style="font-weight: bold;">Project Name</span></th>
-	  <th><span style="font-weight: bold;">Slack Channel</span></th>
+	  <!--th><span style="font-weight: bold;">Slack Channel</span></th-->
+	  <th><span style="font-weight: bold;">Description</span></th>
 	  <th><span style="font-weight: bold;">Contacts</span></th>
 	  <th><span style="font-weight: bold;">Primary Technologies</span></th>
 	</tr>
@@ -27,11 +28,17 @@ Find a project that interests you from the table below and join the correspondin
 	<tbody>
 	<tr id="first-row">
 	  <td><a href="http://agileventures.org/projects/websiteone">WebsiteOne</a></td>
-	  <td><a href="https://agileventures.slack.com/messages/websiteone/">#websiteone</a></td>
-	  <td>Matt Lindsey (mlindsey)</td>
-	  <td>Ruby on Rails</td>
+	  <td>Community Website</td>
+	  <td>Thomas Ochman (@tochman)</td>
+	  <td>Ruby on Rails, RSpec, Cucumber</td>
 	</tr>
-	<tr>
+	<!tr>
+		<td>ThiIsCode</td>
+		<td>Crowdsourced Learning Plattforme</td>
+		<td>Thomas Ochman (@tochman)<br/></td>
+		<td>React, Gatsby, Ruby on Rails<br/>Ruby on Rails</td>
+	  </tr>
+	<!--tr>
 		<td><a href="http://www.agileventures.org/projects/av-websitetwo">WebsiteTwo</a></td>
 		<td><a href="https://agileventures.slack.com/messages/website-two">#website-two</a></td>
 		<td>Matt Lindsey (mlindsey)<br/></td>
@@ -48,24 +55,24 @@ Find a project that interests you from the table below and join the correspondin
 		<td><a href="https://agileventures.slack.com/messages/shf-project">#shf-project</a></td>
 		<td>Susanna Larsdotter (thesuss)</td>
 		<td>Ruby on Rails</td>
-	</tr>
+	</tr-->
 	<tr>
 	  <td><a href="http://agileventures.org/projects/localsupport">LocalSupport</a></td>
-	  <td><a href="https://agileventures.slack.com/messages/localsupport/">#localsupport</a></td>
-	  <td>Mike Aono (aonomike)</td>
+	  <td>Non profit directory and support system</td>
+	  <td>Mike Aono (@aonomike)</td>
 	  <td>Ruby on Rails</td>
 	</tr>
-	<tr>
+	<!--tr>
 	  <td><a href="http://www.agileventures.org/projects/wiki-ed-dashboard">Wiki Ed Dashboard</a></td>
 	  <td><a href="https://agileventures.slack.com/messages/C724RCXT7/">#wiki_edu_dash_collab</a></td>
 	  <td>Sage Ross (ragesoss)<br/></td>
 	  <td>React<br/>Ruby on Rails</td>
-	</tr>
-    <tr class="td2">
+	</tr-->
+    <!--tr class="td2">
 	  <td><a href="https://www.agileventures.org/projects/rundfunk-mitbestimmen">RundFunk Mitbestimmen</a></td>
 	  <td><a href="https://agileventures.slack.com/messages/rundfunk-mitbestimmen">#rundfunk-mitbestimmen</a></td>
 	  <td>roschaefer</td>
 	  <td>Ruby on Rails (backend)<br/>EmberJS(frontend)</td>
-	</tr>
+	</tr-->
   </tbody>
   </table>
