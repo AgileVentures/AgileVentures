@@ -29,7 +29,7 @@ If you are interested in hosting a book club, starting a project, or facilitatin
 	  <td>Thomas Ochman (@tochman)</td>
 	  <td>Ruby on Rails, RSpec, Cucumber</td>
 	</tr>
-	<!tr>
+	<tr>
 		<td>ThiIsCode</td>
 		<td>Crowdsourced Learning Plattforme</td>
 		<td>Thomas Ochman (@tochman)<br/></td>
