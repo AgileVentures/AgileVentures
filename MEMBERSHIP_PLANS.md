@@ -9,7 +9,7 @@ AgileVentures helps teams of developers get together to work on open source char
         <th style="width: 65px;font-family: Arial, sans-serif;font-size: 14px;padding:8px;">
         <div style="text-align: center;"><a href="/free" style="color:white">Free</a></div></th>
         <th style="width: 60px;font-family: Arial, sans-serif;font-size: 14px;padding:8px;">
-        <div style="text-align: center;"><a href="/premium-f2f" style="color:white">Associate Membership</a></div>
+        <div style="text-align: center;"><a href="/associate" style="color:white">Associate Membership</a></div>
         <div style="text-align: center;">(&#xa3; 5/month)</div>
         </th>
     </tr>
