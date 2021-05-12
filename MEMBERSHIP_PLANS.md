@@ -63,7 +63,7 @@ CONTR		<td style="text-align: center;padding:8px;border-left:solid 1px #ddd;bord
 		<td style="text-align: center;font-family: Arial, sans-serif;font-size: 14px;padding:8px;background:#efefef;border-left:solid 1px #ddd;color:white"><span class="btn btn-primary btn-block" style="background-color:#ee7335;border-color:#ee7335;padding:5px;"><a href="/users/sign_up" style="color:white"><b>Get Started</b></a></span></td>
 		<td style="text-align: center;font-family: Arial, sans-serif;font-size: 14px;padding:8px;background:#efefef;border-left:solid 1px #ddd;border-right:solid 1px #ddd;">
 			 <span class="btn btn-primary btn-block" style="color:white;background-color:#ee7335;border-color:#ee7335;padding:5px;">
-				<a href="/subscriptions/new?plan=premium" style="color:white;"><b>Get Started</b></a></span>
+				<a href="/subscriptions/new?plan=associate" style="color:white;"><b>Get Started</b></a></span>
 </td>
 </tr>
 </tbody>
