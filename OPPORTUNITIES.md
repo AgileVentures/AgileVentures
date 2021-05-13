@@ -1,6 +1,6 @@
 # Get involved!
 
-We are a UK Charitable Incorporated Organisation (CIO) with a fairly small organizational stucture and limited budget. Despite that, we get a lot done. That is only possible due to volunteers like yourself. Being involved in AgileVentures can add value to your professional development. 
+We are a UK Charitable Incorporated Organisation (CIO) with a fairly small organizational stucture and limited budget. Despite that, we get a lot done. That is only possible due to volunteers like yourself. Being involved in AgileVentures can add value to your professional development. So, if you are looking to advance your career but also have a sense of meaning in the things you do, we can offer you a position where you can make a real impact. These positions (paid or on a volunteer basis) are reserved for [Associate Members of the AgileVentures Charity](/associate).
 
 Currently, we are looking for soneone that can work with in the following areas.
  
