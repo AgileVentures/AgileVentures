@@ -31,7 +31,7 @@ If you are interested in hosting a book club, starting a project, or facilitatin
 	</tr>
 	<tr>
 		<td>ThiIsCode</td>
-		<td>Crowdsourced Learning Plattforme</td>
+		<td>Crowdsourced Learning Platform</td>
 		<td>Thomas Ochman (@tochman)<br/></td>
 		<td>React, Gatsby, Ruby on Rails<br/>Ruby on Rails</td>
 	  </tr>
