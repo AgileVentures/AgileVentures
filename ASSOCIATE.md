@@ -44,7 +44,7 @@ Associate Membership, you will be able to take part in the process of shaping th
 
 ### AgileVentures Edge events
 
-"AgileVentures Edge" is an initiative to bring the latest in technology to further progress our members growth as proffesionals. Starting in the fall of 2021, we will bring about a schedule of events and panel discussions on topics ranging from Agile, Blochchain, CyberSecurity, Web Developnment, etc. Stay tuned for more details. 
+"AgileVentures Edge" is an initiative to bring the latest in technology to further progress our members growth as proffesionals. Starting in the fall of 2021, we will bring about a schedule of events and panel discussions on topics ranging from Agile, Blockchain, CyberSecurity, Web Developnment, etc. Stay tuned for more details. 
 
 ## Frequently Asked Questions
 
