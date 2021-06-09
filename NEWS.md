@@ -1,5 +1,30 @@
 ## Community news
 
+## Learn With AgileVentures - Summer Camp 2021
+
+_May 27th, 2021_
+
+The mission of our community is twofold: to provide members with learning opportunities and to help other charities and NGO's develop their IT infrastructure.
+
+We believe that the best way to learn is to work on the practical implementation of software-based in solutions. We want to move beyond tutorials and self-paced training offerings. We want to help our members develop skills that will lead them to a brighter future.
+
+**We are happy to announce our latest initiative: A 9-week long instructor-led training program on Web-technologies offered to a selected group of 10 students as active participants and streamed on Twitch for other community members and the general public as self-paced training. The curriculum will be based on professional training courses delivered pro-bono by trainers from the IT industry.**
+
+The 10 participants will be selected among the community volunteers through an application process. 
+
+Together, we'll learn about Agile Methodologies, Software as a Service, Back-end development, and Front-end application development. We will also cover testing and best practices.
+
+* **Delivered by a Coaching Team** of 1 Head Coach and 2 Assistant Coaches
+* **Instructor-led training sessions** (1.5 hours) 2 times per week Tuesday and Thursday
+* **Instructor-led support sessions** (2 hours) 1 per week on weekends
+* **Comprehensive course materials** delivered digitally through Craft Academy Learning Management Plattform
+* **Individual progress assessment** by 2 Training Exams and a Final Exam
+* **Team-based Capstone Project** with planning, implementation and delivery.
+* **Certificates** issued by [Craft Academy](https://www.craftacademy.se/english/) and Agile Ventures
+* Personalized **Letter of Recommendation** from the Coaching Team issued at graduation
+
+If you feel that this is something for you, or if you know of an individual that might benefit from this program - make sure to submit an application to **applications[@]agileventures.org**
+
 ### AgileVentures Charity Appoints New Chief Executive
 
 _April 29th, 2021_
