@@ -29,7 +29,7 @@ Over the recent years, live streaming has become more and more mainstream, and c
 
 We have a vision of an AgileVentures Team on Twitch.tv where our members and Community Organizers can organize co-working and co-study groups. The number of co-study/co-working streamers has increased dramatically over the last few months and co-working is likely to become a very popular niche on Twitch.
 
-The first step in going live on Twitch is happening as you are reading this. You chan find our [community channel](https://www.twitch.tv/agileventures) at Twith and we have two of our members stream live coding on regular basis. 
+The first step in going live on Twitch is happening as you are reading this. You can find our [community channel](https://www.twitch.tv/agileventures) at Twith and we have two of our members stream live coding on regular basis. 
 
 * [Arc_Anya](https://www.twitch.tv/arc_anya) strams co-working sessions on most weekdays and is part of our community sponsorship
 * [Thomas Ochman](https://www.twitch.tv/thomas_ochman) is streaming AV Community Follow-ups and Q&A sessions and quite a lot of his own personal coding. 
