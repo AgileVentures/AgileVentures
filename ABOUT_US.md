@@ -25,7 +25,7 @@ _June 8th, 2021_
 
 Streaming has been an integrated part of the Agile Ventures process since its inception. Most of the Scrums and Pair Programming sessions of the early days of the community were streamed to YouTube and contributed significantly to community engagement. The AgileVenture community was a pioneer in bringing live coding and project work live on the internet. 
 
-Over the recent years, live streaming has become more and more mainstream, and co-working and co-study groups have gained a lot of popularity and could be a way to potentially expand the member and volunteer base of Agile Ventures. We believe that live streaming technical sessions can play a vital role in developing engagement among community members. All developers suffer some form of imposter syndrome at some time, and being a beginner programmer makes it worse. Joining a live session (like on Google Meet or Jitsy) is a threshold that can be off-putting and can hinder individual members to start participating in community events. Streaming, on the other hand, is more passive and can be perceived as a way to “ease in” into live coding. Viewers can only participate over chat, and if they don’t want to interact with the host, they can stay in the background and “lurk”.
+Over the recent years, live streaming has become more and more mainstream, and co-working and co-study groups have gained a lot of popularity and could be a way to potentially expand the member and volunteer base of Agile Ventures. We believe that live streaming technical sessions can play a vital role in developing engagement among community members. All developers suffer some form of imposter syndrome at some time, and being a beginner programmer makes it worse. Joining a live session (like on Google Meet or Jitsy) is a threshold that can be off-putting and can hinder individual members to start participating in community events. Streaming, on the other hand, is more passive and can be perceived as a way to ease in into live coding. Viewers can only participate over chat, and if they dont want to interact with the host, they can stay in the background and lurk.
 
 We have a vision of an AgileVentures Team on Twitch.tv where our members and Community Organizers can organize co-working and co-study groups. The number of co-study/co-working streamers has increased dramatically over the last few months and co-working is likely to become a very popular niche on Twitch.
 
@@ -69,7 +69,6 @@ We meetings and pair programming sessions every day with participants from all t
 - Just have fun, meet new people from all over the world and socialize
 
 Please see the following document: [/getting-started](/getting-started)
-
 
 ### Read more about AgileVentures:
 
