@@ -15,7 +15,7 @@ Associate Membership fee is currently &#xa3;5 a month and is charged on a monthl
 
 ### Access to AgileVentures Slack
 
-AgileVentures uses the [Slack](https://slack.com/) instant messaging service to support the coordination of all activities.  Join hundreds of other AgileVentures developers and browse the difference project channels to take the pulse of real Agile projects.
+AgileVentures uses the [Slack](https://agileventures.slack.com) instant messaging service to support the coordination of all activities. Join hundreds of other AgileVentures developers and browse the channels to take the pulse of real Agile projects.
 
 ### Access to AgileVentures Community events, workshops and training 
 
