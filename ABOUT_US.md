@@ -1,4 +1,13 @@
-## Work The Web - Summer Camp 2021
+## About Us
+
+**AgileVentures is an official UK Charity dedicated to crowdsourced learning and social coding. As a charitable organization, we are committed to providing training for those who need it the most, but also empower them to share their skills with others, and use them for a good cause.** 
+
+We follow the Agile approach to software development, and practice social coding using remote pair programming technologies such as Google Meet or Zoom. You can also join our community streams on [Twitch.tv](https://www.twitch.tv/agileventures). Anyone at any skill level can participate or simply observe in the remote pair programming sessions and planning meetings as we develop solutions for real customers in the non-profit sector. There are no minimum requirements, simply an interest to learn.
+
+We have meetings and pair programming sessions every day with participants from all time zones and on all levels. **Be on a lookout in Slack and feel free to join to contribute, or just say hello and hear about what's going on :-)**
+
+## Community news 
+### Work The Web - Summer Camp 2021
 
 _June 8th, 2021_
 
@@ -8,7 +17,7 @@ The curriculum of Work The Web is based on professional training courses deliver
 
 * **Delivered by a Coaching Team** of 1 Head Coach and 2 Assistant Coaches
 * **Instructor-led training sessions** (1.5 hours) 2 times per week Tuesday and Thursday at 17:30 UTC
-* **Instructor-led support sessions** (2 hours) 1 per week on weekends at 17:30 UTC
+* **Instructor-led support sessions** (2 hours) 2 per week on weekends (Saturday and Sunday) at 17:30 UTC
 * **Comprehensive course materials** delivered through an online Learning Management Platform
 * **Individual progress assessment** by 2 Training Exams and a Final Exam
 * **Team-based Capstone Project** with planning, implementation and delivery
@@ -19,7 +28,7 @@ The curriculum of Work The Web is based on professional training courses deliver
 
 If you feel that this is something for you, or if you know of an individual that might benefit from this program - make sure to submit an application to **applications[@]agileventures.org**
 
-## AgileVentures goes live on Twitch!
+### AgileVentures goes live on Twitch!
 
 _June 8th, 2021_
 
@@ -32,6 +41,7 @@ We have a vision of an AgileVentures Team on Twitch.tv where our members and Com
 The first step in going live on Twitch is happening as you are reading this. You can find our [community channel](https://www.twitch.tv/agileventures) at Twitch and we have two of our members stream live coding on regular basis. 
 
 * [Arc_Anya](https://www.twitch.tv/arc_anya) streams co-working sessions on most weekdays and is part of our community sponsorship
+* [Verena](https://twitch.tv/novas1r1) is a programmer with focus on mobile application development using Flutter and is part of our community sponsorship
 * [Thomas Ochman](https://www.twitch.tv/thomas_ochman) is streaming AV Community Follow-ups and Q&A sessions and quite a lot of his own personal coding. 
 * [AgileVentures](https://www.twitch.tv/agileventures) is the channel where we will stream more community events in the upcoming months.
 
@@ -42,37 +52,3 @@ The first step in going live on Twitch is happening as you are reading this. You
 [More news...](/news)
 
 
-## About Us
-
-**AgileVentures is an official UK Charity dedicated to crowdsourced learning and social coding. As a charitable organization, we are committed to providing training for those who need it the most, but also empower them to share their skills with others, and use them for a good cause.** 
-
-We follow the Agile approach to software development, and practice social coding using remote pair programming technologies such as Google Meet or Zoom. You can also join our community streams on [Twitch.tv](https://www.twitch.tv/agileventures). Anyone at any skill level can participate or simply observe in the remote pair programming sessions and planning meetings as we develop solutions for real customers in the non-profit sector. There are no minimum requirements, simply an interest to learn.
-
-We have meetings and pair programming sessions every day with participants from all time zones and on all levels. **Be on a lookout in Slack and feel free to join to contribute, or just say hello and hear about what's going on :-)**
-
-
-## What exactly can you get out of participating in AgileVentures?
-
-### As a developer
-
-- Learn and gain experience
-- Participate in a real project, collaborate in a real team and work with real customers
-- Learn to program, manage a project and manage a team
-- Learn the industry tools for software development and project management
-- Get immediate help and guidance on technical issues
-- Get feedback on your work and ideas
-- Realize yourself
-
-### As a bonus
-
-- Get hired
-- Just have fun, meet new people from all over the world and socialize
-
-Please see the following document: [/getting-started](/getting-started)
-
-### Read more about AgileVentures:
-
-- [Mission, Values and Goals](/projects/agileventures-community/documents/mission-statement) and [discussion](https://agileventures.slack.com/messages)
-- [Crowdsourced Learning](/articles/crowdsourced-learning)
-- [Testimonials](/articles/testimonials)
-- [Blog](http://nonprofits.agileventures.org/blog/)
