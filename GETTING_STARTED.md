@@ -73,3 +73,6 @@ If you are interested in hosting a book club, starting a project, or facilitatin
 	</tr-->
   </tbody>
   </table>
+  
+  
+  [On to Step 2](https://www.agileventures.org/getting-started-2)
