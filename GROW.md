@@ -1,27 +1,24 @@
 # Grow
 
-How do you grow as a developer?  Lots of coding clearly.  Lots of pair programming is also great for learning the tricks of the trade from other programmers.  Connecting with a community of potential mentors, and serving as a mentee for others at a lower skill level than yourself.  However, we argue that the critical component is working on non-trivial real world projects with non-technical customers.  You need to be able to work out what coding skills, languages and platforms to deploy in order to get the things done that will move a project forward, however success happens to be defined.  
+How do you grow as a developer?  Code a lot! That goes without saying. Lots of pair programming is also great for learning the tricks of the trade from other programmers.  Connecting with a community of developers to learn from and be mentored by, as well as serving as a mentee for others at a lower skill level than yourself.  However, we argue that the critical component is working on non-trivial real world projects with real customers. 
 
-Agile Ventures offers you the possibility of working in real time with teams of open source developers from around the world on real projects that are helping deserving charitable causes.  You'll become part of a close knit community of developers, taking part in project management scrums, pair programming with the latest technologies and learning the skills that you can use to achieve success in your other coding projects, in the workplace and in the community.
+Agile Ventures offers you the possibility of working in real time with teams of developers from around the world on real projects that are helping deserving charitable causes.  You'll become part of a close knit community of developers, taking part in project planning, pair programming with the latest technologies and learning the skills that you can use to achieve success in your other coding projects, in the workplace and in the community.
 
 **Our two key goals are to support:**
-
-**1) A wide range of active healthy projects with charitable objectives**
-**2) As many online pair programming and project management sessions as possible** 
+<strong>
+1. A wide range of active healthy projects with charitable objectives
+2. As many online pair programming and project management sessions as possible
+</strong>
 
 These goals complement each other in that many active healthy projects allows new and existing members to find a project that matches their preference, which in turn increases the number of developers and project managers taking part in Agile Ventures that in turn provides the critical mass of individuals attending scrums and being available to pair online.  This in turn increases the likelihood that when new or existing members are looking for a project or coding session that someone will be available for discussion and pairing and that helps coordinated actions on projects which increases project health.  Did I hear someone say "Virtuous Circle" :-)
 
-See our list of active projects:
+See our [list of active projects](http://agileventures.org/projects) to get involved.
 
-http://agileventures.org/projects
+## Testimonials
 
-and join a scrum to get involved.  Upcoming scrums have a countdown timer, and there are more details on the about page:
+Here are how some members describe how AgileVentures helped them land developer positions:
 
-http://agileventures.org/about-us
-
-Here are how some members describe how Agile Ventures helped them land developer positions:
-
-> "I still remember my first pull request to an Agile Ventures project. I had just finished the rails software engineering classes on edx, and I stumbled into a scrum that Sam was hosting for Local Support. The scrum was friendly and informative, and I came back again in a few days with a build for a feature request that we had discussed. Sam was so enthusiastic about having a new contributor to the project that he pulled it in right away! After that I was hooked, and my experience with the Agile Ventures team has shaped me as a developer. Here are a few of my favorite things about developing with the team.
+> "I still remember my first pull request to an Agile Ventures project. I had just finished the rails software engineering classes on edx, and I stumbled into a scrum that a community organizer was hosting for Local Support. The scrum was friendly and informative, and I came back again in a few days with a build for a feature request that we had discussed. The host was so enthusiastic about having a new contributor to the project that he pulled it in right away! After that I was hooked, and my experience with the AgileVentures team has shaped me as a developer. Here are a few of my favorite things about developing with the team.
 
 > Testing: Rails provides a lot of "magic" for us developers to work with, empowering us to do a lot with a few elegant lines of code. But with great power comes great responsibility, and all this bonus productivity may be lost if we don't have a test suite to reliably pinpoint issues when they come up. And besides the pragmatic case for testing, it's just plain fun. Testing requires imagination and creativity, the ability to play devil's advocate with our code. To test, we must shy away from unverified assumptions, follow the urge to get to the bottom of things, and not give up until we have experienced enough value to fully explain our design decisions to others. 
 
@@ -43,16 +40,16 @@ Here are how some members describe how Agile Ventures helped them land developer
 
 > "AgileVentures has an open and friendly community of developers passionate about their work. I was fortunate to have come across them, and I was able to immerse myself in the community. Participating in the open source projects and opportunities that cropped up from time to time taught me invaluable skills such as remote collaboration, working with version control, the importance of software practices and agile methodologies. Confucius once said "I hear and I forget. I see and I remember. I do and I understand.". AgileVentures gave me the chance to "do", and along with help from the community, rapidly accelerated my growth as a developer. Without AgileVentures, I would not be standing where I am today." **-- Bryan Yap, AgileVenturer & Full Stack Developer at Alliants, United Kingdom**
 
-> "I must admit that I was initially hesitant about the concept of an open and transparent pair programming community for system developers. But the more I talked to Sam Joseph and the other members and the more I got to experience the benefits of learning and development in groups, the more convinced I became that AgileVentures was unique as a route to both professional and personal growth. 
+> "I must admit that I was initially hesitant about the concept of an open and transparent pair programming community for system developers. But the more I talked to the other members and the more I got to experience the benefits of learning and development in groups, the more convinced I became that AgileVentures was unique as a route to both professional and personal growth. 
 >
 > Over one year, and lot of experiences later, I desire nothing more than to continue to grow together with all the wonderful people I have had the privilege to meet and work with through this community.  
 > 
 > My involvement in AgileVentures has led to many positive effects in my professional life. Nowadays, I work full time as a Ruby developer and do consultancy work for clients all over the world. I continue to work remotely and use all of the collaborative techniques that I have learned and practiced in AgileVentures, on a daily basis. 
 >
-> I continue to be committed to the development of the AgileVentures community and look forward to all future pair programming sessions and every scrum." **-- Thomas Ochman, Senior Ruby Developer, Craft Academy, Gothenburg, Sweden**
+> I continue to be committed to the development of the AgileVentures community and look forward to all future pair programming sessions and every scrum." **-- Thomas Ochman, Head Coach, Craft Academy, Gothenburg, Sweden **
   
-> "Managing an agile project through Agile Ventures turned out to be the perfect preparation for running project development with a team of developers in a startup.  Over the course of 18 months I was working with Heroku and Github on a daily basis, reviewing and merging code from developers from around the world.
+> "Managing an agile project through AgileVentures turned out to be the perfect preparation for running project development with a team of developers in a startup.  Over the course of 18 months I was working with Heroku and Github on a daily basis, reviewing and merging code from developers from around the world.
 >
 > I was practising use of exactly the same tools deployed by startups such a continuous integration, code reviews and pair programming.  I was also settling disputes between project members, negotiating with non-technical customers, debating the relative merits of different technical decisions and massively expanding my horizons in terms of technology and project management perspectives.
 >
-> If you're already working in a company using agile methods then Agile Ventures is perhaps simply about putting some time towards great charitable causes; but if you're looking for work or working in a company that's hesitant about using agile methods, then I recommend you spend all your free time in an agile, open-source, charitable project on Agile Ventures.  You'll grow, secure a job, or change the development practices of your company for the better and perhaps more importantly you'll help change the world."  **-- Sam Joseph, Chair of the Board of Trustees, AgileVentures, London** 
+> If you're already working in a company using agile methods then AgileVentures is perhaps simply about putting some time towards great charitable causes; but if you're looking for work or working in a company that's hesitant about using agile methods, then I recommend you spend all your free time in an agile, open-source, charitable project on AgileVentures.  You'll grow, secure a job, or change the development practices of your company for the better and perhaps more importantly you'll help change the world."  **-- Sam Joseph, former CEO, AgileVentures, London** 
