@@ -6,6 +6,6 @@
 
 **Start your own project?**
 
-See [Starting Your Own Project](https://github.com/AgileVentures/AgileVentures/blob/master/STARTING_A_NEW_PROJECT.md)
+See [Starting Your Own Project](/starting-a-new-project)
 
 That is it! Jump in and let the world discover your ideas!
