@@ -26,17 +26,7 @@ Here are how some members describe how AgileVentures helped them land developer 
 
 > Learning: We developers are knowledge workers, and knowledge is never static, especially in the technical domain. I love the fact that, as a professional, I am expected to have dabbled in a little bit of everything. There's always new trends and new tools, and even if we don't adopt them directly, we need to be aware of them and understand why they are suddenly popular. Side projects and open-source work are a good way to stay abreast of such things.
 
-> "Cry in the dojo, laugh on the battlefield" is a famous martial arts maxim, and while the environment at Agile Ventures is too friendly and congenial to induce tears, I think the concept applies. As an organization, Agile Ventures is dedicated to pursuing a higher level of software craftsmanship. New-comers and veterans alike are welcome, as there are challenges available for all skill levels." **-- Jon Mohrbacher, QA Engineer, Namely Inc, New York.**
-
-> "I was an active member of Agile Ventures during the spring/summer of 2014. It was a great experience! After a background in waterfall development, learning the agile method including daily scrums, bi-weekly sprints, planning sessions, pair programming, sprint retrospectives, etc were invaluable. You get to see how a modern development team functions, SaaS best practices and code reviews in Git.
->
-> Once you start work, you'll find yourself using these very same best practices on the job because that is what you're used to! You'll want to use a Git workflow, hold daily scrums with your fellow developers and perform code reviews.
->
-> Agile Ventures is a supportive open-source software community of developers practicing core 'agile development' principles that help prepare you to find work and perform better on the job!"  **-- E. Vivian, San Francisco**
-
-> "I started with AgileVentures during its infancy, when the community chatted over Skype for daily pair programming and weekly scrum meetings. At the time, my collaborators and I were all alums of the Berkeley SaaS course offered by edx.org.  Using the knowledge gained from that course, we tackled a project that had an actual client with real requirements. Over the few months that I was involved, I promoted pair programming to all Rails developers, both from the course as well as through the community. Pair programming honestly helps developers grow. For my part, I also found out that I really enjoy BDD and refactoring. 
->
-> The core values of AgileVentures to me has always been pair programming and to be a welcoming community to any developer, from completely new to seasoned.  I continually recommend it as a great community for beginning developers looking to expand their portfolios and gain real experience in an agile atmosphere." **-- Risa B, Extraordinary Rails Support Lead, Ninefold, San Francisco**
+> "Cry in the dojo, laugh on the battlefield" is a famous martial arts maxim, and while the environment at Agile Ventures is too friendly and congenial to induce tears, I think the concept applies. As an organization, AgileVentures is dedicated to pursuing a higher level of software craftsmanship. New-comers and veterans alike are welcome, as there are challenges available for all skill levels." **-- Jon Mohrbacher, QA Engineer, Namely Inc, New York.**
 
 > "AgileVentures has an open and friendly community of developers passionate about their work. I was fortunate to have come across them, and I was able to immerse myself in the community. Participating in the open source projects and opportunities that cropped up from time to time taught me invaluable skills such as remote collaboration, working with version control, the importance of software practices and agile methodologies. Confucius once said "I hear and I forget. I see and I remember. I do and I understand.". AgileVentures gave me the chance to "do", and along with help from the community, rapidly accelerated my growth as a developer. Without AgileVentures, I would not be standing where I am today." **-- Bryan Yap, AgileVenturer & Full Stack Developer at Alliants, United Kingdom**
 
@@ -46,9 +36,20 @@ Here are how some members describe how AgileVentures helped them land developer 
 > 
 > My involvement in AgileVentures has led to many positive effects in my professional life. Nowadays, I work full time as a Ruby developer and do consultancy work for clients all over the world. I continue to work remotely and use all of the collaborative techniques that I have learned and practiced in AgileVentures, on a daily basis. 
 >
-> I continue to be committed to the development of the AgileVentures community and look forward to all future pair programming sessions and every scrum." **-- Thomas Ochman, Head Coach, Craft Academy, Gothenburg, Sweden **
+> I continue to be committed to the development of the AgileVentures community and look forward to all future pair programming sessions and every scrum."  **-- Thomas Ochman, Head Coach, Craft Academy, Gothenburg, Sweden** 
+
+> "I was an active member of AgileVentures during the spring/summer of 2014. It was a great experience! After a background in waterfall development, learning the agile method including daily scrums, bi-weekly sprints, planning sessions, pair programming, sprint retrospectives, etc were invaluable. You get to see how a modern development team functions, SaaS best practices and code reviews in Git.
+>
+> Once you start work, you'll find yourself using these very same best practices on the job because that is what you're used to! You'll want to use a Git workflow, hold daily scrums with your fellow developers and perform code reviews.
+>
+> Agile Ventures is a supportive open-source software community of developers practicing core 'agile development' principles that help prepare you to find work and perform better on the job!"  **-- E. Vivian, San Francisco**
+
+> "I started with AgileVentures during its infancy, when the community chatted over Skype for daily pair programming and weekly scrum meetings. At the time, my collaborators and I were all alums of the Berkeley SaaS course offered by edx.org.  Using the knowledge gained from that course, we tackled a project that had an actual client with real requirements. Over the few months that I was involved, I promoted pair programming to all Rails developers, both from the course as well as through the community. Pair programming honestly helps developers grow. For my part, I also found out that I really enjoy BDD and refactoring. 
+>
+> The core values of AgileVentures to me has always been pair programming and to be a welcoming community to any developer, from completely new to seasoned.  I continually recommend it as a great community for beginning developers looking to expand their portfolios and gain real experience in an agile atmosphere." **-- Risa B, Extraordinary Rails Support Lead, Ninefold, San Francisco**
+
   
-> "Managing an agile project through AgileVentures turned out to be the perfect preparation for running project development with a team of developers in a startup.  Over the course of 18 months I was working with Heroku and Github on a daily basis, reviewing and merging code from developers from around the world.
+> "Managing agile projects through AgileVentures turned out to be the perfect preparation for running project development with a team of developers in a startup.  Over the course of 18 months I was working with Heroku and Github on a daily basis, reviewing and merging code from developers from around the world.
 >
 > I was practising use of exactly the same tools deployed by startups such a continuous integration, code reviews and pair programming.  I was also settling disputes between project members, negotiating with non-technical customers, debating the relative merits of different technical decisions and massively expanding my horizons in terms of technology and project management perspectives.
 >
