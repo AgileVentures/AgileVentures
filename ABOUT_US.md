@@ -11,11 +11,11 @@ We have meetings and pair programming sessions every day with participants from 
 ### Crowdsourced Learning with AgileVentures
 _July 9th, 2021_
 
-**The Community Sourced Traing Program Work The Web - Summer Camp 2021 is under way!**
+**The Community Sourced Training Program Work The Web - Summer Camp 2021 is under way!**
 
 Our training program Work The Web kicked off with the first session on Tuesday, June 6th. During the first week of sessions,  we covered some pretty theory-heavy topics related to the very foundations of the web and web-based applications, and we are happy to see a lot of engagement from the community. 
 
-We stand stand ready to move on to some more practical parts of the course that will involve planning and building a small system in NodeJS and ReactJS. Along the way, we will look into the basics of Agile methodologies for planning and executing projects and some sound software engineering practices like pair programming, making use of version control, and writing automated tests. 
+We stand ready to move on to some more practical parts of the course that will involve planning and building a small system in NodeJS and ReactJS. Along the way, we will look into the basics of Agile methodologies for planning and executing projects and some sound software engineering practices like pair programming, making use of version control, and writing automated tests. 
 
 We meet up several times a week - Tuesdays and Thursdays for instructor-led theory and practice sessions, and Saturday and Sunday for support sessions and mob-programming workshops. See our events calendar for details. 
 
