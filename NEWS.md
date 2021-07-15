@@ -31,7 +31,7 @@ Over the recent years, live streaming has become more and more mainstream, and c
 
 We have a vision of an AgileVentures Team on Twitch.tv where our members and Community Organizers can organize co-working and co-study groups. The number of co-study/co-working streamers has increased dramatically over the last few months and co-working is likely to become a very popular niche on Twitch.
 
-The first step in going live on Twitch is happening as you are reading this. You can find our [community channel](https://www.twitch.tv/agileventures) at Twitch and we have two of our members stream live coding on regular basis. 
+The first step in going live on Twitch is happening as you are reading this. You can find our [community channel](https://www.twitch.tv/agileventures) at Twitch and we have two of our members stream live coding on a regular basis. 
 
 * [Arc_Anya](https://www.twitch.tv/arc_anya) streams co-working sessions on most weekdays and is part of our community sponsorship
 * [Verena](https://twitch.tv/novas1r1) is a programmer with focus on mobile application development using Flutter and is part of our community sponsorship
@@ -58,7 +58,7 @@ Together, we'll learn about Agile Methodologies, Software as a Service, Back-end
 * **Delivered by a Coaching Team** of 1 Head Coach and 2 Assistant Coaches
 * **Instructor-led training sessions** (1.5 hours) 2 times per week Tuesday and Thursday
 * **Instructor-led support sessions** (2 hours) 1 per week on weekends
-* **Comprehensive course materials** delivered digitally through Craft Academy Learning Management Plattform
+* **Comprehensive course materials** delivered digitally through Craft Academy Learning Management Platform
 * **Individual progress assessment** by 2 Training Exams and a Final Exam
 * **Team-based Capstone Project** with planning, implementation and delivery.
 * **Certificates** issued by [Craft Academy](https://www.craftacademy.se/english/) and Agile Ventures
@@ -82,5 +82,5 @@ Bryan Yap, Chair of the Board of Trustees of AgileVentures, states: "The landsca
 
 Thomas is a long time volunteer with Agileventures and one of the initial forces behind various initiatives of the charity. He joined the initial group of learners that AgileVentures former Chief Executive Samuel Joseph formed, to work on charity projects and develop the community of people around the world that shared commitment to Open Source Software.
  
-Thomas will assume his new role immidietly. You can reach him at thomas[at]agileventures.org or on our Slack
+Thomas will assume his new role immediately. You can reach him at thomas[at]agileventures.org or on our Slack
 
