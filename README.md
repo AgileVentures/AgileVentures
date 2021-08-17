@@ -8,5 +8,3 @@ For discussion of all those things that are Agile Ventures in general rather tha
  * [Running a Standup](RUNNING_A_STANDUP.md)
  * [Participating in Asynchronous Voting](ASYNC_VOTING.md)
  * Participating in a Standup (coming soon)
-
-Check out https://waffle.io/AgileVentures/AgileVentures
