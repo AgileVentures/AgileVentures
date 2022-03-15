@@ -9,17 +9,26 @@ We have meetings and pair programming sessions every day with participants from 
 ## Community news
 
 ### Crowdsourced Learning with AgileVentures
-_July 9th, 2021_
+_March 15th 2022_
 
-**The Community Sourced Training Program Work The Web - Summer Camp 2021 is under way!**
+**The Community Sourced Training Program Work The Web Returns This Spring**
 
-Our training program Work The Web kicked off with the first session on Tuesday, June 6th. During the first week of sessions,  we covered some pretty theory-heavy topics related to the very foundations of the web and web-based applications, and we are happy to see a lot of engagement from the community. 
+Our training program Work The Web, that ran for the first time during 2021, was a great success, and we are ready for more!
 
-We stand ready to move on to some more practical parts of the course that will involve planning and building a small system in NodeJS and ReactJS. Along the way, we will look into the basics of Agile methodologies for planning and executing projects and some sound software engineering practices like pair programming, making use of version control, and writing automated tests. 
+The curriculum of Work The Web is based on professional training courses delivered pro-bono by trainers from the IT industry and will cover Agile Methodologies, Software as a Service, Back-end development (NodeJS and Ruby on Rails), and Front-end application development (ReactJS). We will also cover testing and best practices.
 
-We meet up several times a week - Tuesdays and Thursdays for instructor-led theory and practice sessions, and Saturday and Sunday for support sessions and mob-programming workshops. See our events calendar for details. 
+* **Delivered by a Professional Coaching Team** 
+* **Instructor-led training sessions** 2 times per week
+* **Instructor-led support sessions** 2 per week on weekends
+* **Comprehensive course materials** delivered through an online Learning Management Platform
+* **Individual progress assessment** by 2 Training Exams and a Final Exam
+* **Team-based Capstone Project** with planning, implementation and delivery
+* **Certificates** issued by [Craft Academy](https://www.craftacademy.se/english/) and Agile Ventures
+* Personalized **Letter of Recommendation** from the Coaching Team issued at graduation
 
-If you want to audit the course, please join the #work_the_web_2021 channel on Slack. Not a member? <a href="https://www.agileventures.org/users/sign_up">Sign up</a> and gain access for free   
+**If you feel that this is something for you, or if you know of an individual that might benefit from this program - make sure to submit an application to **applications[@]agileventures.org*** If you want to know more about the course, please join the #work_the_web_2021 channel on Slack. Not a member? <a href="https://www.agileventures.org/users/sign_up">Sign up</a> and gain access for free. 
+
+**Start Date will be announced on Slack.**
 
 
 [More news...](/news)
