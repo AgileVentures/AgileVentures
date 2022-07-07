@@ -21,6 +21,6 @@ The tech industry has a huge effect on our lives, from how we talk to each other
 
 
 
-[APPLY Now](https://form.jotform.com/213501220114029) or [read more](https://www.craftacademy.se/english/curriculum/). Don't forget to quote the discount code **AGILE-CAMP-2021** to get a special tuition price of <span>&#8364;</span>7.960 - 20% discount. 
+[APPLY Now](https://form.jotform.com/213501220114029) or [read more](https://www.craftacademy.se/english/curriculum/). Don't forget to quote the discount code **AGILE-CAMP-2022** to get a special tuition price of <span>&#8364;</span>7.960 - 20% discount. 
 
 
