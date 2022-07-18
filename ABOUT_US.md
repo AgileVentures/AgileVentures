@@ -16,7 +16,9 @@ Our mission is to make software development more accessible to whoever want to l
 
 Yes, that is the longest course title ever, but the content of this cCommunity Course is focused on short and concise overview of JavaScript - one of the cornerstones of the technologies that power the web. 
 
-### E2E Testing With CypressIO - From Almost Zero To Hero(ish) Level
+### AgileVentures Edge: E2E Testing With CypressIO - From Almost Zero To Hero(ish) Level 
+
+
 
 In this course, we will learn about CypressIO, a modern end-to-end testing solution, that will enhance your flow of creating robust and well designed applications. CypressIO is a cutting-edge testing framework that makes testing JavaScript applications more frictionless than ever before. It has, since its release as a public beta in 2017, become a de-facto standard tool for writing automated tests for any application that is run in a browser.
 
