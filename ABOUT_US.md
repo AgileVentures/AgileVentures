@@ -8,10 +8,14 @@ We have meetings and pair programming sessions every day with participants from 
 
 ## Community news
 
-### Crowdsourced Learning with AgileVentures
-_March 15th 2022_
+## New Community Courses
 
-**The Community Sourced Training Program Work The Web Returns Spring 2022**
+Our mission is to make software development more accessible to whoever want to learn and work toward high and ambitios goals.  
+
+### Crowdsourced Learning with AgileVentures
+_June 15th 2022_
+
+**The Community Sourced Training Program Work The Web Returns Fall/Winter 2022**
 
 Our training program Work The Web, that ran for the first time during 2021, was a great success, and we are ready for more!
 
