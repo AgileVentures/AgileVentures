@@ -9,7 +9,7 @@ You can take part in most of AgileVentures activities without paying a membershi
 - Project logistics advice and support
 - Ability to hold an official position with Agile Ventures
 - Voting rights in Agile Ventures general meetings help decide AV Charity Policy and direction
-- Access to **AgileVentures Edge** events, workshops and training sessions (starting in fall of 2021).
+- Access to **AgileVentures Edge** events, workshops and training sessions.
 
 Associate Membership fee is currently &#xa3;5 a month and is charged on a monthly basis. You can cancel your membership at any time. [Sign up to be an AgileVentures Associate](http://www.agileventures.org/subscriptions/new?plan=associate)
 
