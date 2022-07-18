@@ -6,13 +6,24 @@ We follow the Agile approach to software development, and practice social coding
 
 We have meetings and pair programming sessions every day with participants from all time zones and on all levels. **Be on a lookout in Slack and feel free to join to contribute, or just say hello and hear about what's going on :-)**
 
-## Community news
+# Community news
 
 ## New Community Courses
 
-Our mission is to make software development more accessible to whoever want to learn and work toward high and ambitios goals.  
+Our mission is to make software development more accessible to whoever want to learn and work toward high and ambitios goals. Apart from another run of the highly appreciated WorkTheWeb Taining Program, we are proud to announce 2 new Community Courses that will help you level up as a developer.
 
-### Crowdsourced Learning with AgileVentures
+### Just Enough JavaScript To get Started In Web Development
+
+Yes, that is the longest course title ever, but the content of this cCommunity Course is focused on short and concise overview of JavaScript - obe of the cornerstones of the technologies that power the web. 
+
+### E2E Testing With CypressIO - From Almost Zero To Hero(ish) Level
+
+Cypress is a cutting-edge framework that makes writing automated tests for front-end applications mostly frictionless. This course is a rapid introduction to Cypress.io, covering basic and intermediate techniques for writing end-to-end test cases. Throughout this course, you’ll learn how to write test cases that simulate different interactions between your end-users and your application. 
+
+This course is for anyone who wants to learn how to work with Cypress and properly use this new tool to incorporate automated testing in their development flow.
+
+
+## Crowdsourced Learning with AgileVentures
 _June 15th 2022_
 
 **The Community Sourced Training Program Work The Web Returns Fall/Winter 2022**
