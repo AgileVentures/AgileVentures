@@ -14,14 +14,15 @@ Our mission is to make software development more accessible to whoever want to l
 
 ### Just Enough JavaScript To get Started In Web Development
 
-Yes, that is the longest course title ever, but the content of this cCommunity Course is focused on short and concise overview of JavaScript - obe of the cornerstones of the technologies that power the web. 
+Yes, that is the longest course title ever, but the content of this cCommunity Course is focused on short and concise overview of JavaScript - one of the cornerstones of the technologies that power the web. 
 
 ### E2E Testing With CypressIO - From Almost Zero To Hero(ish) Level
 
-Cypress is a cutting-edge framework that makes writing automated tests for front-end applications mostly frictionless. This course is a rapid introduction to Cypress.io, covering basic and intermediate techniques for writing end-to-end test cases. Throughout this course, you’ll learn how to write test cases that simulate different interactions between your end-users and your application. 
+Cypress is a cutting-edge framework that makes writing automated tests for front-end applications mostly frictionless. This course is a rapid introduction to Cypress.io, covering basic and intermediate techniques for writing end-to-end test cases. Throughout this course, you'll learn how to write test cases that simulate different interactions between your end-users and your application. 
 
 This course is for anyone who wants to learn how to work with Cypress and properly use this new tool to incorporate automated testing in their development flow.
 
+**These courses are for reserved for Community Members only. Start Date will be announced on Slack.**
 
 ## Crowdsourced Learning with AgileVentures
 _June 15th 2022_
