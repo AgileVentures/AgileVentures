@@ -134,7 +134,7 @@ font-size: 14px;
 padding: 8px;
 "
 >
-			<a href="/associate">Access to <strong>AgileVentures Edge</strong> Training and Mob sessions (Fall 2021).</a>
+			<a href="/associate">Access to <strong>AgileVentures Edge</strong> Training and Mob sessions.</a>
 </td>
 <td
 style="
