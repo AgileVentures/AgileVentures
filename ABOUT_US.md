@@ -18,9 +18,9 @@ Yes, that is the longest course title ever, but the content of this cCommunity C
 
 ### E2E Testing With CypressIO - From Almost Zero To Hero(ish) Level
 
-Cypress is a cutting-edge framework that makes writing automated tests for front-end applications mostly frictionless. This course is a rapid introduction to Cypress.io, covering basic and intermediate techniques for writing end-to-end test cases. Throughout this course, you'll learn how to write test cases that simulate different interactions between your end-users and your application. 
+In this course, we will learn about CypressIO, a modern end-to-end testing solution, that will enhance your flow of creating robust and well designed applications. CypressIO is a cutting-edge testing framework that makes testing JavaScript applications more frictionless than ever before. It has, since its release as a public beta in 2017, become a de-facto standard tool for writing automated tests for any application that is run in a browser.
 
-This course is for anyone who wants to learn how to work with Cypress and properly use this new tool to incorporate automated testing in their development flow.
+We will cover all the necessary basics that will provide you with a solid foundation to start writing comprehensive testing suites for your applications. But we will also move a bit beyond the standards and add more advanced techniques to your toolbelt. In today's complex world, most front-end applications need to communicate with the outside world to get data. In order to be able to write meaningful tests for these kinds of applications, we will explore some powerful techniques for networking, authentication, and more.
 
 **These courses are for reserved for Community Members only. Start Date will be announced on Slack.**
 
