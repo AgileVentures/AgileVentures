@@ -8,3 +8,10 @@ For discussion of all those things that are Agile Ventures in general rather tha
  * [Running a Standup](RUNNING_A_STANDUP.md)
  * [Participating in Asynchronous Voting](ASYNC_VOTING.md)
  * Participating in a Standup (coming soon)
+
+
+## Updating the agileventures.org website
+
+The agileventures.org website fetches content from this repository. 
+
+Edit any of the pages in the root directory of this repo. Log in to the console on the production server and execute the job by running `GithubStaticPagesJob.run` 
