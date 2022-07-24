@@ -1,4 +1,26 @@
 ## Community news
+## Crowdsourced Learning with AgileVentures
+_June 15th 2022_
+
+**The Community Sourced Training Program Work The Web Returns Fall/Winter 2022**
+
+Our training program Work The Web, that ran for the first time during 2021, was a great success, and we are ready for more!
+
+The curriculum of Work The Web is based on professional training courses delivered pro-bono by trainers from the IT industry and will cover Agile Methodologies, Software as a Service, Back-end development (NodeJS and Ruby on Rails), and Front-end application development (ReactJS). We will also cover testing and best practices.
+
+* **Delivered by a Professional Coaching Team** 
+* **Instructor-led training sessions** 2 times per week
+* **Instructor-led support sessions** 2 per week on weekends
+* **Comprehensive course materials** delivered through an online Learning Management Platform
+* **Individual progress assessment** by 2 Training Exams and a Final Exam
+* **Team-based Capstone Project** with planning, implementation and delivery
+* **Certificates** issued by [Craft Academy](https://www.craftacademy.se/english/) and Agile Ventures
+* Personalized **Letter of Recommendation** from the Coaching Team issued at graduation
+
+**If you feel that this is something for you, or if you know of an individual that might benefit from this program - make sure to submit an application to **applications[@]agileventures.org*** If you want to know more about the course, please join the #work_the_web channel on Slack. Not an AgileVentures member? <a href="https://www.agileventures.org/users/sign_up">Sign up</a> and gain access for free. 
+
+**Start Date will be announced on Slack.**
+
 
 ### Crowdsourced Learning with AgileVentures
 _July 9th, 2021_
@@ -48,7 +70,7 @@ The first step in going live on Twitch is happening as you are reading this. You
 
 * [Arc_Anya](https://www.twitch.tv/arc_anya) streams co-working sessions on most weekdays and is part of our community sponsorship
 * [Verena](https://twitch.tv/novas1r1) is a programmer with focus on mobile application development using Flutter and is part of our community sponsorship
-* [Thomas Ochman](https://www.twitch.tv/thomas_ochman) is streaming AV Community Follow-ups and Q&A sessions and quite a lot of his own personal coding. 
+* [Agile Ventures Nomads Of Code](https://www.twitch.tv/nomads_of_code) is streaming AV Community Follow-ups and Q&A sessions and quite a lot of his own personal coding. 
 * [AgileVentures](https://www.twitch.tv/agileventures) is the channel where we will stream more community events in the upcoming months.
 
 **Check out these streamers and become a part of the movement of Live, Social Coding. If you are considering setting up your own channel on Twitch, please reach out to us and we are more than happy to help!**
