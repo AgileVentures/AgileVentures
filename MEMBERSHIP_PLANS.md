@@ -40,7 +40,8 @@ padding: 8px;
 >Associate Membership</a
 >
 </div>
-<div style="text-align: center;">(&#xa3; 5/month)</div>
+<div style="text-align: center;">(currently unavailable)</div>
+<!-- <div style="text-align: center;">(&#xa3; 5/month)</div> -->
 </th>
 </tr>
 <tr>
