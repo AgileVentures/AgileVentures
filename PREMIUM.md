@@ -1,3 +1,4 @@
+<h2>Premium Memberships are unavailable at this time.</h2>
 <div>Do you want to:</div>
 <div><br></div>
 <div>
