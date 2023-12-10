@@ -26,7 +26,7 @@ If you are interested in hosting a book club, starting a project, or facilitatin
 	<tr id="first-row">
 	  <td><a href="http://agileventures.org/projects/websiteone">WebsiteOne</a></td>
 	  <td>Community Website</td>
-	  <td>Thomas Ochman (@tochman)</td>
+	  <td>Matt Lindsey (@mlindsey)</td>
 	  <td>Ruby on Rails, RSpec, Cucumber</td>
 	</tr>
 	<tr>
